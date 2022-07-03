@@ -43,9 +43,7 @@
 * [Thrid Module 1: Decolonization, Complexity, and unified thinking w/Durgadas](https://www.youtube.com/watch?v=-ouQ09hvLbo&list=PLusWL9gf0FIQkGz1kOK76gL8oapkppEZ9&index=3)
 * [Thrid Module 0: Introduction and contextualization - Collective facilitation](https://www.youtube.com/watch?v=pbQmR06yfkc&list=PLusWL9gf0FIQkGz1kOK76gL8oapkppEZ9&index=4)
 
-## Gravity Working Group
-
-* [Gravity Working Group - Playlist](https://www.youtube.com/playlist?list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9)
+## [Gravity Working Group](https://www.youtube.com/playlist?list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9)
 * [W1 Conflict Management WG: Mediator training and a lot of ideas!](https://www.youtube.com/watch?v=b9XOIjXPl7M&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=73)
 * [W2 Gravity WG: How to aproach Gravity, internal management layer](https://www.youtube.com/watch?v=6riDDdBGCKg&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=72)
 * [W3 Gravity WG: Typeform, zenhub and funny moments :p](https://www.youtube.com/watch?v=ySg7LPsl6Zk&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=71)
