@@ -2,19 +2,19 @@
 
 - [Antifragile](#antifragile)
 - [Organization](#organization)
-- [Leadership](#leadership)
-- [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-organization-dao)
+  - [Leadership](#leadership)
+  - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-organization-dao)
 - [Development](#development)
-- [Social Awareness](#social-awareness)
 - [Conflict Management](#conflict-management)
-- [Mediation](#mediation)
-- [Alternative Dispute Resolution](#alternative-dispute-resolution)
-- [Conflict Transformation](#conflict-transformation)
-- [Negotiation](#negotiation)
-- [Restorative Justice](#restorative-justice)
+  - [Mediation](#mediation)
+  - [Alternative Dispute Resolution](#alternative-dispute-resolution)
+  - [Conflict Transformation](#conflict-transformation)
+  - [Negotiation](#negotiation)
+  - [Restorative Justice](#restorative-justice)
 - [Colonization](#colonization)
 - [Divided Mind](#divided-mind)
-- [Emotional Managment](#emotional-managment)
+- [Emotional Intelligence](#emotional-intelligence)
+  - [Social Awareness](#social-awareness)
 - [Complexity \ Integral](#complexity--integral)
 - [Nonviolent Communication](#nonviolent-communication)
 - [Punished by Rewards](#punished-by-rewards)
@@ -61,9 +61,10 @@
 - [Working Out Loud: The making of a movement - John Stepper - TEDxNavesink](https://www.youtube.com/watch?v=XpjNl3Z10uc) 
   > Powered by peer support circles spreading the practice across companies and countries, Working Out Loud is now a growing movement. In this talk, John Stepper describes how you can start, so you can unlock a better career and life. 
 - [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
-  > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20 (only 6 minutes and 40 secon...
+  > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
+- [Shaping CSPB’s Strategy](https://vimeo.com/693378067/0187842d67) by Carlos Salinas on Vimeo
 
-## Leadership
+### Leadership
 
 - [Sharma: The 8 Forms of Wealth](https://www.success.com/sharma-the-8-forms-of-wealth) 
   > In my mind, wealth and leadership aren’t just about making money. There are actually eight elements that you want to make sure are at world-class levels before you call yourself rich (and truly successful).
@@ -85,7 +86,7 @@
   > 10. Never Start Without Clear Purpose
   - [Why use Liberating Structures?](https://youtube.com/playlist?list=PLBlnEMjx5Jb0oCHih4T-h3KKoOKQZtr2A) 
 
-## Decentralized Autonomous Organization (DAO)
+### Decentralized Autonomous Organization (DAO)
 - [The Ultimate DAO Report](https://newsletter.banklesshq.com/p/the-ultimate-dao-report?s=r) 
   > Explore the new frontier of DAOs in this joint report from Gitcoin and Bankless
 - [Common Denominators of Successful DAOs](https://puzzled-pamphlet-790.notion.site/Common-Denominators-of-Successful-DAOs-27e963d609ed457396b42622b0b0aba7) 
@@ -94,8 +95,23 @@
   > Summary This proposal introduces a Dispute Resolution Process to systematically prevent and resolve any tensions and conflicts. The process consists of escalating steps from Conciliation to Mediation to an internal VitaDAO Arbitral Tribunal and, finally, to online Third-Party Arbitration with enforceability of awards through VitaDAO. It is open to all members of VitaDAO to resolve disputes, including violations of VitaDAO’s Code of Conduct. In the event that a matter may be of a criminal nature...
 - [DAO Rewards Systems Assemblage](https://www.youtube.com/watch?v=wndDaI-eNgc) 
   > 🌈Join us for a full day of talks & discussions on DAO Rewards Systems!Today, more and more blockchain projects are relying on decentralized governance as th...
+- [DAOHealthSurvey_v1.0.xlsx](https://docs.google.com/spreadsheets/d/1utle196nTbz6ZmZeVROvh9FXktAldl9b/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+- [MIP41c5-SP3: Facilitator Offboarding (MKT-001)](https://forum.makerdao.com/t/mip41c5-sp3-facilitator-offboarding-mkt-001/12058/2)
+  > I haven’t seen any content that stands out off the top of my head right now, or that made me take time out of my day to watch, which I believe would be the goal of a content team. That said, I’m open to rebuttal if there are explanations for the lack of performance here and a plan to improve going forward. Otherwise this makes sense to me.
+- [Bankless DAO open Ombuds Office Position: Looking for candidates](https://forum.bankless.community/t/bankless-dao-open-ombuds-office-position-looking-for-candidates/2986)
+  > Author: @Katarina#4518 SUMMARY Election of a new Bankless DAO Ombuds member, who will substitute Mgoesdistance, who had to leave because of other commitments outside of the DAO. BACKGROUND The Ombuds Office is an informal, impartial, neutral, and confidential place for community members to address concerns, abuse, dysfunctions, shortfalls, delays, and violations that may arise while participating in the DAO. At the request of any DAO member, the Ombuds Office can hear the involved members,...
+- [The Newsletter of Decentralized Work - talentDAO](https://talentdao.substack.com)
+  > A newsletter about DAOs, Web3, and the future of work. Click to read The Newsletter of Decentralized Work, by talentDAO, a Substack publication with hundreds of readers.
+- [GitHub - talentDAO/DAOHealth](https://github.com/talentDAO/DAOHealthSurvey)
+- [Govbase - Airtable](https://airtable.com/shrgnUrj0dqzZDsOd/tblqYoJJKkPnteCbP/viwBlVHDwRd8iADOc)
+  > An open, crowdsourced database of tools and projects in online governance. The data is organized by tables (tabs) containing specific data sets and views (sidebar) for curated views of the data.
+- [Govbase website](https://govbase.metagov.org)
+- [Metagovernance Project](https://metagov.org)
+- [Clarity 2.0 â The DAO Contribution Platform](https://www.clarity.so/product/clarity-2-0)
+  > We've streamlined the overall product design so you can bring your entire contributor community into Clarity.
+- [Gnosis Chain Explorer](https://blockscout.com/xdai/mainnet)
 
-## Development
+### Development
 - [Techno-reflexivity: A creative methodology for software developer un-bias](https://kelsienabben.substack.com/p/techno-reflexivity-cf1331278bdc)
 - [How TikTok's design helps turn ordinary people into villains - CBC Radio](https://www.cbc.ca/radio/spark/how-tiktok-s-design-helps-turn-ordinary-people-into-villains-1.6368636) 
   > From Reddit to TikTok, a look at how the design of online spaces shapes how we behave, interact and learn from one another.
@@ -105,28 +121,13 @@
   > Discord's business model is strange it hardly makes any money, it doesn't sell a fee or sell user data or so it seemed.. Discord is an evil business and this video will explain everything bad about discord and why discord is bad. Discord is trash because it is damaging society by the way it makes money.
 - [The Disturbing Truth about Discord](https://www.youtube.com/watch?v=M5X6iLHzqAI) 
   > In this documentary I outline the dark sides of Discord, from it's problematic business model, it's controversies, stories about users being doxed
-
-## Social Awareness 
-- [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing) 
-  > A Zine by Leah jo and Fizz Perkal We made this zine free and accessible in two versions: one to read online, and the other to print in zine format. READ ONLINE: queer-attachment-toolkitDownload PRI…
-- [Anti-oppression and activism health and action w| Morgan Vanderpool, LICSW](https://www.youtube.com/watch?v=_FLTudKDjoA) 
-  > This video is about My Movie 42
-- [Body-Based Intersectional Counter Transference - Morgan Vanderpool](https://www.youtube.com/watch?v=lS-B7XwHt64) 
-- [Consent as an Awareness Practice](https://www.youtube.com/watch?v=gPM8ZYmZMLo) 
-  > Recording of workshop from 1/26/22.We discuss what consent is and how we can cultivate a broader awareness of consent in ourselves, our relationships, and ou...
-- [Morganic Vanderpool - WELCOME VIDEOS](https://www.morganvanderpool.com/welcome-videos) 
-  > body-based building blocks and understandings that will help us build a practice of nervous system restoration. This is the baseline information that is necessary to engage healthfully in individual and collective anti-oppressive practices.
-- [My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies: Resmaa Menakem: Trade Paperback: 9781942094470: Powell's Books](https://www.powells.com/book/my-grandmothers-hands-9781942094470) 
-- [The Power of Diverse Thinking - Matthew Syed](https://www.youtube.com/watch?v=E5UHfcwal0M) 
-  > Success is no longer about individual talent, knowledge or skill. Success is about freeing ourselves from the blind spots that beset us all, and pooling our ...
-- [How Mengzi came up with something better than the Golden Rule - Aeon Ideas](https://aeon.co/ideas/how-mengzi-came-up-with-something-better-than-the-golden-rule) 
-  > The Golden Rule says put yourself in another’s shoes. But what if we do as Mengzi did, and just love them as our own?
+- [How to Design for Color Blindness](https://www.getfeedback.com/resources/ux/how-to-design-for-color-blindness)
+  > The GetFeedback customer experience (CX) platform helps you understand why, so you can take action when it matters most.
 
 ## Conflict Management
 
 - [Jur](https://jur.io/) – Justice. Decentralized
 - [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
-- [Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles)
 - [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
 - [How to solve conflict in a community of equals](https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equals) 
   > This talk provides a practical guide for how to solve interpersonal conflict in communities with a loose structure such as do-ocracy or anarchy
@@ -137,34 +138,48 @@
   > Looking for a new way to look at conflict resolution in 2020? What is conflict, what causes it, and how can it be resolved? This video is all about having th...
 - [Potential in the ebb and the flaw](https://thinkingthursdays.substack.com/p/potential-in-the-ebb-and-the-flaw?s=w) 
   > Conflict is an opportunity and we might even need metrics for it
+- [ConflictManagementQuestionnaireInfo.pdf](https://drive.google.com/file/d/1F_RlybbM-VJNzwSR5kVm9HpSEIt14Hp0/view?usp=drivesdk)
+  > The Conflict Management Formative Questionnaire is designed to measure a student’s proficiency in the three essential components of conflict management, which are:
+  > 1. Understand your natural response to conflict.
+  > 2. Understand the context of the conflict, including the perspectives of all involved.
+  > 3. Apply a conflict management approach that is appropriate to the situation.
+- [estimating-the-costs-of-workplace-conflict.pdf](https://drive.google.com/file/d/1NrYQn9m78oh3MO4vucEyX-CpgPwP3Ush/view?usp=drivesdk)
+  > In particular, it is argued that organisations have tended to place too much emphasis on developing leaders concerned with strategy, while overlooking the importance of encouraging excellence in core management practices such as the management of poor performance, which are incorrectly seen as 'basic' and 'easy to replicate' (see endnote 3).
+- [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://drive.google.com/file/d/1pSDbTy_lWK2IT2tmxA64nbcD1SX66WVf/view?usp=drivesdk)
+- [Conflictology_Vinyamata_2010.pdf](https://drive.google.com/file/d/1-VJKNldCZcQ1Rx4_D4UbqI1287QQHWvl/view?usp=drivesdk)
 
-## Mediation
+
+### Mediation
 
 - [Mediation and Mediator Skills: A Critical Appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
 - [Certify](https://imimediation.org/practitioners/certify/) International Mediation Institute
 - [Mediate2Go Overview](https://www.youtube.com/watch?v=iuD5m5azAvY) 
   > Spend more time resolving conflict with Mediate2Go (https://mediate2go.com).Mediate2Go is intuitive case management software for mediators and conflict resol...
+- [Advanced_mediation_-eng.pdf](https://drive.google.com/file/d/1My1Em0bpF_N6aa-VknU4MVCCsYNiMeXc/view?usp=drivesdk)
 
-## Alternative Dispute Resolution
+### Alternative Dispute Resolution
 
 - [The Future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
 - [BATNA Basics: Boost Your Power at the Bargaining Table](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) Harvard Law
 - [Five Ways to Keep Disputes Out of Court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court )by John R. Allison
 - [Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers](https://web.archive.org/web/20130422035337/www.wbginvestmentclimate.org/advisory-services/upload/15322_MGPEI_Web.pdf)
 - [The Mediation Process and Dispute Resolution](https://www.pon.harvard.edu/daily/mediation/dispute-resolution-how-mediation-unfolds/) Harvard Law
+- [Alternative_Dispute_Resolution_Center_Manual.pdf](https://drive.google.com/file/d/1S4rkWeGmcYaGKph7TCdoHRx34-lp13CM/view?usp=drivesdk)
+  > A few years ago, the International Finance Corporation (IFC), the key player in private sector development in new and emerging markets, started supporting commercial ADR through a number of projects to accelerate this change worldwide. In particular, IFC has partnered with local governments, justice ministries, lawyers’ associations, business membership organizations, international mediation experts, and donors.
+- [Dialnet-Sistemas Alternativos De Resolucion De Conflictos](https://drive.google.com/file/d/1s8mLLpBCU7sJKwKPxlaJcvWSX34fXpvq/view?usp=drivesdk)
 
-## Conflict Transformation
+### Conflict Transformation
 - [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
 - [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
 - [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
 - [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
 
-## Negotiation
+### Negotiation
 - [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
 - [Getting to Yes with Yourself: A Book Talk by William Ury](https://www.youtube.com/watch?v=fghb0-hL5Hw)
 - [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
 
-## Restorative Justice
+### Restorative Justice
 - [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
   > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
 - [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
@@ -188,13 +203,27 @@
 - [My stroke of insight – Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
 - [RSA ANIMATE: The Divided Brain](http://www.youtube.com/watch?v=dFs9WO2B8uI)
 
-## Emotional Managment
+## Emotional Intelligence
 
 - [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
 - [Ho oponopono .. borrar memorias - Dr. Hew Len](https://www.youtube.com/watch?v=OAuWRuU4uzA)
 - [Dealing with Anger Effectively](https://satsang.arshavidya.org/wp-content/uploads/media/hhpsds/pdf/dealing_anger_effectively.pdf)
 - [How Gratitude Helps Your Brain for the Good](https://neurohacker.com/how-gratitude-helps-your-brain-for-the-good) 
   > Knowledge of what the brain is doing during the experience of gratitude provides a window into gratitude’s relationship to mental health and resilience. This is your brain on gratitude.
+
+### Social Awareness 
+- [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing) 
+  > A Zine by Leah jo and Fizz Perkal We made this zine free and accessible in two versions: one to read online, and the other to print in zine format. READ ONLINE: queer-attachment-toolkitDownload PRI…
+- [Anti-oppression and activism health and action w- Morgan Vanderpool, LICSW](https://www.youtube.com/watch?v=_FLTudKDjoA) 
+  > This video is about My Movie 42
+- [Body-Based Intersectional Counter Transference - Morgan Vanderpool](https://www.youtube.com/watch?v=lS-B7XwHt64) 
+- [Morganic Vanderpool - WELCOME VIDEOS](https://www.morganvanderpool.com/welcome-videos) 
+  > body-based building blocks and understandings that will help us build a practice of nervous system restoration. This is the baseline information that is necessary to engage healthfully in individual and collective anti-oppressive practices.
+- [My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies: Resmaa Menakem: Trade Paperback: 9781942094470: Powell's Books](https://www.powells.com/book/my-grandmothers-hands-9781942094470) 
+- [The Power of Diverse Thinking - Matthew Syed](https://www.youtube.com/watch?v=E5UHfcwal0M) 
+  > Success is no longer about individual talent, knowledge or skill. Success is about freeing ourselves from the blind spots that beset us all, and pooling our ...
+- [How Mengzi came up with something better than the Golden Rule - Aeon Ideas](https://aeon.co/ideas/how-mengzi-came-up-with-something-better-than-the-golden-rule) 
+  > The Golden Rule says put yourself in another’s shoes. But what if we do as Mengzi did, and just love them as our own?
 
 ## Complexity \ Integral
 - [Cynefin St David's Day 2019 (3 of 5) - The Cynefin Co](https://www.cognitive-edge.com/cynefin-st-davids-day-2019-3-of-5) 
@@ -210,6 +239,11 @@
 - [Spirals Blog](https://spirals.blog/)
 - [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
 - [The MEMEnomics Group](http://www.memenomics.com/). Uncovering the Values of a Regenerative Future
+- [Dialogue: Decolonizing AI(?): Four Perspectives from 'South'](https://www.eventbrite.com/e/dialogue-decolonizing-ai-four-perspectives-from-south-tickets-183765095347)
+  > How might we rethink AI research paradigms through other knowledge systems, cultural lenses?
+- [Integral Life - Course - Integrating Polarities](https://integrallife.com/integrating-polarities-training)
+- [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
+- [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
 
 ## Nonviolent Communication
 
@@ -230,8 +264,17 @@
 - [NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION](https://www.youtube.com/watch?v=l7TONauJGfc) 
   > Fully transcribed - subbed.K dispozícii sú aj (amatérsky preložené) slovenské titulky :)Just spreading the word on NVC - I transcribed the whole session for ...
 - [Nonviolent Communication - Marshall Rosenberg (audiobook) - Google Drive](https://drive.google.com/drive/folders/1olzC4R0qf04N4Qum_Yz4PUeGOGGPRmap) 
+- [Feelings_Wheel_in_PDF.pdf](https://drive.google.com/file/d/1EC7Ga7HdM-kgNzloq1SH0h1UJqXDDDM4/view?usp=drivesdk)
+usp=drivesdk)
+- [2022 Online NVC Conference](https://nvctraining.com/live-nvc-courses/online-nvc-conference-2022)
+  > We are proudly sponsoring the 2022 Online NVC Conference! Experience the varied perspectives of 9 experienced, engaging trainers Learn skills for listening, speaking, and cooperating with integrity and care Practice skills to communicate better at home, at work, or at school Make connections with ki...
+- [CEG_Feelings-and-Needs-Exercise.pdf](https://drive.google.com/file/d/1_vgMUJqUljgzlR2bg1o7j5RQa0-BxX5O/view?usp=drivesdk)
+- [International Intensive Training (IIT) in the United States: June 2022 | Center for Nonviolent Communication](https://www.cnvc.org/2022-United-States-IIT)
+  > Join us for this residential retreat in Los Angeles, California (June 10-19, 2022) that will help you bring nonviolence and peace into all areas of your life. In this event, you can discover skills that will help you improve the quality of your relationships, deepen your inner peace, and increase your contribution to the world.
+- [Worksheets – BayNVC](https://baynvc.org/free-worksheets)
+  > 1. Think of something you’ve done that you feel regret about. Write down what it is in observations (without judgments).
 
-## Punished by Rewards
+### Punished by Rewards
 
 - [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
 - [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
@@ -290,12 +333,14 @@
   > Aleksandr Solzhenitsyn, reflecting on the Soviet Union’s descent into totalitarian rule in the mid-20th century, and all the things that could have been done to prevent it, wrote the following: “If…if… We didn’t love freedom enough. And even more – we had no awareness of the real situation. . .we hurried to submit. We submitted with pleasure! … We purely and simply deserved everything that
 
 ## Peace
-- [Gene Sharp How to Start a Revolution](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) Amazon [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
+- [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
   > How to Start a Revolution reveals the hidden forces behind the headlines - the strategies passed from the jungles of Burma, to the streets of Iran, the Arab Spring and the looming battle to defend democracy in the West. This is the story of the power of people to change their world, the modern revolution and the man behind it all.
 - [Advice for Peace: Ending Civil War in Colombia](https://www.youtube.com/watch?v=iDJ5JRPo7Ss) 
   > The civil war in Colombia lasted 52 years, taking the lives of at least 220,000 people and displacing up to seven million civilians. In 2012, Colombian Presi...
 - [Peace and Conflict Fundamentals](https://open.spotify.com/show/2K7KJt6A2R3AZ6QEph9bio?si=W3jZrNNKQhaUqXbXJGYANQ&amp;nd=1) 
   > Listen to Peace and Conflict Fundamentals on Spotify.
+- [The Young Peacemaker](https://rw360.org/the-young-peacemaker)
+  > The Young Peacemaker is a curriculum that parents, teachers and youth workers can use to teach children how to prevent and resolve conflict in a constructive and biblically faithful manner. The curriculum emphasizes principles of confession, forgiveness, communication and character development, and uses realistic stories, practical applications, role plays and stimulating activities. This detailed and comprehensive […]
 
 ## Personal Growth
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change
@@ -332,9 +377,7 @@
 - [The War on Sensemaking, Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ) 
   > This is a fundamental question, because without good sensemaking, we cannot even begin to act in the world. It is also a central concern in what many are calling the "meaning crisis", because what is meaningful is connected to what is real.
 - [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) 
-  > This video was created in partnership with Bill Gates and was inspired by his new book “How to Avoid a Climate Disaster.”
-- [Proof of Meditation](https://medium.com/@proof-of-meditation/proof-of-meditation-77c9de937056) 
-  > Proof of Meditation is an app that incentivizes you to meditate and rewards you for your effort.
+  > This video was created in partnership with Bill Gates and was inspired by his new book “How to Avoid a Climate Disaster.”  
 - [You Are Burned Out And Don't Even Know It](https://www.youtube.com/watch?v=jqONINYF17M) 
   > Today Doctor K talks about what is burnout, how does burnout work, where does burnout come from, am I depressed or burntout, how do i know if I'm burnt out, burn out test, burn out symptoms, burn out solutions, how to stop being burnt out. HealthyGamer also talks about what to do about burn out, how to prevent burn out, how to create balance, and more!
 - [Slavoj Žižek + Paul Holdengräber "Voyeurism and digital identity" - International Authors' Stage](https://www.youtube.com/watch?v=HAZiFWZpYds) 
@@ -343,6 +386,14 @@
   > Slavoj Žižek tells Paul Holdengräber why he thinks wisdom is conformist.
   > 
   > Excerpt from a conversation on International Authors' Stage in The Black Diamond
+- [Who We Are - Minds at Work](https://mindsatwork.com/who-we-are)
+  > Minds at Work helps people to close the gap between their good intentions and their actual behaviors. Our work is based on Kegan and Lahey’s breakthrough discovery of the hidden behavioral dynamic called the Immunity to Change.
+  
+### Meditation
+- [Proof of Meditation](https://medium.com/@proof-of-meditation/proof-of-meditation-77c9de937056) 
+  > Proof of Meditation is an app that incentivizes you to meditate and rewards you for your effort.
+- [Welcome! You are invited to join a meeting: Weekly Interpersonal Meditation with the Monastic Academy. ](https://us06web.zoom.us/meeting/register/tZcrdOuuqjwsG9Cx9fsqMmKWZ5Uws_7U3FQ9)
+  > Join us every Friday at 1pm ET to engage in various transformative practices for bringing deep listening, presence, and authenticity into relationship. Using techniques from Circling, Authentic Relating, and other social modalities, you will gain skills for deepening intimacy and nourishment from genuine connection in community. Stephen Torrence, former MAPLE Resident and experienced Circling practitioner, will be leading the sessions and the same zoom link will be utilized each week.
 
 ## Psychology
 - [Females and Autism / Aspergers: A checklist](https://the-art-of-autism.com/females-and-aspergers-a-checklist) 
@@ -367,3 +418,12 @@
   - [Rule Omega + Ethical Corrollary](https://www.youtube.com/watch?v=43wMVPrK0Vc) - Clip from "A Deep Code Conversation With Jordan Greenhall"
 - [Rule Omega: Greenhall, Schmachtenberger, Wheal (clip)](https://www.youtube.com/watch?v=rQA93ulyigg) 
   > Is there one simple hack that would help us make sense of the world and have genuine conversations around new and difficult topics?Jordan Greenhall and Danie...
+
+## Consent
+- [Consent & Communication Deep Dive](https://www.facebook.com/events/409144107568086/409144120901418/?active_tab=about)
+  > In this six-week journey, we will dive into consent as a liberating framework that reconnects us to our core selves and empowers us to move from a place of choice in our lives and relationships. 
+- [School of Consent](https://www.schoolofconsent.org)
+- [Consent as an Awareness Practice](https://www.youtube.com/watch?v=gPM8ZYmZMLo) 
+  > Recording of workshop from 1/26/22.We discuss what consent is and how we can cultivate a broader awareness of consent in ourselves, our relationships, and ou...
+- [Betty Martin – Developer of the Wheel of Consent](https://bettymartin.org)
+  > Sharpen and develop your professional skills: consent, boundaries and assessment protocols.
