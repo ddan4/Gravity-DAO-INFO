@@ -110,11 +110,10 @@ All links about Gravity DAO and related to our work.
 - [Graviton Training Preparation Aragon on Notion](https://aragonorg.notion.site/Training-Planning-Preparation-8868d189bdff49f2a994372b909ec539)
 - [Gravity funding draft-Jan 2022](https://docs.google.com/document/d/1YLvvnuxKpz0mq4DRT0MB4JlGjB6rRdyJiFGzm71hLH0)
 - [Graviton Training 3 Session 2- Draft2](https://docs.google.com/presentation/d/1H9mL-HOa9xU50vhNshBqmef0ZHglK-6MLJ178IbChyY)
-  > GRAVITON TRAINING #3 GRAVITY BRINGS US TOGETHER! Session Two Regis Chapman 1
 - [Gravity Focus Matrix Draft 2.xlsx](https://docs.google.com/spreadsheets/d/1fuNTwL2UfzD6ILHfKYJukbqqdAKQxiHE)
 - [Gravity article q1 editorial phase](https://docs.google.com/document/d/14EQu0zLFYP3rgqqrZL6Cvy-Of4bEuSonwqx3PrTWjyE)
 - [Thoughts On Consent Draft 1](https://docs.google.com/document/d/1xnH5lI4iHESQNXGyaeBd8hGCUGoiuEcD5uZ4-vSWOoU)
-- [Creating_Virtuous_Cycles_Draft1.pptx](https://docs.google.com/presentation/d/1OLAV_DusZnfntxLzQUtuM2kPlJeOL_lh/edit?usp=drivesdk&
+- [Creating_Virtuous_Cycles_Draft1.pptx](https://docs.google.com/presentation/d/1OLAV_DusZnfntxLzQUtuM2kPlJeOL_lh/)
 
 ### Project Management
 - [Trello](https://trello.com/b/F43HeLnJ/gravity)
