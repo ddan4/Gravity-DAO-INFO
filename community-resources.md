@@ -1,36 +1,144 @@
 # Community Resources
 
-- [Antifragile](#antifragile)
-- [Organization](#organization)
-  - [Leadership](#leadership)
-  - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-organization-dao)
-- [Development](#development)
 - [Conflict Management](#conflict-management)
   - [Mediation](#mediation)
   - [Alternative Dispute Resolution](#alternative-dispute-resolution)
   - [Conflict Transformation](#conflict-transformation)
   - [Negotiation](#negotiation)
+  - [Peace](#peace)
   - [Restorative Justice](#restorative-justice)
-- [Colonization](#colonization)
-- [Divided Mind](#divided-mind)
+  - [Nonviolent Communication](#nonviolent-communication)
+  - [Punished by Rewards](#punished-by-rewards)
+- [Organization](#organization)
+  - [Leadership](#leadership)
+  - [Decentralized Autonomous Organization (DAO)](#decentralized-autonomous-organization-dao)
+- [Development](#development)
+  - [Antifragile](#antifragile)
+- [Culture](#culture)
+  - [Politics](#politics)
+- [Complexity \ Integral](#complexity--integral)
+  - [Metamodern](#metamodern)
+  - [Transformation \ Collapse](#transformation--collapse)
+  - [Decolonization](#decolonization)
+- [Personal Growth](#personal-growth)
+  - [Shadow Work](#shadow-work)
+  - [Meaning Crisis](#meaning-crisis)
 - [Emotional Intelligence](#emotional-intelligence)
   - [Social Awareness](#social-awareness)
-- [Complexity \ Integral](#complexity--integral)
-- [Nonviolent Communication](#nonviolent-communication)
-- [Punished by Rewards](#punished-by-rewards)
-- [Politics](#politics)
-- [Metamodern](#metamodern)
-- [Culture](#culture)
-- [Transformation \ Collapse](#transformation--collapse)
-- [Peace](#peace)
-- [Personal Growth](#personal-growth)
 - [Psychology](#psychology)
 - [Communication](#communication)
+  - [Consent](#consent)
 
-## Antifragile
+## Conflict Management
 
-- [Taleb, Antifragile.](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)
-- [Antifragille: Things That Gain from Disorder – Nassim Nicholas Taleb – Talks at Google](https://www.youtube.com/watch?v=S3REdLZ8Xis)
+- [Jur](https://jur.io/) – Justice. Decentralized
+- [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
+- [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
+- [How to solve conflict in a community of equals](https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equals) 
+  > This talk provides a practical guide for how to solve interpersonal conflict in communities with a loose structure such as do-ocracy or anarchy
+- [The Great Courses - Art of Conflict Managment](https://www.thegreatcourses.com/courses/art-of-conflict-management-achieving-solutions-for-life-work-and-beyond) 
+- [Dominic Barter - Dedicated spaces for having conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo) 
+- [Dominic Barter - Understanding justice as a system](https://www.youtube.com/watch?v=z-CIeYopMnM) 
+- [A New Way to Look at Conflict Resolution - How to Have Healthy Workplace & Community Relationships](https://www.youtube.com/watch?v=SNw1z3VDWsI) 
+  > Looking for a new way to look at conflict resolution in 2020? What is conflict, what causes it, and how can it be resolved? This video is all about having th...
+- [Potential in the ebb and the flaw](https://thinkingthursdays.substack.com/p/potential-in-the-ebb-and-the-flaw?s=w) 
+  > Conflict is an opportunity and we might even need metrics for it
+- [ConflictManagementQuestionnaireInfo.pdf](https://drive.google.com/file/d/1F_RlybbM-VJNzwSR5kVm9HpSEIt14Hp0/view?usp=drivesdk)
+  > The Conflict Management Formative Questionnaire is designed to measure a student’s proficiency in the three essential components of conflict management, which are:
+  > 1. Understand your natural response to conflict.
+  > 2. Understand the context of the conflict, including the perspectives of all involved.
+  > 3. Apply a conflict management approach that is appropriate to the situation.
+- [estimating-the-costs-of-workplace-conflict.pdf](https://drive.google.com/file/d/1NrYQn9m78oh3MO4vucEyX-CpgPwP3Ush/view?usp=drivesdk)
+  > In particular, it is argued that organisations have tended to place too much emphasis on developing leaders concerned with strategy, while overlooking the importance of encouraging excellence in core management practices such as the management of poor performance, which are incorrectly seen as 'basic' and 'easy to replicate' (see endnote 3).
+- [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://drive.google.com/file/d/1pSDbTy_lWK2IT2tmxA64nbcD1SX66WVf/view?usp=drivesdk)
+- [Conflictology_Vinyamata_2010.pdf](https://drive.google.com/file/d/1-VJKNldCZcQ1Rx4_D4UbqI1287QQHWvl/view?usp=drivesdk)
+
+### Mediation
+
+- [Mediation and Mediator Skills: A Critical Appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
+- [Certify](https://imimediation.org/practitioners/certify/) International Mediation Institute
+- [Advanced_mediation_-eng.pdf](https://drive.google.com/file/d/1My1Em0bpF_N6aa-VknU4MVCCsYNiMeXc/view?usp=drivesdk)
+- [Mediate2Go: Case Management Software for Today's Conflict Professional](https://mediate2go.com)
+  > Mediate2Go offers a free 30 day trial for organizations of all sizes.
+  - [Mediate2Go Overview](https://www.youtube.com/watch?v=iuD5m5azAvY) 
+    > Spend more time resolving conflict with Mediate2Go (https://mediate2go.com). Mediate2Go is intuitive case management software for mediators and conflict resol...
+- [Proof of Meditation](https://medium.com/@proof-of-meditation/proof-of-meditation-77c9de937056) 
+  > Proof of Meditation is an app that incentivizes you to meditate and rewards you for your effort.
+- [Welcome! You are invited to join a meeting: Weekly Interpersonal Meditation with the Monastic Academy. ](https://us06web.zoom.us/meeting/register/tZcrdOuuqjwsG9Cx9fsqMmKWZ5Uws_7U3FQ9)
+  > Join us every Friday at 1pm ET to engage in various transformative practices for bringing deep listening, presence, and authenticity into relationship. Using techniques from Circling, Authentic Relating, and other social modalities, you will gain skills for deepening intimacy and nourishment from genuine connection in community. Stephen Torrence, former MAPLE Resident and experienced Circling practitioner, will be leading the sessions and the same zoom link will be utilized each week.
+- [Palouse Mindfulness](https://palousemindfulness.com)
+
+### Alternative Dispute Resolution
+- [The Future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
+- [BATNA Basics: Boost Your Power at the Bargaining Table](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) Harvard Law
+- [Five Ways to Keep Disputes Out of Court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court )by John R. Allison
+- [Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers](https://web.archive.org/web/20130422035337/www.wbginvestmentclimate.org/advisory-services/upload/15322_MGPEI_Web.pdf)
+- [The Mediation Process and Dispute Resolution](https://www.pon.harvard.edu/daily/mediation/dispute-resolution-how-mediation-unfolds/) Harvard Law
+- [Alternative_Dispute_Resolution_Center_Manual.pdf](https://drive.google.com/file/d/1S4rkWeGmcYaGKph7TCdoHRx34-lp13CM/view?usp=drivesdk)
+  > A few years ago, the International Finance Corporation (IFC), the key player in private sector development in new and emerging markets, started supporting commercial ADR through a number of projects to accelerate this change worldwide. In particular, IFC has partnered with local governments, justice ministries, lawyers’ associations, business membership organizations, international mediation experts, and donors.
+- [Dialnet-Sistemas Alternativos De Resolucion De Conflictos](https://drive.google.com/file/d/1s8mLLpBCU7sJKwKPxlaJcvWSX34fXpvq/view?usp=drivesdk)
+
+### Conflict Transformation
+- [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
+- [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
+- [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
+- [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
+
+### Negotiation
+- [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
+- [Getting to Yes with Yourself: A Book Talk by William Ury](https://www.youtube.com/watch?v=fghb0-hL5Hw)
+- [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
+
+### Peace
+- [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
+  > How to Start a Revolution reveals the hidden forces behind the headlines - the strategies passed from the jungles of Burma, to the streets of Iran, the Arab Spring and the looming battle to defend democracy in the West. This is the story of the power of people to change their world, the modern revolution and the man behind it all.
+- [Advice for Peace: Ending Civil War in Colombia](https://www.youtube.com/watch?v=iDJ5JRPo7Ss) 
+  > The civil war in Colombia lasted 52 years, taking the lives of at least 220,000 people and displacing up to seven million civilians. In 2012, Colombian Presi...
+- [Peace and Conflict Fundamentals](https://open.spotify.com/show/2K7KJt6A2R3AZ6QEph9bio?si=W3jZrNNKQhaUqXbXJGYANQ&amp;nd=1) 
+  > Listen to Peace and Conflict Fundamentals on Spotify.
+- [The Young Peacemaker](https://rw360.org/the-young-peacemaker)
+  > The Young Peacemaker is a curriculum that parents, teachers and youth workers can use to teach children how to prevent and resolve conflict in a constructive and biblically faithful manner. The curriculum emphasizes principles of confession, forgiveness, communication and character development, and uses realistic stories, practical applications, role plays and stimulating activities. This detailed and comprehensive […]
+
+### Restorative Justice
+- [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
+  > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
+- [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
+
+### Nonviolent Communication
+
+- [Natural giving song](https://www.youtube.com/watch?v=iwceYGiTeWo)
+- [Nonviolent COmmunication Companion Workbook](https://www.amazon.com/Nonviolent-Communication-Companion-Workbook-2015-09-01/dp/B01NAO8XZQ/)
+- [Nonviolent Communication Language Life Changing Relationships](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/)
+- [Nonviolent Communication Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034/) Marshall Rosenberg
+- [Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.youtube.com/watch?v=GpZMcFzO4eo)
+- [1. Basics of Nonviolent Communication, by Marshall Rosenberg](https://www.youtube.com/watch?v=VT8KGgDo6TY)
+- [Mindful Communication talk at Apple, full video](https://www.youtube.com/watch?v=wXVBPPtTrgs&amp;list=PL50MVdNosAWFBn2mNi0ZjAIR9eRw_u8u4)
+- [Your Complete Nonviolent Communication Guide [2020 Update]](https://positivepsychology.com/non-violent-communication/)
+- [Nonviolent Communication Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)
+- [Communication NonViolente - Marshall Rosenberg](https://www.amazon.fr/gp/product/2960188810)
+- [@MBR_Quotes](https://twitter.com/MBR_Quotes) 
+- [What Is Nonviolent Communication? – Insightful Counselling & Training](https://insightfulcounselling.com/what-is-nonviolent-communication) 
+  > NVC is an excellent program to learn to navigate difficult conversations, conflicts, and learn to meet your needs with awareness.
+- [nonviolent-communication-a-language-of-life-marshall-b-rosenberg-.pdf](https://drive.google.com/file/d/1kKfGQYU0DIrTLSGY82kz9RxROWnjW3-r/view) 
+- [NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION](https://www.youtube.com/watch?v=l7TONauJGfc) 
+  > Fully transcribed - subbed.K dispozícii sú aj (amatérsky preložené) slovenské titulky :)Just spreading the word on NVC - I transcribed the whole session for ...
+- [Nonviolent Communication - Marshall Rosenberg (audiobook) - Google Drive](https://drive.google.com/drive/folders/1olzC4R0qf04N4Qum_Yz4PUeGOGGPRmap) 
+- [Feelings_Wheel_in_PDF.pdf](https://drive.google.com/file/d/1EC7Ga7HdM-kgNzloq1SH0h1UJqXDDDM4/view?usp=drivesdk)
+usp=drivesdk)
+- [2022 Online NVC Conference](https://nvctraining.com/live-nvc-courses/online-nvc-conference-2022)
+  > We are proudly sponsoring the 2022 Online NVC Conference! Experience the varied perspectives of 9 experienced, engaging trainers Learn skills for listening, speaking, and cooperating with integrity and care Practice skills to communicate better at home, at work, or at school Make connections with ki...
+- [CEG_Feelings-and-Needs-Exercise.pdf](https://drive.google.com/file/d/1_vgMUJqUljgzlR2bg1o7j5RQa0-BxX5O/view?usp=drivesdk)
+- [International Intensive Training (IIT) in the United States: June 2022 | Center for Nonviolent Communication](https://www.cnvc.org/2022-United-States-IIT)
+  > Join us for this residential retreat in Los Angeles, California (June 10-19, 2022) that will help you bring nonviolence and peace into all areas of your life. In this event, you can discover skills that will help you improve the quality of your relationships, deepen your inner peace, and increase your contribution to the world.
+- [Worksheets – BayNVC](https://baynvc.org/free-worksheets)
+  > 1. Think of something you’ve done that you feel regret about. Write down what it is in observations (without judgments).
+
+### Punished by Rewards
+
+- [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
+- [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
+- [Punished by Rewards – Alfie Kohn](https://www.amazon.com/Punished-Rewards-Twenty-fifth-Alfie-Kohn/dp/132845052X/)
+
 
 ## Organization
 
@@ -62,7 +170,11 @@
   > Powered by peer support circles spreading the practice across companies and countries, Working Out Loud is now a growing movement. In this talk, John Stepper describes how you can start, so you can unlock a better career and life. 
 - [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
   > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
+- [Liberating Structures - Introduction](https://www.liberatingstructures.com)
+  > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
 - [Shaping CSPB’s Strategy](https://vimeo.com/693378067/0187842d67) by Carlos Salinas on Vimeo
+- [Blawesome â Wellness 3.0](https://www.blawesome.life)
+  > Blawesome is a powerful set of Web3 tools of for the next generation of Wellness Creators to bring special experiences, exclusive content to their communities
 
 ### Leadership
 
@@ -110,8 +222,14 @@
 - [Clarity 2.0 â The DAO Contribution Platform](https://www.clarity.so/product/clarity-2-0)
   > We've streamlined the overall product design so you can bring your entire contributor community into Clarity.
 - [Gnosis Chain Explorer](https://blockscout.com/xdai/mainnet)
+- [Metagovernance Project](https://metagov.org)
+  > The Metagovernance Project is an interdisciplinary research collective. We build standards and infrastructure for digital self-governance. Our collaborations include
+- [Well-Being and DAOs](https://docs.google.com/presentation/d/1DSA_zBRa_BECvOrGlgz2bd7w1Es5DOcmI-biw_KgrNc)
+  > Context MetaGame is concerned about the well-being of its players ️ This is a concern shared by many DAOs, but not currently being professionally addressed The Gravity DAO will make a proposal on that matter at their next call on Wednesday, March 2nd This set of slides aims to add to that proposa...
+- [To cut emissions, use this Swiss Army Knife](https://www.gatesnotes.com/Climate-and-energy)
+  > Cheap, green hydrogen would be a massive breakthrough in clean energy.
 
-### Development
+## Development
 - [Techno-reflexivity: A creative methodology for software developer un-bias](https://kelsienabben.substack.com/p/techno-reflexivity-cf1331278bdc)
 - [How TikTok's design helps turn ordinary people into villains - CBC Radio](https://www.cbc.ca/radio/spark/how-tiktok-s-design-helps-turn-ordinary-people-into-villains-1.6368636) 
   > From Reddit to TikTok, a look at how the design of online spaces shapes how we behave, interact and learn from one another.
@@ -124,178 +242,10 @@
 - [How to Design for Color Blindness](https://www.getfeedback.com/resources/ux/how-to-design-for-color-blindness)
   > The GetFeedback customer experience (CX) platform helps you understand why, so you can take action when it matters most.
 
-## Conflict Management
+### Antifragile
 
-- [Jur](https://jur.io/) – Justice. Decentralized
-- [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
-- [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
-- [How to solve conflict in a community of equals](https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equals) 
-  > This talk provides a practical guide for how to solve interpersonal conflict in communities with a loose structure such as do-ocracy or anarchy
-- [The Great Courses - Art of Conflict Managment](https://www.thegreatcourses.com/courses/art-of-conflict-management-achieving-solutions-for-life-work-and-beyond) 
-- [Dominic Barter - Dedicated spaces for having conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo) 
-- [Dominic Barter - Understanding justice as a system](https://www.youtube.com/watch?v=z-CIeYopMnM) 
-- [A New Way to Look at Conflict Resolution - How to Have Healthy Workplace & Community Relationships](https://www.youtube.com/watch?v=SNw1z3VDWsI) 
-  > Looking for a new way to look at conflict resolution in 2020? What is conflict, what causes it, and how can it be resolved? This video is all about having th...
-- [Potential in the ebb and the flaw](https://thinkingthursdays.substack.com/p/potential-in-the-ebb-and-the-flaw?s=w) 
-  > Conflict is an opportunity and we might even need metrics for it
-- [ConflictManagementQuestionnaireInfo.pdf](https://drive.google.com/file/d/1F_RlybbM-VJNzwSR5kVm9HpSEIt14Hp0/view?usp=drivesdk)
-  > The Conflict Management Formative Questionnaire is designed to measure a student’s proficiency in the three essential components of conflict management, which are:
-  > 1. Understand your natural response to conflict.
-  > 2. Understand the context of the conflict, including the perspectives of all involved.
-  > 3. Apply a conflict management approach that is appropriate to the situation.
-- [estimating-the-costs-of-workplace-conflict.pdf](https://drive.google.com/file/d/1NrYQn9m78oh3MO4vucEyX-CpgPwP3Ush/view?usp=drivesdk)
-  > In particular, it is argued that organisations have tended to place too much emphasis on developing leaders concerned with strategy, while overlooking the importance of encouraging excellence in core management practices such as the management of poor performance, which are incorrectly seen as 'basic' and 'easy to replicate' (see endnote 3).
-- [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://drive.google.com/file/d/1pSDbTy_lWK2IT2tmxA64nbcD1SX66WVf/view?usp=drivesdk)
-- [Conflictology_Vinyamata_2010.pdf](https://drive.google.com/file/d/1-VJKNldCZcQ1Rx4_D4UbqI1287QQHWvl/view?usp=drivesdk)
-
-
-### Mediation
-
-- [Mediation and Mediator Skills: A Critical Appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
-- [Certify](https://imimediation.org/practitioners/certify/) International Mediation Institute
-- [Mediate2Go Overview](https://www.youtube.com/watch?v=iuD5m5azAvY) 
-  > Spend more time resolving conflict with Mediate2Go (https://mediate2go.com).Mediate2Go is intuitive case management software for mediators and conflict resol...
-- [Advanced_mediation_-eng.pdf](https://drive.google.com/file/d/1My1Em0bpF_N6aa-VknU4MVCCsYNiMeXc/view?usp=drivesdk)
-
-### Alternative Dispute Resolution
-
-- [The Future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
-- [BATNA Basics: Boost Your Power at the Bargaining Table](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) Harvard Law
-- [Five Ways to Keep Disputes Out of Court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court )by John R. Allison
-- [Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers](https://web.archive.org/web/20130422035337/www.wbginvestmentclimate.org/advisory-services/upload/15322_MGPEI_Web.pdf)
-- [The Mediation Process and Dispute Resolution](https://www.pon.harvard.edu/daily/mediation/dispute-resolution-how-mediation-unfolds/) Harvard Law
-- [Alternative_Dispute_Resolution_Center_Manual.pdf](https://drive.google.com/file/d/1S4rkWeGmcYaGKph7TCdoHRx34-lp13CM/view?usp=drivesdk)
-  > A few years ago, the International Finance Corporation (IFC), the key player in private sector development in new and emerging markets, started supporting commercial ADR through a number of projects to accelerate this change worldwide. In particular, IFC has partnered with local governments, justice ministries, lawyers’ associations, business membership organizations, international mediation experts, and donors.
-- [Dialnet-Sistemas Alternativos De Resolucion De Conflictos](https://drive.google.com/file/d/1s8mLLpBCU7sJKwKPxlaJcvWSX34fXpvq/view?usp=drivesdk)
-
-### Conflict Transformation
-- [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
-- [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
-- [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
-- [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
-
-### Negotiation
-- [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
-- [Getting to Yes with Yourself: A Book Talk by William Ury](https://www.youtube.com/watch?v=fghb0-hL5Hw)
-- [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
-
-### Restorative Justice
-- [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
-  > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
-- [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
-
-## Colonization
-
-- [Abysmal_leadership_theory_a_decolonized.pdf](https://drive.google.com/file/d/1jbg62uT62hEIvRHZyWt5oZH9H-6h84BE/view?usp=drivesdk)
-  > Ours is, by necessity, a speculative exercise; an attempt to think through cultural and ethical logics that we have yet to encounter. It is, in temporal terms, something akin to a reverse thought experiment in counterfactual history; one in which we try to work through the ‘what ifs’ of prospective futures in which ecocrisis has translated, at worst, into geopolitical meltdown or, at the very least, significant modification of our current ways of life. However speculative, we hope that the reasoning and ‘discoveries’ yielded by this thought experiment prove to be of value to the scholarly community and beyond.
-- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
-- [Discourse on Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)
-- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
-- [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
-- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
-  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
-- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
-  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
-
-## Divided Mind
-
-- [Iain McGilchrist - The Divided Brain and the Making of the Western World](https://www.youtube.com/watch?v=SbUHxC4wiWk&amp;start=1177)
-- [My stroke of insight – Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
-- [RSA ANIMATE: The Divided Brain](http://www.youtube.com/watch?v=dFs9WO2B8uI)
-
-## Emotional Intelligence
-
-- [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
-- [Ho oponopono .. borrar memorias - Dr. Hew Len](https://www.youtube.com/watch?v=OAuWRuU4uzA)
-- [Dealing with Anger Effectively](https://satsang.arshavidya.org/wp-content/uploads/media/hhpsds/pdf/dealing_anger_effectively.pdf)
-- [How Gratitude Helps Your Brain for the Good](https://neurohacker.com/how-gratitude-helps-your-brain-for-the-good) 
-  > Knowledge of what the brain is doing during the experience of gratitude provides a window into gratitude’s relationship to mental health and resilience. This is your brain on gratitude.
-
-### Social Awareness 
-- [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing) 
-  > A Zine by Leah jo and Fizz Perkal We made this zine free and accessible in two versions: one to read online, and the other to print in zine format. READ ONLINE: queer-attachment-toolkitDownload PRI…
-- [Anti-oppression and activism health and action w- Morgan Vanderpool, LICSW](https://www.youtube.com/watch?v=_FLTudKDjoA) 
-  > This video is about My Movie 42
-- [Body-Based Intersectional Counter Transference - Morgan Vanderpool](https://www.youtube.com/watch?v=lS-B7XwHt64) 
-- [Morganic Vanderpool - WELCOME VIDEOS](https://www.morganvanderpool.com/welcome-videos) 
-  > body-based building blocks and understandings that will help us build a practice of nervous system restoration. This is the baseline information that is necessary to engage healthfully in individual and collective anti-oppressive practices.
-- [My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies: Resmaa Menakem: Trade Paperback: 9781942094470: Powell's Books](https://www.powells.com/book/my-grandmothers-hands-9781942094470) 
-- [The Power of Diverse Thinking - Matthew Syed](https://www.youtube.com/watch?v=E5UHfcwal0M) 
-  > Success is no longer about individual talent, knowledge or skill. Success is about freeing ourselves from the blind spots that beset us all, and pooling our ...
-- [How Mengzi came up with something better than the Golden Rule - Aeon Ideas](https://aeon.co/ideas/how-mengzi-came-up-with-something-better-than-the-golden-rule) 
-  > The Golden Rule says put yourself in another’s shoes. But what if we do as Mengzi did, and just love them as our own?
-
-## Complexity \ Integral
-- [Cynefin St David's Day 2019 (3 of 5) - The Cynefin Co](https://www.cognitive-edge.com/cynefin-st-davids-day-2019-3-of-5) 
-  > The boundary between chaotic and obvious is not liminal as there is no transition it is sudden.  It is two way, but one way happens with greater ease.  Climbing back up the cliff is normally a mistake, easier to shift into the liminal domain with complexity and then start the cycle again – but I will deal with that when I map dynamics onto the liminal version of Cynefin tomorrow.
-- [Systems-Centered Training: An Illustrated Guide for Applying a Theory of Living Human Systems](https://www.goodreads.com/book/show/56489280-systems-centered-training) 
-  > This illustrated book shows how thinking systems offer new ways of seeing people which can help us see and do things differently. The authors describe how a theory of living human systems was developed and even recently revised. This major revision led to a theory of the person-as-a-system and its role-systems map that helps us see which system in us and in others is running the show.
-- [Integral - An Integral understanding of Narcissism and Gaslighting](https://integrallife.com/an-integral-understanding-of-narcissism-and-gaslighting) 
-- [Ken Wilber - Understanding The "Culture Wars"](https://www.youtube.com/watch?v=lSXNY8umfz4)
-- [DEVELOPING NONVIOLENT COMMUNICATION: AN INTEGRAL APPROACH](http://web.archive.org/web/20170627053443/https://www.cnvc.org/sites/cnvc.org/files/NVC_Research_Files/NVC%2520Research/Beck-Developing_NVC_Integral_Approach.pdf) Simon R. Beck
-- [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf) Harry Donkers
-- [Who Are The 2nd Tier Thinkers? - Ken Wilber](https://www.youtube.com/watch?v=8o2_dbLq070)
-- [INTEGRATING  POLARITIES](https://integrallife.com/polarity-wisdom-mechanics-of-integral-thinking/) is Beena Sharma's revolutionary new training program, designed to teach you the higher-order thinking common to individuals at the integral stage of development.
-- [Spirals Blog](https://spirals.blog/)
-- [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
-- [The MEMEnomics Group](http://www.memenomics.com/). Uncovering the Values of a Regenerative Future
-- [Dialogue: Decolonizing AI(?): Four Perspectives from 'South'](https://www.eventbrite.com/e/dialogue-decolonizing-ai-four-perspectives-from-south-tickets-183765095347)
-  > How might we rethink AI research paradigms through other knowledge systems, cultural lenses?
-- [Integral Life - Course - Integrating Polarities](https://integrallife.com/integrating-polarities-training)
-- [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
-- [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
-
-## Nonviolent Communication
-
-- [Natural giving song](https://www.youtube.com/watch?v=iwceYGiTeWo)
-- [Nonviolent COmmunication Companion Workbook](https://www.amazon.com/Nonviolent-Communication-Companion-Workbook-2015-09-01/dp/B01NAO8XZQ/)
-- [Nonviolent Communication Language Life Changing Relationships](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/)
-- [Nonviolent Communication Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034/) Marshall Rosenberg
-- [Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.youtube.com/watch?v=GpZMcFzO4eo)
-- [1. Basics of Nonviolent Communication, by Marshall Rosenberg](https://www.youtube.com/watch?v=VT8KGgDo6TY)
-- [Mindful Communication talk at Apple, full video](https://www.youtube.com/watch?v=wXVBPPtTrgs&amp;list=PL50MVdNosAWFBn2mNi0ZjAIR9eRw_u8u4)
-- [Your Complete Nonviolent Communication Guide [2020 Update]](https://positivepsychology.com/non-violent-communication/)
-- [Nonviolent Communication Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)
-- [Communication NonViolente - Marshall Rosenberg](https://www.amazon.fr/gp/product/2960188810)
-- [@MBR_Quotes](https://twitter.com/MBR_Quotes) 
-- [What Is Nonviolent Communication? – Insightful Counselling & Training](https://insightfulcounselling.com/what-is-nonviolent-communication) 
-  > NVC is an excellent program to learn to navigate difficult conversations, conflicts, and learn to meet your needs with awareness.
-- [nonviolent-communication-a-language-of-life-marshall-b-rosenberg-.pdf](https://drive.google.com/file/d/1kKfGQYU0DIrTLSGY82kz9RxROWnjW3-r/view) 
-- [NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION](https://www.youtube.com/watch?v=l7TONauJGfc) 
-  > Fully transcribed - subbed.K dispozícii sú aj (amatérsky preložené) slovenské titulky :)Just spreading the word on NVC - I transcribed the whole session for ...
-- [Nonviolent Communication - Marshall Rosenberg (audiobook) - Google Drive](https://drive.google.com/drive/folders/1olzC4R0qf04N4Qum_Yz4PUeGOGGPRmap) 
-- [Feelings_Wheel_in_PDF.pdf](https://drive.google.com/file/d/1EC7Ga7HdM-kgNzloq1SH0h1UJqXDDDM4/view?usp=drivesdk)
-usp=drivesdk)
-- [2022 Online NVC Conference](https://nvctraining.com/live-nvc-courses/online-nvc-conference-2022)
-  > We are proudly sponsoring the 2022 Online NVC Conference! Experience the varied perspectives of 9 experienced, engaging trainers Learn skills for listening, speaking, and cooperating with integrity and care Practice skills to communicate better at home, at work, or at school Make connections with ki...
-- [CEG_Feelings-and-Needs-Exercise.pdf](https://drive.google.com/file/d/1_vgMUJqUljgzlR2bg1o7j5RQa0-BxX5O/view?usp=drivesdk)
-- [International Intensive Training (IIT) in the United States: June 2022 | Center for Nonviolent Communication](https://www.cnvc.org/2022-United-States-IIT)
-  > Join us for this residential retreat in Los Angeles, California (June 10-19, 2022) that will help you bring nonviolence and peace into all areas of your life. In this event, you can discover skills that will help you improve the quality of your relationships, deepen your inner peace, and increase your contribution to the world.
-- [Worksheets – BayNVC](https://baynvc.org/free-worksheets)
-  > 1. Think of something you’ve done that you feel regret about. Write down what it is in observations (without judgments).
-
-### Punished by Rewards
-
-- [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
-- [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
-- [Punished by Rewards – Alfie Kohn](https://www.amazon.com/Punished-Rewards-Twenty-fifth-Alfie-Kohn/dp/132845052X/)
-
-## Politics 
-- [‘Yes, He Would’: Fiona Hill on Putin and Nukes](https://www.politico.com/news/magazine/2022/02/28/world-war-iii-already-there-00012340) 
-  > Putin is trying to take down the entire world order, the veteran Russia watcher said in an interview. But there are ways even ordinary Americans can fight back.
-- [Why We Argue (And How We Should): A Guide to Political Disagreement in an Age of Unreason](https://www.amazon.com/Why-Argue-How-Should-Disagreement/dp/1138087424) 
-  > presents an accessible and engaging introduction to the theory of argument, with special emphasis on the way argument works in public political debate. The authors develop a view according to which proper argument is necessary for one’s individual cognitive health; this insight is then expanded to the collective health of one’s society. Proper argumentation, then, is seen to play a central role in a well-functioning democracy.
-- [Peace of Westphalia - Wikipedia](https://en.wikipedia.org/wiki/Peace_of_Westphalia) 
-  > collective name for two peace treaties signed in October 1648 in the Westphalian cities of Osnabrück and Münster. They ended the Thirty Years' War (1618–1648) and Eighty Years' War (1568–1648), and brought peace to the Holy Roman Empire, closing a calamitous period of European history that killed approximately eight million people. The Holy Roman Emperor (Ferdinand III of Habsburg), the Spanish Empire, the kingdoms of France and Sweden, the United Provinces (Netherlands), and their respective allies among the princes of the Holy Roman Empire participated in these treaties.[1]
-- [Cryptocurrency Explained: Money as a System-of-Control](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
-  > We know that money serves as:- A Store of Value (SoV)- A Medium of Exchange (MoE) and- A Unit of Account (UoA)But what happens when a fourth use of money is ...
-
-## Metamodern
-
-- [Metamodernism the basics](https://web.archive.org/web/20201002032519/https://www.huffpost.com/entry/metamodernism-the-basics_b_5973184)
-- [What is Metamodernism](https://web.archive.org/web/20210115234014/https://www.huffpost.com/entry/what-is-metamodernism_b_586e7075e4b0a5e600a788cd)
-- [Listening Society Metamodern Politics Guide ebook](https://www.amazon.com/Listening-Society-Metamodern-Politics-Guides-ebook/dp/B074MKQ4LR/)
-- [The Regenaissance: A Metamodern Playbook](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit)
+- [Taleb, Antifragile.](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)
+- [Antifragille: Things That Gain from Disorder – Nassim Nicholas Taleb – Talks at Google](https://www.youtube.com/watch?v=S3REdLZ8Xis)
 
 ## Culture
 - [What is Emerging](https://www.whatisemerging.com/emergepodcast) 
@@ -321,8 +271,51 @@ usp=drivesdk)
   > Fred the Baker was amazing
 - [When your house is burning down, you should brush your teeth - The Oatmeal](https://theoatmeal.com/comics/house) 
   > 20 years ago today my house burned down, so I wrote a comic about it
+- [Don't call people out -- call them in](https://www.ted.com/talks/loretta_j_ross_don_t_call_people_out_call_them_in)
+  > Ross gives us a toolkit for starting productive conversations instead of fights -- what she calls a "call-in culture" -- and shares strategies that help challenge wrongdoing while still creating space for growth, forgiveness and maybe even an unexpected friend. "Fighting hate should be fun," Ross says. "It's being a hater that sucks."
+- [Masterworks](https://masterworks.art/moon)
+  > Purchase shares in great masterpieces from artists like Pablo Picasso, Claude Monet, Andy Warhol, and more.
+- [Mulligan Brothers Motivation Official Store](https://www.mulliganbrothers.com)
+  > Mulligan Brothers Inspire Change clothing collection and home of motivation.
 
-## Transformation \ Collapse
+### Politics 
+- [‘Yes, He Would’: Fiona Hill on Putin and Nukes](https://www.politico.com/news/magazine/2022/02/28/world-war-iii-already-there-00012340) 
+  > Putin is trying to take down the entire world order, the veteran Russia watcher said in an interview. But there are ways even ordinary Americans can fight back.
+- [Why We Argue (And How We Should): A Guide to Political Disagreement in an Age of Unreason](https://www.amazon.com/Why-Argue-How-Should-Disagreement/dp/1138087424) 
+  > presents an accessible and engaging introduction to the theory of argument, with special emphasis on the way argument works in public political debate. The authors develop a view according to which proper argument is necessary for one’s individual cognitive health; this insight is then expanded to the collective health of one’s society. Proper argumentation, then, is seen to play a central role in a well-functioning democracy.
+- [Peace of Westphalia - Wikipedia](https://en.wikipedia.org/wiki/Peace_of_Westphalia) 
+  > collective name for two peace treaties signed in October 1648 in the Westphalian cities of Osnabrück and Münster. They ended the Thirty Years' War (1618–1648) and Eighty Years' War (1568–1648), and brought peace to the Holy Roman Empire, closing a calamitous period of European history that killed approximately eight million people. The Holy Roman Emperor (Ferdinand III of Habsburg), the Spanish Empire, the kingdoms of France and Sweden, the United Provinces (Netherlands), and their respective allies among the princes of the Holy Roman Empire participated in these treaties.[1]
+- [Cryptocurrency Explained: Money as a System-of-Control](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
+  > We know that money serves as:- A Store of Value (SoV)- A Medium of Exchange (MoE) and- A Unit of Account (UoA)But what happens when a fourth use of money is ...
+
+## Complexity \ Integral
+- [Cynefin St David's Day 2019 (3 of 5) - The Cynefin Co](https://www.cognitive-edge.com/cynefin-st-davids-day-2019-3-of-5) 
+  > The boundary between chaotic and obvious is not liminal as there is no transition it is sudden.  It is two way, but one way happens with greater ease.  Climbing back up the cliff is normally a mistake, easier to shift into the liminal domain with complexity and then start the cycle again – but I will deal with that when I map dynamics onto the liminal version of Cynefin tomorrow.
+- [Systems-Centered Training: An Illustrated Guide for Applying a Theory of Living Human Systems](https://www.goodreads.com/book/show/56489280-systems-centered-training) 
+  > This illustrated book shows how thinking systems offer new ways of seeing people which can help us see and do things differently. The authors describe how a theory of living human systems was developed and even recently revised. This major revision led to a theory of the person-as-a-system and its role-systems map that helps us see which system in us and in others is running the show.
+- [Integral - An Integral understanding of Narcissism and Gaslighting](https://integrallife.com/an-integral-understanding-of-narcissism-and-gaslighting) 
+- [Ken Wilber - Understanding The "Culture Wars"](https://www.youtube.com/watch?v=lSXNY8umfz4)
+- [DEVELOPING NONVIOLENT COMMUNICATION: AN INTEGRAL APPROACH](http://web.archive.org/web/20170627053443/https://www.cnvc.org/sites/cnvc.org/files/NVC_Research_Files/NVC%2520Research/Beck-Developing_NVC_Integral_Approach.pdf) Simon R. Beck
+- [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf) Harry Donkers
+- [Who Are The 2nd Tier Thinkers? - Ken Wilber](https://www.youtube.com/watch?v=8o2_dbLq070)
+- [INTEGRATING  POLARITIES](https://integrallife.com/polarity-wisdom-mechanics-of-integral-thinking/) is Beena Sharma's revolutionary new training program, designed to teach you the higher-order thinking common to individuals at the integral stage of development.
+- [Spirals Blog](https://spirals.blog/)
+- [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
+- [The MEMEnomics Group](http://www.memenomics.com/). Uncovering the Values of a Regenerative Future
+- [Dialogue: Decolonizing AI(?): Four Perspectives from 'South'](https://www.eventbrite.com/e/dialogue-decolonizing-ai-four-perspectives-from-south-tickets-183765095347)
+  > How might we rethink AI research paradigms through other knowledge systems, cultural lenses?
+- [Integral Life - Course - Integrating Polarities](https://integrallife.com/integrating-polarities-training)
+- [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
+- [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
+
+### Metamodern
+
+- [Metamodernism the basics](https://web.archive.org/web/20201002032519/https://www.huffpost.com/entry/metamodernism-the-basics_b_5973184)
+- [What is Metamodernism](https://web.archive.org/web/20210115234014/https://www.huffpost.com/entry/what-is-metamodernism_b_586e7075e4b0a5e600a788cd)
+- [Listening Society Metamodern Politics Guide ebook](https://www.amazon.com/Listening-Society-Metamodern-Politics-Guides-ebook/dp/B074MKQ4LR/)
+- [The Regenaissance: A Metamodern Playbook](https://docs.google.com/document/d/1toqpJ8IcOnc-TeP_-AnGNEKz5jTIZk6OeWj2XD1REuE/edit)
+
+### Transformation \ Collapse
 - [What Happened After Civilization Collapsed : Throughline](https://www.npr.org/2021/01/11/955735429/what-happened-after-civilization-collapsed) 
   > What happens after everything falls apart? The end of the Bronze Age was a moment when an entire network of ancient civilizations collapsed, leaving behind only clues to what happened. Today, scholars have pieced together a story where everything from climate change to mass migration to natural disasters played a role. What the end of the Bronze Age can teach us about avoiding catastrophe and what comes after collapse.
 - [THE COLLAPSE OF OLIGARCHIC CAPITALISM AND THE RISE OF REGENERATIVE LEARNING: HOW THE SCIENCE OF ENERGY SYSTEMS CLARIFIES WHAT’S HAPPENING TODAY AND WHAT COMES NEXT - Sally J. GOERNER](https://bsahely.com/2020/03/05/the-collapse-of-oligarchic-capitalism-and-the-rise-of-regenerative-learning-how-the-science-of-energy-systems-clarifies-whats-happening-today-and-what-comes-next-sally-j-goerner) 
@@ -331,16 +324,21 @@ usp=drivesdk)
   > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
 - [How to Escape from a Sick Society](https://academyofideas.com/2021/09/how-to-escape-from) ([Video](https://www.youtube.com/watch?v=JeliRVZ4V00)) 
   > Aleksandr Solzhenitsyn, reflecting on the Soviet Union’s descent into totalitarian rule in the mid-20th century, and all the things that could have been done to prevent it, wrote the following: “If…if… We didn’t love freedom enough. And even more – we had no awareness of the real situation. . .we hurried to submit. We submitted with pleasure! … We purely and simply deserved everything that
+- [adrienne maree brown](https://adriennemareebrown.net)
+  > i can’t stop thinking about that elephant. in the story pieced together thru video and rumor and spirit, the elephant’s babies were poached, and there was a woman who threw stones at the elephant mother to keep her from saving her children. so the elephant waited and found this woman at a watering hole, trampled her to death, rolled with a crew to her funeral and swung her corpse out of the casket to trample her again, and then they went and destroyed her house.
 
-## Peace
-- [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
-  > How to Start a Revolution reveals the hidden forces behind the headlines - the strategies passed from the jungles of Burma, to the streets of Iran, the Arab Spring and the looming battle to defend democracy in the West. This is the story of the power of people to change their world, the modern revolution and the man behind it all.
-- [Advice for Peace: Ending Civil War in Colombia](https://www.youtube.com/watch?v=iDJ5JRPo7Ss) 
-  > The civil war in Colombia lasted 52 years, taking the lives of at least 220,000 people and displacing up to seven million civilians. In 2012, Colombian Presi...
-- [Peace and Conflict Fundamentals](https://open.spotify.com/show/2K7KJt6A2R3AZ6QEph9bio?si=W3jZrNNKQhaUqXbXJGYANQ&amp;nd=1) 
-  > Listen to Peace and Conflict Fundamentals on Spotify.
-- [The Young Peacemaker](https://rw360.org/the-young-peacemaker)
-  > The Young Peacemaker is a curriculum that parents, teachers and youth workers can use to teach children how to prevent and resolve conflict in a constructive and biblically faithful manner. The curriculum emphasizes principles of confession, forgiveness, communication and character development, and uses realistic stories, practical applications, role plays and stimulating activities. This detailed and comprehensive […]
+### Decolonization
+
+- [Abysmal_leadership_theory_a_decolonized.pdf](https://drive.google.com/file/d/1jbg62uT62hEIvRHZyWt5oZH9H-6h84BE/view?usp=drivesdk)
+  > Ours is, by necessity, a speculative exercise; an attempt to think through cultural and ethical logics that we have yet to encounter. It is, in temporal terms, something akin to a reverse thought experiment in counterfactual history; one in which we try to work through the ‘what ifs’ of prospective futures in which ecocrisis has translated, at worst, into geopolitical meltdown or, at the very least, significant modification of our current ways of life. However speculative, we hope that the reasoning and ‘discoveries’ yielded by this thought experiment prove to be of value to the scholarly community and beyond.
+- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+- [Discourse on Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)
+- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
+- [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
+- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
+  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
+- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
+  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
 
 ## Personal Growth
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change
@@ -350,12 +348,34 @@ usp=drivesdk)
   > With humor and empathy, Brené Brown discusses what it takes to choose courage over comfort in a culture defined by scarcity, fear and uncertainty.
 - [The Dangers Of Being Too Nice - Dr. Gabor Maté](https://www.youtube.com/watch?v=RtswQazDSno) 
   > Some people have this voice or feeling inside that they are betraying them selves. Thats why the body also speaks to us when we are not being authentic. The body whispers, talks and then screams for you to stop. The "blocks" we have on our way are the most loving part of ourselves telling us that is not the way, this makes us return to our true selves. 
-- [What Is SHADOW WORK? [5 Effective Ways To Do It!]](https://www.youtube.com/watch?v=5kDN7g9kBAs) 
-  > What is shadow work really? Discover what the shadow is, how to spot it in yourself, and why it’s absolutely crucial to do shadow work. Then I share my top 5...
 - [#rC3 How to solve conflict in a community of equals](https://www.youtube.com/watch?v=Gng6-nfITkY) 
   > https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equalsThis talk provides a practical guide for how to solve interpersona...
 - [The Call to Courage - Brené Brown compilation](https://www.youtube.com/watch?v=zDIQQx1KNZc) 
   > This video is included in the free online Mindfulness-Based Stress Reduction course (MBSR) by Palouse Mindfulness (https://palousemindfulness.com). It is an ...
+- [The War on Sensemaking, Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ) 
+  > This is a fundamental question, because without good sensemaking, we cannot even begin to act in the world. It is also a central concern in what many are calling the "meaning crisis", because what is meaningful is connected to what is real.
+- [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) 
+  > This video was created in partnership with Bill Gates and was inspired by his new book “How to Avoid a Climate Disaster.”  
+- [You Are Burned Out And Don't Even Know It](https://www.youtube.com/watch?v=jqONINYF17M) 
+  > Today Doctor K talks about what is burnout, how does burnout work, where does burnout come from, am I depressed or burntout, how do i know if I'm burnt out, burn out test, burn out symptoms, burn out solutions, how to stop being burnt out. HealthyGamer also talks about what to do about burn out, how to prevent burn out, how to create balance, and more!
+- [Slavoj Žižek + Paul Holdengräber "Voyeurism and digital identity" - International Authors' Stage](https://www.youtube.com/watch?v=HAZiFWZpYds) 
+  > I'M WATCHING YOU - The Slovenian star philosopher Slavoj Žižek in the second of two conversations with the popular and charismatic interviewer Paul Holdengräber, director of Public Programs at the New York Public Library. Watch part 1: https://www.youtube.com/watch?v=PIPjmmmh_os&t=0s (surviellance and whistleblowers)
+- [Slavoj Žižek: "I'm generally opposed to wisdom"](https://www.youtube.com/watch?v=tKoGQpEkpO0) 
+  > Slavoj Žižek tells Paul Holdengräber why he thinks wisdom is conformist.
+  > 
+  > Excerpt from a conversation on International Authors' Stage in The Black Diamond
+- [Who We Are - Minds at Work](https://mindsatwork.com/who-we-are)
+  > Minds at Work helps people to close the gap between their good intentions and their actual behaviors. Our work is based on Kegan and Lahey’s breakthrough discovery of the hidden behavioral dynamic called the Immunity to Change.
+
+### Shadow Work
+- [What Is SHADOW WORK? [5 Effective Ways To Do It!]](https://www.youtube.com/watch?v=5kDN7g9kBAs) 
+  > What is shadow work really? Discover what the shadow is, how to spot it in yourself, and why it’s absolutely crucial to do shadow work. Then I share my top 5...
+- [What Is Shadow Work?](https://tealswan.com/videos/emotions/what-is-shadow-work-r161) 
+  > For a lot of people, the term shadow work conjures up all kinds of negative and dark associations. Because of those associations we have with the word shadow, it is easy to think that shadow work is a dark spiritual practice or that it is internal work that involves the more negative or sinister ...
+
+### Meaning Crisis
+- [Meaning Crisis Collection - An indepth collection of notes and transcripts pertaining to Dr. John Vervaeke's Meaning Crisis](https://www.meaningcrisis.co)
+  > We are in the midst of a mental health crisis. There are increases in anxiety disorders, depression, despair, suicide rates are going up in North America, parts of Europe, other parts of the world. And that mental health crisis is itself due to and engaged with crises in the environment and the political system. And those in turn are immeshed within a deeper cultural historical crisis. I called the meeting crisis. So the meaning crisis expresses itself and many people are giving voice to this in many different ways, is this increasing sense of bullshit. Bullshit is on the increase. It's more and more pervasive throughout our lives and there's this sense of drowning in this old ocean of bullshit. And we have to understand why is this the case and what can we do about it? So today there is an increase of people feeling very disconnected from themselves, from each other, from the world, from a viable and foreseeable future.
 - [Awakening from the Meaning Crisis](https://www.youtube.com/watch?v=54l8_ewcOlY) Tiago Books ([Lecture Notes](http://web.archive.org/web/20210309194507/https://www.tiagobooks.com/blogpage/lecture-notes-of-awakening-from-the-meaning-crisis))
   > List of Books in the Video:
   > - Michael Anderson - [After Phrenology: Neural Reuse and the Interactive Brain](https://www.amazon.com/After-Phrenology-Neural-Reuse-Interactive-ebook/dp/B08BT4YG7N) 
@@ -372,28 +392,28 @@ usp=drivesdk)
   > - John Vervaeke, Christopher Mastropietro, and Filip Miscevic - [Zombies in Western Culture: A Twenty-First Century Crisis](https://www.amazon.com/Zombies-Western-Culture-Twenty-First-Century-ebook/dp/B072KS2PGB/)
   > - Michael Winkelman - [Shamanism: A Biopsychosocial Paradigm of Consciousness and Healing](https://www.amazon.com/Shamanism-Biopsychosocial-Paradigm-Consciousness-Healing-ebook/dp/B004I5BN04/)
   > - Susan Wolf - [Meaning in Life and Why It Matters](https://www.amazon.com/Meaning-Matters-University-Center-Values-ebook/dp/B003L779HQ/)
-- [What Is Shadow Work?](https://tealswan.com/videos/emotions/what-is-shadow-work-r161) 
-  > For a lot of people, the term shadow work conjures up all kinds of negative and dark associations. Because of those associations we have with the word shadow, it is easy to think that shadow work is a dark spiritual practice or that it is internal work that involves the more negative or sinister ...
-- [The War on Sensemaking, Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ) 
-  > This is a fundamental question, because without good sensemaking, we cannot even begin to act in the world. It is also a central concern in what many are calling the "meaning crisis", because what is meaningful is connected to what is real.
-- [The Future Of Reasoning](https://www.youtube.com/watch?v=_ArVh3Cj9rw) 
-  > This video was created in partnership with Bill Gates and was inspired by his new book “How to Avoid a Climate Disaster.”  
-- [You Are Burned Out And Don't Even Know It](https://www.youtube.com/watch?v=jqONINYF17M) 
-  > Today Doctor K talks about what is burnout, how does burnout work, where does burnout come from, am I depressed or burntout, how do i know if I'm burnt out, burn out test, burn out symptoms, burn out solutions, how to stop being burnt out. HealthyGamer also talks about what to do about burn out, how to prevent burn out, how to create balance, and more!
-- [Slavoj Žižek + Paul Holdengräber "Voyeurism and digital identity" - International Authors' Stage](https://www.youtube.com/watch?v=HAZiFWZpYds) 
-  > I'M WATCHING YOU - The Slovenian star philosopher Slavoj Žižek in the second of two conversations with the popular and charismatic interviewer Paul Holdengräber, director of Public Programs at the New York Public Library. Watch part 1: https://www.youtube.com/watch?v=PIPjmmmh_os&t=0s (surviellance and whistleblowers)
-- [Slavoj Žižek: "I'm generally opposed to wisdom"](https://www.youtube.com/watch?v=tKoGQpEkpO0) 
-  > Slavoj Žižek tells Paul Holdengräber why he thinks wisdom is conformist.
-  > 
-  > Excerpt from a conversation on International Authors' Stage in The Black Diamond
-- [Who We Are - Minds at Work](https://mindsatwork.com/who-we-are)
-  > Minds at Work helps people to close the gap between their good intentions and their actual behaviors. Our work is based on Kegan and Lahey’s breakthrough discovery of the hidden behavioral dynamic called the Immunity to Change.
-  
-### Meditation
-- [Proof of Meditation](https://medium.com/@proof-of-meditation/proof-of-meditation-77c9de937056) 
-  > Proof of Meditation is an app that incentivizes you to meditate and rewards you for your effort.
-- [Welcome! You are invited to join a meeting: Weekly Interpersonal Meditation with the Monastic Academy. ](https://us06web.zoom.us/meeting/register/tZcrdOuuqjwsG9Cx9fsqMmKWZ5Uws_7U3FQ9)
-  > Join us every Friday at 1pm ET to engage in various transformative practices for bringing deep listening, presence, and authenticity into relationship. Using techniques from Circling, Authentic Relating, and other social modalities, you will gain skills for deepening intimacy and nourishment from genuine connection in community. Stephen Torrence, former MAPLE Resident and experienced Circling practitioner, will be leading the sessions and the same zoom link will be utilized each week.
+
+## Emotional Intelligence
+
+- [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
+- [Ho oponopono .. borrar memorias - Dr. Hew Len](https://www.youtube.com/watch?v=OAuWRuU4uzA)
+- [Dealing with Anger Effectively](https://satsang.arshavidya.org/wp-content/uploads/media/hhpsds/pdf/dealing_anger_effectively.pdf)
+- [How Gratitude Helps Your Brain for the Good](https://neurohacker.com/how-gratitude-helps-your-brain-for-the-good) 
+  > Knowledge of what the brain is doing during the experience of gratitude provides a window into gratitude’s relationship to mental health and resilience. This is your brain on gratitude.
+
+### Social Awareness 
+- [Queer Attachment: An Anti-Oppression Toolkit for Relational Healing](https://liberationandmedicine.wordpress.com/2019/12/12/queer-attachment-an-anti-oppression-toolkit-for-relational-healing) 
+  > A Zine by Leah jo and Fizz Perkal We made this zine free and accessible in two versions: one to read online, and the other to print in zine format. READ ONLINE: queer-attachment-toolkitDownload PRI…
+- [Anti-oppression and activism health and action w- Morgan Vanderpool, LICSW](https://www.youtube.com/watch?v=_FLTudKDjoA) 
+  > This video is about My Movie 42
+- [Body-Based Intersectional Counter Transference - Morgan Vanderpool](https://www.youtube.com/watch?v=lS-B7XwHt64) 
+- [Morganic Vanderpool - WELCOME VIDEOS](https://www.morganvanderpool.com/welcome-videos) 
+  > body-based building blocks and understandings that will help us build a practice of nervous system restoration. This is the baseline information that is necessary to engage healthfully in individual and collective anti-oppressive practices.
+- [My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies: Resmaa Menakem: Trade Paperback: 9781942094470: Powell's Books](https://www.powells.com/book/my-grandmothers-hands-9781942094470) 
+- [The Power of Diverse Thinking - Matthew Syed](https://www.youtube.com/watch?v=E5UHfcwal0M) 
+  > Success is no longer about individual talent, knowledge or skill. Success is about freeing ourselves from the blind spots that beset us all, and pooling our ...
+- [How Mengzi came up with something better than the Golden Rule - Aeon Ideas](https://aeon.co/ideas/how-mengzi-came-up-with-something-better-than-the-golden-rule) 
+  > The Golden Rule says put yourself in another’s shoes. But what if we do as Mengzi did, and just love them as our own?
 
 ## Psychology
 - [Females and Autism / Aspergers: A checklist](https://the-art-of-autism.com/females-and-aspergers-a-checklist) 
@@ -407,6 +427,9 @@ usp=drivesdk)
   > In philosophy of mind, the extended mind thesis (EMT) says that the mind does not exclusively reside in the brain or even the body, but extends into the physical world
 - [MASS PSYCHOSIS - How an Entire Population Becomes MENTALLY ILL](https://www.youtube.com/watch?v=09maaUaRT4M) 
   > This video was made in collaboration with Academy of Ideas. They create videos explaining the ideas of history's great thinkers in order to help supply the w...
+- [Iain McGilchrist - The Divided Brain and the Making of the Western World](https://www.youtube.com/watch?v=SbUHxC4wiWk&amp;start=1177)
+- [My stroke of insight – Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+- [RSA ANIMATE: The Divided Brain](http://www.youtube.com/watch?v=dFs9WO2B8uI)
 
 ## Communication
 - [Thich Nhat Hanh on the Art of Deep Listening and the 3 Buddhist Steps to Repairing a Relationship](https://www.themarginalian.org/2021/10/10/thich-nhat-hanh-listening-love/) 
@@ -419,7 +442,7 @@ usp=drivesdk)
 - [Rule Omega: Greenhall, Schmachtenberger, Wheal (clip)](https://www.youtube.com/watch?v=rQA93ulyigg) 
   > Is there one simple hack that would help us make sense of the world and have genuine conversations around new and difficult topics?Jordan Greenhall and Danie...
 
-## Consent
+### Consent
 - [Consent & Communication Deep Dive](https://www.facebook.com/events/409144107568086/409144120901418/?active_tab=about)
   > In this six-week journey, we will dive into consent as a liberating framework that reconnects us to our core selves and empowers us to move from a place of choice in our lives and relationships. 
 - [School of Consent](https://www.schoolofconsent.org)

@@ -30,7 +30,7 @@ All links about Gravity DAO and related to our work.
 
 ## Gravity DAO
 
-[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO)
+[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO) - [Zoom Room](https://us06web.zoom.us/j/87412975245) - [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3Jhdml0eWRhb0BnbWFpbC5jb20)
 
 - [Gravity Working Group Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k)
   > Gravity Manifesto Explain what is pushing us apart so Gravity can bring us back together. WG lead: Juan Carlos Note! The Working Group Manifesto is a live document, as the working group evolves (e.g. people join the working group) this document should be updated to reflect these changes. This...
@@ -43,6 +43,9 @@ All links about Gravity DAO and related to our work.
   > Gravity DAO is a conflict management commons that is emerging from the cultural build of the Toke
 - [🕊 Gravity Working Group](https://forum.tecommons.org/t/gravity-working-group/177)
   > The Gravity Working Group aims to help maintain equilibrium and well-being in decentralized communities through nonviolent communication, transformational approach to conflicts, and a system that provides easy access to management protocols. 
+- [TEC Calendar](https://www.notion.so/Calendar-be8a6868a6ef4305b7521fa35a2eb9ba) - Notion 
+- [Gravity FAQ Template](https://www.notion.so/Graviton-FAQ-Resources-37309732b1304df59335b6c4ff83aef8)
+- [Umbrella Initiative](https://www.notion.so/Umbrella-Initiative-68067593358646dda4498085398ae2c9)
 
 ### Gravity Blog
 - [Gravity: Conflict management and trust creation in Web3.](https://gravitydao.medium.com/gravity-conflict-management-and-trust-creation-in-web3-3afa66e43707) 
@@ -54,6 +57,12 @@ All links about Gravity DAO and related to our work.
 ### Helpful
 - [xDAI Chain - Metamask](https://metamask.zendesk.com/hc/en-us/articles/360052711572-How-to-connect-to-the-xDai-network)
   > Please stand by, while we are checking your browser...
+- [Connext | Cross-Chain Transfer](https://bridge.connext.network)
+  > Transfer token between chains using NXTP
+- [xDai Bridge](https://bridge.xdaichain.com)
+  > Token bridge between the Gnosis Chain and the Ethereum network
+- [Hop Exchange](https://hop.exchange)
+  > Send your tokens across Ethereum scaling solutions
 
 #### POAPs
 - [POAP Distribution Methods 101](https://intercom.help/poap/en/articles/5812140-poap-distribution-methods-101)
@@ -69,6 +78,13 @@ All links about Gravity DAO and related to our work.
 - [POAP - The bookmarks of your life](https://app.poap.xyz/scan/heuer.eth)
   > Your collection of Non Fungible Tokens minted by POAP (Proof of Attendance Protocol) is the best way to keep a visual diary of your life events.
 
+#### Pecha Kucha
+- [How to Make a Pecha Kucha](https://www.youtube.com/watch?v=32WEzM3LFhw) 
+  > This video describes what a pecha kucha is, how to make one, and how to deliver it. The video is itself in the form of a pecha kucha.To download a blank cop...
+- [Creating a Pecha Kucha Presentation Using PowerPoint](https://www.youtube.com/watch?v=l9zxNTpNMLo) 
+  > Pecha Kucha is a simple presentation format devised by Astrid Klein and Mark Dytham where you show 20 slides or images, each for only 20 second. The images ...
+- [pechakuchaplanner.docx](https://docs.google.com/document/d/1NZpFsenFVj2plvUB9wFpTpCQOYAPqsuz/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+
 ### Forum
 
 - [Graviton Training](https://forum.tecommons.org/t/graviton-training/217)
@@ -77,7 +93,7 @@ All links about Gravity DAO and related to our work.
 
 ### Docs
 
-- [Gravity WG Related Docs](https://drive.google.com/drive/u/0/folders/1yxxquMQAc8WPMs3kU7U5v70zXv_kSbiz)
+- [Gravity WG Related Docs](https://drive.google.com/drive/folders/1t3to8Vq1soHMCDH0iicS6DPT2aeXSUaV?usp=sharing)
 - [Gravity Sign-up Spreadsheet](https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit#gid=0)
 - [Protocol for TEC Calls](https://docs.google.com/document/d/12Pl3mpF5IautPtVdPHjh0tc8fu6JM2iTCnGyumCmULc/edit#)
 - [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
