@@ -32,7 +32,6 @@
 ## Conflict Management
 
 - [Jur](https://jur.io/) – Justice. Decentralized
-- [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
 - [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
 - [How to solve conflict in a community of equals](https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equals) 
   > This talk provides a practical guide for how to solve interpersonal conflict in communities with a loose structure such as do-ocracy or anarchy
@@ -52,6 +51,9 @@
   > In particular, it is argued that organisations have tended to place too much emphasis on developing leaders concerned with strategy, while overlooking the importance of encouraging excellence in core management practices such as the management of poor performance, which are incorrectly seen as 'basic' and 'easy to replicate' (see endnote 3).
 - [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://drive.google.com/file/d/1pSDbTy_lWK2IT2tmxA64nbcD1SX66WVf/view?usp=drivesdk)
 - [Conflictology_Vinyamata_2010.pdf](https://drive.google.com/file/d/1-VJKNldCZcQ1Rx4_D4UbqI1287QQHWvl/view?usp=drivesdk)
+- [ensayo_conflicto.docx](https://docs.google.com/document/d/1UwJUwGTjvXdvz1xvSxG-J_6qlZWyo0k4/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+- [conflictos_y_estrategia.pptx](https://docs.google.com/presentation/d/1L_JV_6FtwaZqa0CBb7KYbBAulx5wpI7r/edit?
+- [Methodological guide for conflict analysis Juan_Bell](https://drive.google.com/file/d/1LWrfda76p6Qc57Uzt-SagkimYGiBHmcs/edit) 
 
 ### Mediation
 
@@ -77,6 +79,13 @@
 - [Alternative_Dispute_Resolution_Center_Manual.pdf](https://drive.google.com/file/d/1S4rkWeGmcYaGKph7TCdoHRx34-lp13CM/view?usp=drivesdk)
   > A few years ago, the International Finance Corporation (IFC), the key player in private sector development in new and emerging markets, started supporting commercial ADR through a number of projects to accelerate this change worldwide. In particular, IFC has partnered with local governments, justice ministries, lawyers’ associations, business membership organizations, international mediation experts, and donors.
 - [Dialnet-Sistemas Alternativos De Resolucion De Conflictos](https://drive.google.com/file/d/1s8mLLpBCU7sJKwKPxlaJcvWSX34fXpvq/view?usp=drivesdk)
+- [MASC_JUAN_BELL_MAESTRIA_PROF_JIMMY_PEREZ.docx](https://docs.google.com/document/d/16UoMea4ALDJBdZ2CTqFsda5MQENeoH6o/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+  > 1. Definition of each of the existing alternative dispute resolution mechanisms in Colombia, indicating the legal norm that establishes it.
+  > 2. A model clause for each of the existing alternative dispute resolution mechanisms in Colombia.
+  > 3. A model staggered dispute settlement clause starting with direct settlement and ending with arbitration within a commercial civil works design consulting contract.
+  > 4. Finally, a brief reflection on the importance of agreeing on dispute settlement clauses and how the principles of negotiation would be applied in the drafting of said clauses.
+
+
 
 ### Conflict Transformation
 - [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
@@ -145,8 +154,6 @@ usp=drivesdk)
 - [Holacracy: A Radical New Approach to Management – Brian Robertson – TEDxGrandRapids](https://www.youtube.com/watch?v=tJxfJGo-vkI)
 - [Blockchain Governance and Crypto Law Legal Innovation Law](https://www.notion.so/Blockchain-Governance-and-Crypto-Law-Legal-Innovation-Law-dc8b7fef62874623b3e7c655a7dcf476)
 - [The Cooperative Culture Handbook](https://www.ic.org/community-bookstore/product/the-cooperative-culture-handbook/)
-- [Strategies vs trust, conflict resolution, NVC, Sociocratic Democracy](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in) 
-  > Sociocracy is a highly effective method of designing and managing organizations—regardless of their purpose. NVC is a highly effective process or technique for examining feelings, sorting out needs, and identifying means of addressing them. They both use structured practices and they are complementary, but they have different purposes. One cannot do the job of the other.
 - [Organizational Shadow and Conflict Management](https://www.mediate.com/articles/OReardonD6.cfm) 
   > Jung’s shadow describes all the aspects of a person that he or she can’t face up to. As a result, the person represses them and then projects them on to others (angry people see anger everywhere, victims see injustice everywhere). I believe that organisations behave in the same way. 
 - [Build a tower, build a team - Tom Wujec](https://www.youtube.com/watch?v=H0_yKBitO8M) 
@@ -170,11 +177,36 @@ usp=drivesdk)
   > Powered by peer support circles spreading the practice across companies and countries, Working Out Loud is now a growing movement. In this talk, John Stepper describes how you can start, so you can unlock a better career and life. 
 - [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
   > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
-- [Liberating Structures - Introduction](https://www.liberatingstructures.com)
-  > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
 - [Shaping CSPB’s Strategy](https://vimeo.com/693378067/0187842d67) by Carlos Salinas on Vimeo
 - [Blawesome â Wellness 3.0](https://www.blawesome.life)
   > Blawesome is a powerful set of Web3 tools of for the next generation of Wellness Creators to bring special experiences, exclusive content to their communities
+- [Well_Being_questionnaire_Eurostat.pdf](https://drive.google.com/file/d/1UGWnb-jXOTz0bSHOMbhoWwBU37Xym4s_/view?usp=drivesdk)
+- [Peer-Review-Tools.pdf](https://drive.google.com/file/d/13d6ySENQVcKkrjC5eDBFRjML1sfQeK6M/view?usp=drivesdk)
+- [Subtle Acts of Exclusion](https://subtleactsofexclusion.com)
+  > Subtle Acts of Exclusion is a practical, accessible, nonjudgmental handbook to help individuals and organizations recognize and prevent microaggressions in the workplace.
+- [Promoting the Emergence of Team Flow in Organizations](https://drive.google.com/file/d/1w0tCuwrQcBSGAe9NYBk-Kp4JLDlwcci7/view?usp=drivesdk)
+  > The results provide confrmation of the existing research on team dynamics, fow, group and team fow and indicate that a collective ambition, professional autonomy, and open communication must be deliberately and carefully cultivated to set the stage for the other team fow prerequisites and thence for team fow to emerge.
+- [Sessions | The Facilitation Summit 2021 - October 15, 2021](https://pheedloop.com/FacilitationSummit2021/site/sessions/?event=FacilitationSummit2021&amp;section=97261&amp;id=SESINGVUL0R427BPW)
+  > The Facilitation Summit 2021 by International Association of Facilitators on October 15, 2021.
+
+
+### Sociocracy
+- [Strategies vs trust, conflict resolution, NVC, Sociocratic Democracy](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in) 
+  > Sociocracy is a highly effective method of designing and managing organizations—regardless of their purpose. NVC is a highly effective process or technique for examining feelings, sorting out needs, and identifying means of addressing them. They both use structured practices and they are complementary, but they have different purposes. One cannot do the job of the other.
+- [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
+- [Navigate via Tension](https://patterns.sociocracy30.org/navigate-via-tension.html)
+  > The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.
+
+
+### Liberating Structures
+- [Liberating Structures - Introduction](https://www.liberatingstructures.com)
+  > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
+- [Wise Crowds Liberating Structures Design Jam 9/22](https://less.works/conferenza/sessions/2022-less-conference-warsaw-wise-crowds-liberating-structures-design-jam-265)
+- [Liberating Structures London](https://www.eventbrite.co.uk/o/liberating-structures-london-16469733729)
+  > Liberating Structures London
+- [Practice and test Liberating Structuree 3/22](https://www.meetup.com/facilitation-lab-and-new-work-practices/events/284067705)
+- [The Wisdom and/or Madness of Crowds](https://ncase.me/crowds)
+  > an interactive guide to human networks
 
 ### Leadership
 
@@ -197,6 +229,17 @@ usp=drivesdk)
   > 9.  Engage In Seriously-Playful Curiosity
   > 10. Never Start Without Clear Purpose
   - [Why use Liberating Structures?](https://youtube.com/playlist?list=PLBlnEMjx5Jb0oCHih4T-h3KKoOKQZtr2A) 
+- [How Embodied Leadership Can Take Your Work to The Next Level.](https://us02web.zoom.us/meeting/register/tZIlduiorDkiG9NqnQ6EO0aeZO5zrjgHfFso) Zoom
+  > There is a new “normal,” a new world emerging in the midst of all the chaos we currently experience. We know that our work with individuals and families makes a huge difference in their lives and in the lives of all they touch. We are called now to step into the next level of leadership, step more fully into the light of all that is calling us and give our gifts. As Jean Houston says, “These are the times, and WE are the people!” What is needed now more than ever is embodied leadership. This is leadership that comes more from the heart and less from the head. It is relational, compassionate and inclusive. In this podcast we’ll explore this and ways that you can begin to lead from your whole self and begin to make an even greater difference.
+- [Content for Masterclass](https://docs.google.com/document/d/18GEmubW_Lco_fSCIIEzMq4WyMkCintKDRnOuji6plUc)
+  > Masterclass on The Psychology of Human Leadership Questions to consider: ​​How do you motivate and inspire others through your leadership? How do you face problems and promote goals? How do you balance power asymmetries in your leadership? How do you communicate sensitively with others? What are...
+- [Splash - Berkana Institute](https://berkana.org)
+  > intro Since 1991, Berkana has worked globally with dedicated, creative, spirit-grounded leaders & activists This website is an offering ofwhat we’ve learned about change leadership community the human spirit This website is an offering to you You who are yearning to find your path of contribution for this time. 
+
+### Deliberately Developmental Organization
+- [The Deliberately Developmental Organization](https://drive.google.com/file/d/1y1iuHBNA-oyiuxxwXGhMlRWpeYRfP5sX/view?usp=drivesdk)
+  > Most leading organizations invest in growing some of their people, via supports outside the flow of the normal workday—e.g., executive coaching, high-potential programs, mentoring, and leadership development. A new breed of company, however, is committed to development for all, creating immersive cultures for continuous individual growth as the necessary means of achieving superior business results.
+
 
 ### Decentralized Autonomous Organization (DAO)
 - [The Ultimate DAO Report](https://newsletter.banklesshq.com/p/the-ultimate-dao-report?s=r) 
@@ -228,6 +271,8 @@ usp=drivesdk)
   > Context MetaGame is concerned about the well-being of its players ️ This is a concern shared by many DAOs, but not currently being professionally addressed The Gravity DAO will make a proposal on that matter at their next call on Wednesday, March 2nd This set of slides aims to add to that proposa...
 - [To cut emissions, use this Swiss Army Knife](https://www.gatesnotes.com/Climate-and-energy)
   > Cheap, green hydrogen would be a massive breakthrough in clean energy.
+- [metagov/govbase](https://github.com/thelastjosh/govbase) github
+  > Govbase is an open, crowdsourced database of projects and tools in online governance. Data hosted at https://airtable.com/shrgnUrj0dqzZDsOd
 
 ## Development
 - [Techno-reflexivity: A creative methodology for software developer un-bias](https://kelsienabben.substack.com/p/techno-reflexivity-cf1331278bdc)
@@ -296,17 +341,22 @@ usp=drivesdk)
 - [Integral - An Integral understanding of Narcissism and Gaslighting](https://integrallife.com/an-integral-understanding-of-narcissism-and-gaslighting) 
 - [Ken Wilber - Understanding The "Culture Wars"](https://www.youtube.com/watch?v=lSXNY8umfz4)
 - [DEVELOPING NONVIOLENT COMMUNICATION: AN INTEGRAL APPROACH](http://web.archive.org/web/20170627053443/https://www.cnvc.org/sites/cnvc.org/files/NVC_Research_Files/NVC%2520Research/Beck-Developing_NVC_Integral_Approach.pdf) Simon R. Beck
-- [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf) Harry Donkers
 - [Who Are The 2nd Tier Thinkers? - Ken Wilber](https://www.youtube.com/watch?v=8o2_dbLq070)
 - [INTEGRATING  POLARITIES](https://integrallife.com/polarity-wisdom-mechanics-of-integral-thinking/) is Beena Sharma's revolutionary new training program, designed to teach you the higher-order thinking common to individuals at the integral stage of development.
-- [Spirals Blog](https://spirals.blog/)
-- [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
 - [The MEMEnomics Group](http://www.memenomics.com/). Uncovering the Values of a Regenerative Future
 - [Dialogue: Decolonizing AI(?): Four Perspectives from 'South'](https://www.eventbrite.com/e/dialogue-decolonizing-ai-four-perspectives-from-south-tickets-183765095347)
   > How might we rethink AI research paradigms through other knowledge systems, cultural lenses?
 - [Integral Life - Course - Integrating Polarities](https://integrallife.com/integrating-polarities-training)
 - [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
 - [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
+
+### Spiral Dynamics
+
+- [NEW METHODS OF ENGAGEMENT: A CASE STUDY ON SPIRAL DYNAMICS TO IMPROVE UNION-EMPLOYER RELATIONSHIPS](https://drive.google.com/file/d/1lbz6gBMadWrHca6MHqBxPoaFIVmIJanM/view)
+  > This study examined to what extent Spiral Dynamics as a tool could be applied to enhance understanding of union-employer engagements for all stakeholders. The aim was to contribute to the growing body of research around industrial action in South Africa, focusing, however, on ways to proactively improve union‒employer engagements and minimise conflict.
+- [Spirals Blog](https://spirals.blog/)
+- [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf) Harry Donkers
+- [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
 
 ### Metamodern
 
@@ -326,6 +376,10 @@ usp=drivesdk)
   > Aleksandr Solzhenitsyn, reflecting on the Soviet Union’s descent into totalitarian rule in the mid-20th century, and all the things that could have been done to prevent it, wrote the following: “If…if… We didn’t love freedom enough. And even more – we had no awareness of the real situation. . .we hurried to submit. We submitted with pleasure! … We purely and simply deserved everything that
 - [adrienne maree brown](https://adriennemareebrown.net)
   > i can’t stop thinking about that elephant. in the story pieced together thru video and rumor and spirit, the elephant’s babies were poached, and there was a woman who threw stones at the elephant mother to keep her from saving her children. so the elephant waited and found this woman at a watering hole, trampled her to death, rolled with a crew to her funeral and swung her corpse out of the casket to trample her again, and then they went and destroyed her house.
+- [Read Online - Sacred Economics | Charles Eisenstein](https://sacred-economics.com/read-online)
+  > Today we associate money with the profane, and for good reason. If anything is sacred in this world, it is surely not money. Money seems to be the enemy of our better instincts, as is clear every time the thought “I can’t afford to” blocks an impulse toward kindness or generosity. Money seems to be the enemy of beauty, as the disparaging term “a sellout” demonstrates. Money seems to be the enemy of every worthy social and political reform, as corporate power steers legislation toward the aggrandizement of its own profits. Money seems to be destroying the earth, as we pillage the oceans, the forests, the soil, and every species to feed a greed that knows no end.
+- [WeAll-BRIEFINGS-Measuring-the-Wellbeing-economy-v6.pdf](https://drive.google.com/file/d/1seTK4FrpqRSl5E2c6kPZg9OgUqBnImqF/view?usp=drivesdk)
+  > The COVID-19 pandemic is the most recent in a long line of crises affecting the global community. In this age, we are confronted by rising inequalities, populism, climate change, biodiversity loss, resource depletion, privacy issues, racial discrimination, corporate monopolies, and more. The pandemic has added a daunting global problem to that list and is exacerbating some existing crises. 
 
 ### Decolonization
 
@@ -340,7 +394,7 @@ usp=drivesdk)
 - [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
   > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
 
-## Personal Growth
+## Personal Development
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change
   - [Polarity Integration](http://worldtrans.org/TP/TP1/TP1-109.HTML) 
     > Polarity Integration is based on the principle that, if one fixates on one way of being, one is also creating the opposite way of being. An unwanted way of being or doing is likely to be the flip side of a wanted way of being or doing. If the person doesn't take responsibility for both sides she will have created an ongoing conflict between them. The solution is to encompass both sides and integrate them as necessary.
@@ -366,6 +420,14 @@ usp=drivesdk)
   > Excerpt from a conversation on International Authors' Stage in The Black Diamond
 - [Who We Are - Minds at Work](https://mindsatwork.com/who-we-are)
   > Minds at Work helps people to close the gap between their good intentions and their actual behaviors. Our work is based on Kegan and Lahey’s breakthrough discovery of the hidden behavioral dynamic called the Immunity to Change.
+- [The Upward Spiral (edited version)](https://www.youtube.com/watch?v=RuBMpc_3S04) 
+  > Flow, the second law of thermodynamics, seeing nature, and much more. This video is a must see because it
+- [Profound Transformation vs Shallow Change.pdf](https://drive.google.com/file/d/1zT0-WzyZfO7iUd0H-7Xk7ZHNsAV8CATJ/view?usp=drivesdk)
+- [Official Website of Shi Heng Yi](https://shihengyi.online)
+  > Shi Heng Yi 释恒義 belongs to the 35th Generation of Shaolin Masters and is the headmaster of the Shaolin Temple Europe 歐洲少林寺 located in Germany. Discover ancient training methods to develop strength, unity of body and mind and explore the potential of internal and external practices. Begin your journey to Self-Mastery!
+- [Academy of Ideas](https://academyofideas.com/members)
+  > Courses include: Overcoming Addiction, Cultivating Heroic Manhood, How to Unleash Your Potential, The Power of the Unconscious, and 8 others. Membership courses and videos are downloadable for offline viewing Access all
+- [SHAOLIN MASTER - Shi Heng Yi 2021 - Full Interview With the MulliganBrothers](https://www.youtube.com/watch?v=bhdeUspmMP0) 
 
 ### Shadow Work
 - [What Is SHADOW WORK? [5 Effective Ways To Do It!]](https://www.youtube.com/watch?v=5kDN7g9kBAs) 
@@ -431,6 +493,15 @@ usp=drivesdk)
 - [My stroke of insight – Jill Bolte Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
 - [RSA ANIMATE: The Divided Brain](http://www.youtube.com/watch?v=dFs9WO2B8uI)
 
+### PERMA
+
+- [PERMA](https://www.youtube.com/watch?v=iK6K_N2qe9Y) 
+  > Professor Martin Seligman discusses his foirmula for wellbeing: PERMA
+- [the_perma-profiler_101416.pdf](https://drive.google.com/file/d/1VgbOEvSliL9k4qc9aamUOReobKMo-e_g/view?usp=drivesdk)
+  > In his 2011 book Flourish, Dr. Martin Seligman, Distinguished Professor of Psychology at the University of Pennsylvania and one of the founders of the field of positive psychology, defined 5 pillars of wellbeing: PERMA (positive emotion, engagement, relationships, meaning, accomplishment). The PERMA-Profiler measures these five pillars, along with negative emotion and health.
+- [workplace_perma_profiler_102014.pdf](https://drive.google.com/file/d/1dADfPmCaLvaWkKj79ksCK9YYbx5auzx1/view?usp=drivesdk)
+  > In his 2011 book Flourish, Dr. Martin Seligman, Distinguished Professor of Psychology at the University of Pennsylvania and founder of the field of positive psychology, defined 5 pillars of wellbeing, PERMA (**positive emotion, engagement, relationships, meaning, accomplishment**). We originally developed the PERMA-Profiler to measure these five pillars, along with negative emotion and health. This version was later created, which adjusts the questions to the workplace context.
+
 ## Communication
 - [Thich Nhat Hanh on the Art of Deep Listening and the 3 Buddhist Steps to Repairing a Relationship](https://www.themarginalian.org/2021/10/10/thich-nhat-hanh-listening-love/) 
   > “The intention of deep listening and loving speech is to restore communication, because once communication is restored, everything is possible.”
@@ -441,6 +512,7 @@ usp=drivesdk)
   - [Rule Omega + Ethical Corrollary](https://www.youtube.com/watch?v=43wMVPrK0Vc) - Clip from "A Deep Code Conversation With Jordan Greenhall"
 - [Rule Omega: Greenhall, Schmachtenberger, Wheal (clip)](https://www.youtube.com/watch?v=rQA93ulyigg) 
   > Is there one simple hack that would help us make sense of the world and have genuine conversations around new and difficult topics?Jordan Greenhall and Danie...
+- [Dialogue Determinants](https://typical-drum-53c.notion.site/f95e96b93f64493dbca8ff63cf67dc13?v=e2b88ad2d6d645ef8bfa3dc235f7a95d)
 
 ### Consent
 - [Consent & Communication Deep Dive](https://www.facebook.com/events/409144107568086/409144120901418/?active_tab=about)

@@ -6,23 +6,25 @@ All links about Gravity DAO and related to our work.
 
 - [Gravity DAO](#gravity-dao)
   - [Gravity Blog](#gravity-blog)
-  - [Github](#github)
   - [Helpful](#helpful)
     - [POAPs](#poaps)
+    - [Pecha Kucha](#pecha-kucha)
   - [Forum](#forum)
   - [Docs](#docs)
   - [Presentation](#presentation)
   - [Drafts](#drafts)
   - [Project Management](#project-management)
   - [Psychology in Web3](#psychology-in-web3)
-  - [Training Docs](#training-docs)
+  - [Session Docs \ Presentations](#session-docs--presentations)
     - [Forum Posts](#forum-posts)
 - [Commons Stack](#commons-stack)
-  - [Token Engineering Commons](#token-engineering-commons)
-    - [TEC Blog](#tec-blog)
+  - [Github](#github)
+- [Token Engineering Commons](#token-engineering-commons)
+  - [TEC Blog](#tec-blog)
   - [Token Engineering Forum](#token-engineering-forum)
   - [TEC Docs](#tec-docs)
   - [Group Activity](#group-activity)
+  - [Book Club](#book-club)
 - [Ecosystem](#ecosystem)
   - [Gitcoin](#gitcoin)
   - [Aragon](#aragon)
@@ -87,9 +89,29 @@ All links about Gravity DAO and related to our work.
 
 ### Forum
 
-- [Graviton Training](https://forum.tecommons.org/t/graviton-training/217)
-- [Gravity Onboarding](https://forum.tecommons.org/t/gravity-onboarding/175)
-- [Gravity Role Design](https://forum.tecommons.org/t/gravity-role-design/174)
+- [Gravity - Role design](https://forum.tecommons.org/t/gravity-role-design/174) Dec '20
+  > Rules and boundaries are key for managing Common Pool Resources, and monitoring gives legitimacy to agreements toward maintaining trust and collective goodwill.
+  > 
+  > We are proposing a mutual-monitoring system, where each one of us can inform any issue (through the Gravity [Typeform 3](https://the-commons-stack.typeform.com/to/rCVsK5RK)) to a designated group of members in the community, that will assume the following **responsibilities:**
+- [Gravity Working Group](https://forum.tecommons.org/t/gravity-working-group/177) Dec '20 
+  > The Gravity Working Group aims to help maintain equilibrium and well-being in decentralized communities through nonviolent communication, transformational approach to conflicts, and a system that provides easy access to management protocols.
+- [Gravity - Onboarding](https://forum.tecommons.org/t/gravity-onboarding/175) Dec '20
+  > An [open and inclusive process](https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit?usp=sharing) will be run Two times a year to include all the interested people in the training and selection of a group of mediators in the organization, who will also facilitate and train members of the collective in the various proactive and reactive participatory activities like practice groups, forum posts and Discord channels; giving feedback on policy and procedures for the relevant working groups as needed.
+- [Gravity - General process](https://forum.tecommons.org/t/gravity-general-process/173) Dec '20
+  > We can easily imagine people amusing themselves in a field by playing with a ball so as to start various existing games, but playing many without finishing them and in between throwing the ball aimlessly into the air, chasing one another with the ball and bombarding one another for a joke and so on
+- [Gravity 6 month funding from the TEC](https://forum.tecommons.org/t/gravity-6-month-funding-from-the-tec/809) Jan 12 
+  > [Our goal 2](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit#) is to foster the practice of nonviolent communication, empathy, understanding and management of conflicts in decentralized communities, to facilitate human coordination and build a culture of trust between peers.
+- [First Graviton training](https://forum.tecommons.org/t/first-graviton-training/217) Jan '21
+  > This short course aims to make people in the TEC understand the cultural principles to reproduce in the community and provide capacitation around non violent communication, understanding of conflicts and techniques to manage it (internally, individually and collectively), with the purpose of promoting trust into our shared rules and boundaries.
+- [Gravity easy Step by Step](https://forum.tecommons.org/t/gravity-easy-step-by-step/354) Apr '21 
+  > Functions for Alternative Dispute Resolution in DAOs\
+  > \1. Identification 2. Screening 3. Look for solutions 4. Post mediation: Gravity acts as a witness and facilitator of the settlement of the dispute and will keep track of agreements and follow up, but each part acquires responsibilities associated with implementation. if the issue persists, it can scale to other Dispute resolution mechanisms for arbitration or litigation.
+- [Gravity WG audit](https://forum.tecommons.org/t/gravity-wg-audit/335) Apr '21
+  > Here is our updated Gravity Audit! Please help us be accountable and transparent for the best management of the projects in the community. If something doesn’t match the work we are doing, please give feedback to improve.
+- [Second Graviton training study plan](https://forum.tecommons.org/t/second-graviton-training-study-plan/607) Sep '21
+  > **Methodology:** There is some content that is required to be understood for a full comprehension before each session, that is referred to as **pre-learning.** Each facilitator will lead a **Presentation or a Workshop** and is free to choose if leaving additional information as **Homework**.
+- [Third graviton training study plan](https://forum.tecommons.org/t/third-graviton-training-study-plan/996) May 4
+  > The **Graviton training** is a 10-session course that deep dives into tools and skills to prevent and manage conflict amongst DAO contributors. If you participate, claiming 6+ POAPs (1 per session), you can become a Graviton, a clear access point for your community to [request support 4](https://the-commons-stack.typeform.com/to/rCVsK5RK) in a variety of situations.
 
 ### Docs
 
@@ -257,10 +279,12 @@ All links about Gravity DAO and related to our work.
 ### [Token Engineering Forum](https://forum.tecommons.org)
 > Building safe digital economies that protect and support public goods
 
-- [Scale of conflicts - Graduated sanction Guideline](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234)
+- [Scale of conflicts - Graduated sanction Guideline](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) Jan '21
   > Guidelines for identifying the scale of conflicts and graduated sanctions in the TEC This are some reflections we did in the first sessions of the Gravity Working group, where we were thinking on how to measure the scale of conflicts that can take place in the organization, and what can be some reasonable actions to address them, that can be seen as graduated sanctions. This descriptions should not be seen as a fix criteria, but more as a framework to understand the size of eventual situations...
-- [Measuring TEC’s ecosystem health](https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991)
-  > Measuring TEC’s ecosystem health How to measure the health of a DAO ecosystem was a central question of the Governauts research group on reward systems. The teams focused on TEC Praise put a high emphasis on Ostrom’s Principles as an indicator of health in the first phase of the program. Inspired by their progress, soft gov working group has been mapping out Ostrom’s implementations in the TEC as well as possible metrics to track their success. This work evolved into the idea of a dashboard to...
+- [TEC Community Covenant](https://forum.tecommons.org/t/tec-community-covenant/572) Aug '21
+  > We promise to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. Actions that contradict this attitude will be handled through Gravity, facilitating clear steps to receive assistance in the search and implementation of non adversarial solutions.
+- [Measuring TEC’s ecosystem health](https://forum.tecommons.org/t/measuring-tec-s-ecosystem-health/991) April '22
+  > Measuring TEC’s ecosystem health How to measure the health of a DAO ecosystem was a central question of the Governauts research group on reward systems. The teams focused on TEC Praise put a high emphasis on Ostrom’s Principles as an indicator of health in the first phase of the program. Inspired by their progress, soft gov working group has been mapping out Ostrom’s implementations in the TEC as well as possible metrics to track their success.
 
 ### TEC Docs
 - [TEC Agreements Task](https://docs.google.com/document/d/1diintDuutf-OK9u0noyleaKS7BfkoF2UUuCrHhmwYNQ)
@@ -287,7 +311,6 @@ All links about Gravity DAO and related to our work.
   > Margaret Wheatley: Who do we choose to be? Facing reality, claiming leadership, restoring sanity Practical Thursdays at the TEC server
 - [Wheatley Margaret J Who Do We Choose To Be - Facing Reality Claiming Leadership Restoring Sanity](https://drive.google.com/file/d/1aemPQZzkwMrkXdcBJglbsSWvrf9LD89m/view?usp=drivesdk) ([1](https://drive.google.com/file/d/1OkliRD5p0JyQWZcgs1tKkCYw28YLXnhe/view?usp=drivesdk)) ([2](https://drive.google.com/file/d/1XxuJmbsqoPw13ki_S74NprLrH6exq4gf/view?usp=drivesdk)) ([3](https://drive.google.com/file/d/1vjMr-W6RBxQBJAVbYfOGAgF_5_Dlf_uD/view?usp=drivesdk)) ([Chapter_5 Notes](https://docs.google.com/document/d/1qIF3C5nc5b0AfOdcUuWYBe_03SpCTD_o/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true))
 - [Margaret J. Wheatley – Margaret J. Wheatley](https://margaretwheatley.com)
-
 
 ## Ecosystem
 
