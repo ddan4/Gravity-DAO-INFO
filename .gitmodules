@@ -1,0 +1,3 @@
+[submodule "first-graviton-training"]
+	path = first-graviton-training
+	url = https://github.com/CommonsBuild/graviton-training
