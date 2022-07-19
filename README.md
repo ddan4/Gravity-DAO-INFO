@@ -32,8 +32,17 @@ All links about Gravity DAO and related to our work.
 
 ## Gravity DAO
 
-[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO) - [Zoom Room](https://us06web.zoom.us/j/87412975245) - [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3Jhdml0eWRhb0BnbWFpbC5jb20)
+[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO) - [Zoom Room](https://us06web.zoom.us/j/87412975245) - [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3Jhdml0eWRhb0BnbWFpbC5jb20) - [Graviton Guide](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs)
 
+- [Graviton Guide](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs)
+  > Gravitons shall be able to:
+  > - Make an effort to be present and accessible to the community, bringing high vibes and improving relationships, bringing the community together.
+  > - Separate the people from problems. Making parties identify with themselves and the other as equals, rather than centering on their own conflictive thoughts-feelings.
+  > - Self-determinate from all parties and recognize key management points by analyzing the information gathered.
+  > - Promote empathy between conflicting parties with emotional intelligence. Building proximity from the abstraction of the problem and the humanization of apparent antithesis.
+  > - Adapt their mindset for tolerance to conflictive situations, keeping calm and diplomacy to stand as an independent third party.
+  > - Propose alternatives to deal with paradoxes while looking for the coexistence and attraction of opposites.
+  > - Act according to institutional regulations while implementing actions to frame unwanted behavior within rules and boundaries (Terms & conditions / Codes of conduct / Graduated sanctions)
 - [Gravity Working Group Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k)
   > Gravity Manifesto Explain what is pushing us apart so Gravity can bring us back together. WG lead: Juan Carlos Note! The Working Group Manifesto is a live document, as the working group evolves (e.g. people join the working group) this document should be updated to reflect these changes. This...
 - [Permanent Pinned Post - Gravity Channel](https://docs.google.com/document/d/1sJntp5OLoRaChRA77PRsITyAEQK3Nq4u-nGXMancIgk)
