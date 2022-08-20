@@ -70,7 +70,14 @@ See more: [Gravity - Role design](https://forum.tecommons.org/t/gravity-role-des
 
 **Fourth**, Gravity acts as a witness and facilitator of the settlement of the dispute and keeps track of agreements and follow up, but each part acquires responsibilities associated with implementation. if the issue persists, it can scale to other Dispute resolution mechanisms for arbitration or litigation.
 
----
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 <h2 style="clear:left;">CREATING A SAFE SPACE</h2>
 
@@ -95,6 +102,15 @@ Empathy brings us together and helps us to take rational and pacific decisions, 
 <blockquote>"Trauma can be created by a shock, when its too much too fast, or when its too little too long" - Any of us can get overwhelmed on those situations, where our body triggers the instinctive reactions of flight, fight freeze or fawn. Thanks @MorganxMovement for your teachings today - <a href="https://twitter.com/GravityDAO/status/1534261516458934272">@GravityDAO · Jun 7, 2022</a></blockquote>
 
 <a href="https://apn.com/resources/fight-flight-freeze-fawn-and-flop-responses-to-trauma/">FIGHT, FLIGHT, FREEZE, FAWN, AND FLOP: RESPONSES TO TRAUMA</a>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 
 <h2 style="clear:left;"> Overcoming communication constraints</h2>
 
@@ -183,6 +199,16 @@ The 4 Ps are an iteration of the PPP model [https://www.law.ox.ac.uk/business-la
 - Needs the good will of the parties to engage in a meaningful communication process, without this, there are other means of resolving disputes that can be more effective and efficient.
 - We make caucuses (private meetings) with all the parties involved to identify common ground and prepare a joint conversation
 - The post mediation process can be outlined in settlement agreements, but also gains legitimacy from follow up and implementation 
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 
 <h2 style="clear:left;">GUIDING QUESTIONS</h2>
 
