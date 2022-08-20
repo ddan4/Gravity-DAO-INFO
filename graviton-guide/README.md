@@ -1,16 +1,16 @@
 # GRAVITON GUIDE
 
-**Step by step guide for mediation in DAOs**
+[**Step by step guide for mediation in DAOs**](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs/edit#slide=id.g13b99c68355_0_0)
 
 ## Contents
 
 - [Ethical Standards and requirements for Gravitons](#ethical-standards-and-requirements-for-gravitons)
-- [CONTINUE THE GRAVITON PATH](#continue-the-graviton-path)
+- [Continue the Graviton path](#continue-the-graviton-path)
 - [Expectations](#expectations)
   - [Gravitons shall be able to](#gravitons-shall-be-able-to)
 - [Steps for Alternative Dispute Resolution](#steps-for-alternative-dispute-resolution)
   - [Empathy is the key](#empathy-is-the-key)
-- [HELPING PEOPLE TO GET TO THEIR OPTIMAL AROUSAL ZONE](#helping-people-to-get-to-their-optimal-arousal-zone)
+- [Helping People to get to their Optimal Arousal Zone](#helping-people-to-get-to-their-optimal-arousal-zone)
   - [Nonviolent Communication (Giraffe / Wolf language)](#nonviolent-communication-giraffe--wolf-language)
 - [The four components of NVC](#the-four-components-of-nvc)
   - [OFNR](#ofnr)
@@ -19,9 +19,9 @@
 - [THE 4 P’s - FRAMEWORK FOR CONFLICT ANALYSIS](#the-4-ps---framework-for-conflict-analysis)
   - [The 4 Ps key factors](#the-4-ps-key-factors)
 - [Gravity Mediation Process](#gravity-mediation-process)
-- [GRAVITY FORMS](#gravity-forms)
-- [MAPPING OBSERVATION PROCESS BATNA](#mapping-observation-process-batna)
-- [KEEPING A REGISTRY FOR TRANSPARENCY AND ACCOUNTABILITY](#keeping-a-registry-for-transparency-and-accountability)
+- [Gravity Forms](#gravity-forms)
+- [Mapping Observation Process BATNA](#mapping-observation-process-batna)
+- [Keeping a Registry for Transparency and Accountability](#keeping-a-registry-for-transparency-and-accountability)
 - [Designing an agreement](#designing-an-agreement)
 - [Conflict Transformation Platform](#conflict-transformation-platform)
 - [Gravity Training Session #9](#gravity-training-session-9)
@@ -69,6 +69,8 @@ See more: [Gravity - Role design](https://forum.tecommons.org/t/gravity-role-des
 **Third**, Gravity offers premises to frame the dispute in a non adversarial way and to conduct the mediation process aiming to reach a settlement agreement. Gravity keeps a copy of internal forms for evidence and registry.
 
 **Fourth**, Gravity acts as a witness and facilitator of the settlement of the dispute and keeps track of agreements and follow up, but each part acquires responsibilities associated with implementation. if the issue persists, it can scale to other Dispute resolution mechanisms for arbitration or litigation.
+
+---
 
 <h2 style="clear:left;">CREATING A SAFE SPACE</h2>
 
