@@ -207,16 +207,8 @@ usp=drivesdk)
 - [Practice and test Liberating Structuree 3/22](https://www.meetup.com/facilitation-lab-and-new-work-practices/events/284067705)
 - [The Wisdom and/or Madness of Crowds](https://ncase.me/crowds)
   > an interactive guide to human networks
-
-### Leadership
-
-- [Sharma: The 8 Forms of Wealth](https://www.success.com/sharma-the-8-forms-of-wealth) 
-  > In my mind, wealth and leadership aren’t just about making money. There are actually eight elements that you want to make sure are at world-class levels before you call yourself rich (and truly successful).
-- [Sharma: The Time Tactics of Leaders](https://www.success.com/sharma-the-time-tactics-of-leaders/)
-  > One of the things the best of the best in business (and life) do staggeringly well is they leverage time to create spectacular results. We all have the same amount of time in a day/month/life. Those who use it poorly live half lives. Those who use it well become superstars.
-- [A Conversation with Julie Diamond, Author of POWER: A USER'S GUIDE](https://www.youtube.com/watch?v=koARB7sAMNU) 
-  > Why do some people abuse power while others don't? That question is at the core of POWER: A USER'S GUIDE, the latest book by coach, facilitator, educator, an...
-- [Servant leadership - Wikipedia](https://en.wikipedia.org/wiki/Servant_leadership) 
+- [Liberating Structures - 9. What, So What, Now What? W³](https://www.liberatingstructures.com/9-what-so-what-now-what-w) 
+  > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
 - [Liberating Structures - Leadership Principles](https://www.liberatingstructures.com/principles/)
   > 1. Include and Unleash Everyone
   > 2. Practice Deep Respect for People and Local Solutions
@@ -229,6 +221,16 @@ usp=drivesdk)
   > 9.  Engage In Seriously-Playful Curiosity
   > 10. Never Start Without Clear Purpose
   - [Why use Liberating Structures?](https://youtube.com/playlist?list=PLBlnEMjx5Jb0oCHih4T-h3KKoOKQZtr2A) 
+
+### Leadership
+
+- [Sharma: The 8 Forms of Wealth](https://www.success.com/sharma-the-8-forms-of-wealth) 
+  > In my mind, wealth and leadership aren’t just about making money. There are actually eight elements that you want to make sure are at world-class levels before you call yourself rich (and truly successful).
+- [Sharma: The Time Tactics of Leaders](https://www.success.com/sharma-the-time-tactics-of-leaders/)
+  > One of the things the best of the best in business (and life) do staggeringly well is they leverage time to create spectacular results. We all have the same amount of time in a day/month/life. Those who use it poorly live half lives. Those who use it well become superstars.
+- [A Conversation with Julie Diamond, Author of POWER: A USER'S GUIDE](https://www.youtube.com/watch?v=koARB7sAMNU) 
+  > Why do some people abuse power while others don't? That question is at the core of POWER: A USER'S GUIDE, the latest book by coach, facilitator, educator, an...
+- [Servant leadership - Wikipedia](https://en.wikipedia.org/wiki/Servant_leadership) 
 - [How Embodied Leadership Can Take Your Work to The Next Level.](https://us02web.zoom.us/meeting/register/tZIlduiorDkiG9NqnQ6EO0aeZO5zrjgHfFso) Zoom
   > There is a new “normal,” a new world emerging in the midst of all the chaos we currently experience. We know that our work with individuals and families makes a huge difference in their lives and in the lives of all they touch. We are called now to step into the next level of leadership, step more fully into the light of all that is calling us and give our gifts. As Jean Houston says, “These are the times, and WE are the people!” What is needed now more than ever is embodied leadership. This is leadership that comes more from the heart and less from the head. It is relational, compassionate and inclusive. In this podcast we’ll explore this and ways that you can begin to lead from your whole self and begin to make an even greater difference.
 - [Content for Masterclass](https://docs.google.com/document/d/18GEmubW_Lco_fSCIIEzMq4WyMkCintKDRnOuji6plUc)
@@ -370,8 +372,6 @@ usp=drivesdk)
   > What happens after everything falls apart? The end of the Bronze Age was a moment when an entire network of ancient civilizations collapsed, leaving behind only clues to what happened. Today, scholars have pieced together a story where everything from climate change to mass migration to natural disasters played a role. What the end of the Bronze Age can teach us about avoiding catastrophe and what comes after collapse.
 - [THE COLLAPSE OF OLIGARCHIC CAPITALISM AND THE RISE OF REGENERATIVE LEARNING: HOW THE SCIENCE OF ENERGY SYSTEMS CLARIFIES WHAT’S HAPPENING TODAY AND WHAT COMES NEXT - Sally J. GOERNER](https://bsahely.com/2020/03/05/the-collapse-of-oligarchic-capitalism-and-the-rise-of-regenerative-learning-how-the-science-of-energy-systems-clarifies-whats-happening-today-and-what-comes-next-sally-j-goerner) 
   > We live in a head-spinning, gut-wrenching time of multiplying crises. At home we face outsourced jobs, crumbling cities, underpaid teachers, unaffordable healthcare, endless wars, political corrupt…
-- [Liberating Structures - 9. What, So What, Now What? W³](https://www.liberatingstructures.com/9-what-so-what-now-what-w) 
-  > liberating structures, social invention.net, microstructures, disruptive innovation, behavior change, collaboration, social invention, diffusion of innovation, strategy, transformation, heuristics, complexity science, emergence
 - [How to Escape from a Sick Society](https://academyofideas.com/2021/09/how-to-escape-from) ([Video](https://www.youtube.com/watch?v=JeliRVZ4V00)) 
   > Aleksandr Solzhenitsyn, reflecting on the Soviet Union’s descent into totalitarian rule in the mid-20th century, and all the things that could have been done to prevent it, wrote the following: “If…if… We didn’t love freedom enough. And even more – we had no awareness of the real situation. . .we hurried to submit. We submitted with pleasure! … We purely and simply deserved everything that
 - [adrienne maree brown](https://adriennemareebrown.net)
@@ -385,14 +385,13 @@ usp=drivesdk)
 
 - [Abysmal_leadership_theory_a_decolonized.pdf](https://drive.google.com/file/d/1jbg62uT62hEIvRHZyWt5oZH9H-6h84BE/view?usp=drivesdk)
   > Ours is, by necessity, a speculative exercise; an attempt to think through cultural and ethical logics that we have yet to encounter. It is, in temporal terms, something akin to a reverse thought experiment in counterfactual history; one in which we try to work through the ‘what ifs’ of prospective futures in which ecocrisis has translated, at worst, into geopolitical meltdown or, at the very least, significant modification of our current ways of life. However speculative, we hope that the reasoning and ‘discoveries’ yielded by this thought experiment prove to be of value to the scholarly community and beyond.
-- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
 - [Discourse on Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)
 - [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
-- [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
 - [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
   > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
 - [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
-  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
+- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+- [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
 
 ## Personal Development
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change
