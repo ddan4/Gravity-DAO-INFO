@@ -124,7 +124,7 @@ All links about Gravity DAO and related to our work.
 
 ### Docs
 
-- [Gravity WG Related Docs](https://drive.google.com/drive/folders/1t3to8Vq1soHMCDH0iicS6DPT2aeXSUaV?usp=sharing)
+- [**Gravity WG Related Docs**](https://drive.google.com/drive/folders/1t3to8Vq1soHMCDH0iicS6DPT2aeXSUaV?usp=sharing)
 - [Gravity Sign-up Spreadsheet](https://docs.google.com/spreadsheets/d/1PhvCZJFkk_j63Q8Aszay2DAn2qg39x6zJDSLlj924TY/edit#gid=0)
 - [Protocol for TEC Calls](https://docs.google.com/document/d/12Pl3mpF5IautPtVdPHjh0tc8fu6JM2iTCnGyumCmULc/edit#)
 - [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
@@ -132,19 +132,16 @@ All links about Gravity DAO and related to our work.
 - [Gravity Forum Posts](https://docs.google.com/document/d/1UVbiVCOk8X4nYF6AcnLKw-87yOzSo20I0PMHH2a0cEU/edit) Work Doc
 - [GRAVITON TRAINING.](https://docs.google.com/document/d/1yqLokbvhveJafMPTfljFd1DDzQ6k8NuF7qRnct4fl2E/edit#-) Work Doc from before the 1st training
 - [Gravity Working Group Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit)
+- [Graviton SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit) Presentation
+- [Graviton practice groups](https://docs.google.com/presentation/d/1ouTLtif-brFs5I7LKB_t0At2H1scNj6izdUoaK_3iQE)
 - [Gravity observation form](https://docs.google.com/document/d/1LbytXdLBu3XC9BBTQA6aiZYPC02j-fxcRoiqtUDdGyg)
   > Gravity observation form (Organization name) Participants: This form aims to help mapping conflicts by framing parties' versions of the story in the most impartial way possible. We want to foster non adversarial positions and free of judgment descriptions of challenging situations to ease the f...
+- [Graviton venn Diagram (OFNR + 4Ps)](https://docs.google.com/presentation/d/1vZsWR6mO8aFRvpjuILmfVYlQXRVg_SxTvuvErjtinCg)
+  > Observations Feelings Requests Needs Possible solutions People Problem Process Gravity DAO OFNR + 4Ps Resistance change Purpose Consequences Short term Long term Strategy Legitimacy Intention
 - [Gravity commons prize script](https://docs.google.com/document/d/1HsmFAZ65GU877HEFteOBi_Yh565cS6iLJXUUUTmZmdg)
 - [Gravity survey!](https://docs.google.com/document/d/1NavAVn0ipiSsfFAv6SOG89tJp1ihNNzpMEAY-YmXc2c)
   > Intro Research Goal The Gravity Working group has decided to prepare and apply a survey to identify key needs related to conflict management in DAOs
-
-### Presentation
-- [Graviton venn Diagram (OFNR + 4Ps)](https://docs.google.com/presentation/d/1vZsWR6mO8aFRvpjuILmfVYlQXRVg_SxTvuvErjtinCg)
-  > Observations Feelings Requests Needs Possible solutions People Problem Process Gravity DAO OFNR + 4Ps Resistance change Purpose Consequences Short term Long term Strategy Legitimacy Intention
-- [Gravity](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
-  > Remote work Sleep Burnout
-- [Graviton SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit) Presentation
-- [Graviton practice groups](https://docs.google.com/presentation/d/1ouTLtif-brFs5I7LKB_t0At2H1scNj6izdUoaK_3iQE)
+- [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
 
 ### Drafts
 - [Gravity funding final reviews](https://docs.google.com/document/d/1u0mF9x5vEIYOgK5CWI-hH6Vwnfg8Hy7VrVB_LL-Q0Zc)
