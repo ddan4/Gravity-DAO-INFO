@@ -1,7 +1,8 @@
 # Gravity DAO on Youtube
 
-## Contents
+* [Commons Prize Finalist: 🏅 Gravity DAO🏅](https://www.youtube.com/watch?v=shOH8OLgTkk)
 
+## Contents
 - [Graviton Trainings - YouTube](#graviton-trainings---youtube)
   - [First Graviton Training](#first-graviton-training)
   - [Second Graviton Training](#second-graviton-training)
@@ -9,9 +10,10 @@
 - [Gravity Working Group](#gravity-working-group)
   - [Gravity Practice Groups](#gravity-practice-groups)
   - [Gravity Co-ordination call](#gravity-co-ordination-call)
-  - [Book Club - Nonviolent Communication](#book-club---nonviolent-communication)
   - [Psychology Research](#psychology-research)
-* [Commons Prize Finalist: 🏅 Gravity DAO🏅](https://www.youtube.com/watch?v=shOH8OLgTkk)
+- [TEC Book Club](#tec-book-club)
+  - [Governing The Commons](#governing-the-commons)
+  - [Nonviolent Communication](#nonviolent-communication)
 
 ## Graviton Trainings - YouTube
 
@@ -114,16 +116,6 @@
 * [W43 Gravity WG: Coordination call](https://www.youtube.com/watch?v=UudQ_nlOUoM&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=32)
 * [W40 Gravity WG: Coordination call, future of gravity](https://www.youtube.com/watch?v=nQaQ2e8o77I&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=35)
 
-### Book Club - Nonviolent Communication
-
-* [NVC Book Club Chapter 1: Giving From the Heart](https://www.youtube.com/watch?v=J5-Oqr2ZA8w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=1)
-* [NVC Book Club Chapter 2: Communication That Blocks Compassion](https://www.youtube.com/watch?v=rZR7ui88E8Y&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=2)
-* [NVC Book Club Chapter 3: Observing Without Evaluating](https://www.youtube.com/watch?v=_4RY6TYdoNA&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=3)
-* [NVC Book Club Chapter 4: Identifying and Expressing Feelings](https://www.youtube.com/watch?v=0HsUCvIU9FQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=4)
-* [NVC Book Club Chapter 5: Taking Responsibility for Our Feelings](https://www.youtube.com/watch?v=FWH9ebj3Ppo&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=5)
-* [NVC Book Club Chapter 6: Requesting That Which Would Enrich Life](https://www.youtube.com/watch?v=3opeXmWFUoQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=6)
-* [NVC Book Club Chapter 7: Receiving Empathically](https://www.youtube.com/watch?v=ykl7_gBsx9w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=7)
-
 ### Psychology Research
 
 * [TEC Psychology Research #5](https://www.youtube.com/watch?v=kChz1ZlzvFQ&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=22)
@@ -136,3 +128,28 @@
 * [TEC Psychology Research #12](https://www.youtube.com/watch?v=ohyMvFWW2ZQ&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=5)
 * [TEC Psychology Research #13](https://www.youtube.com/watch?v=qU1dqG1FrPQ&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=4)
 * [TEC Psychology Research #14](https://www.youtube.com/watch?v=emNbV3HjfNc&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=2)
+
+## TEC Book Club
+### Governing The Commons
+
+[W1 TE Book Club: Towards a decentralized publishing house!](https://www.youtube.com/watch?v=3ddAgeixOMA&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=10)
+[Ostrom’s Governing the Commons - Book Club Chapter 2](https://www.youtube.com/watch?v=GO9o_Xd8Xdw&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=9)
+[Ostrom’s Governing the Commons - Book Club Chapter 3 Part 1](https://www.youtube.com/watch?v=K7Iy6-yo12c&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=8)
+[Ostrom’s Governing the Commons - Book Club Chapter 3 Part 2](https://www.youtube.com/watch?v=hhG8fGuWyAQ&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=7)
+[Ostrom’s Governing the Commons - Book Club Chapter 4 Part 1](https://www.youtube.com/watch?v=gWwL0WXkO_s&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=6)
+[Ostrom’s Governing the Commons - Book Club Chapter 4 Part 2](https://www.youtube.com/watch?v=uWJhkX3ijMU&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=5)
+[Ostrom’s Governing the Commons - Book Club Chapter 5 Part 1](https://www.youtube.com/watch?v=2KfpWrYRl5A&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=4)
+[Ostrom’s Governing the Commons - Book Club Chapter 5 Part 2](https://www.youtube.com/watch?v=D_lY653Myqc&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=3)
+[Ostrom’s Governing the Commons - Book Club Chapter 6 Part 1](https://www.youtube.com/watch?v=j9VxlU4hCCM&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=2)
+[Ostrom’s Governing the Commons - Book Club Chapter 6 Part 2](https://www.youtube.com/watch?v=42rnjUjRKV0&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=1)
+
+### Nonviolent Communication
+
+* [NVC Book Club Chapter 1: Giving From the Heart](https://www.youtube.com/watch?v=J5-Oqr2ZA8w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=1)
+* [NVC Book Club Chapter 2: Communication That Blocks Compassion](https://www.youtube.com/watch?v=rZR7ui88E8Y&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=2)
+* [NVC Book Club Chapter 3: Observing Without Evaluating](https://www.youtube.com/watch?v=_4RY6TYdoNA&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=3)
+* [NVC Book Club Chapter 4: Identifying and Expressing Feelings](https://www.youtube.com/watch?v=0HsUCvIU9FQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=4)
+* [NVC Book Club Chapter 5: Taking Responsibility for Our Feelings](https://www.youtube.com/watch?v=FWH9ebj3Ppo&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=5)
+* [NVC Book Club Chapter 6: Requesting That Which Would Enrich Life](https://www.youtube.com/watch?v=3opeXmWFUoQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=6)
+* [NVC Book Club Chapter 7: Receiving Empathically](https://www.youtube.com/watch?v=ykl7_gBsx9w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=7)
+
