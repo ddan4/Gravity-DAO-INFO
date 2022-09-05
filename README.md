@@ -62,8 +62,6 @@ All links about Gravity DAO and related to our work.
 - [Gravity: Conflict management and trust creation in Web3.](https://gravitydao.medium.com/gravity-conflict-management-and-trust-creation-in-web3-3afa66e43707) 
   > Let’s imagine a startup moving along, developing successfully, and then a disagreement occurs between its founders, leaving their shared…
 - [Gravity: Conflict management and trust creation in Web3.](https://medium.com/@gravitydao/gravity-conflict-management-and-trust-creation-in-web3-3afa66e43707) 
-  > Let’s imagine a startup moving along, developing successfully, and then a disagreement occurs between its founders, leaving their shared…
-
 
 ### Helpful
 - [xDAI Chain - Metamask](https://metamask.zendesk.com/hc/en-us/articles/360052711572-How-to-connect-to-the-xDai-network)
@@ -228,8 +226,7 @@ All links about Gravity DAO and related to our work.
   > Gravity session #3, cohort 2 Oct 5 Group break-out: Juanka, Nic, Tamara, Humberto, Forest, Leen Creating spirals into and out of positions of greater responsibility. Rituals of honouring and appreciation, time-bound roles, advisor roles that people can step into, supported hiatus
 - [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE)
 - [GRAVITON TRAINING #2 GRAVITY BRINGS US TOGETHER!](https://docs.google.com/presentation/d/1LsOtqG3UopuEstzCy5y8k5F23Y5t5pmevT4XQsfVuqM)
-- [Prototyping presentation](https://docs.google.com/presentation/d/1AniRrctVNqnDgib5h1EFA3-vXvh0EkaeCV1MA0eLZj0)
-  > Gravity Session 3: Organizational Design and Creating Pathways for All
+- [Gravity Session 3: Organizational Design and Creating Pathways for All](https://docs.google.com/presentation/d/1AniRrctVNqnDgib5h1EFA3-vXvh0EkaeCV1MA0eLZj0)
 - [Loie's Graviton Lesson](https://docs.google.com/presentation/d/1Cdtr-eKGy85asegTx5DwVrSSyubPuGun_J89YtWZKu0)
   > Conflict Revolution Decentralized methods of resolving conflict
 - [2nd Graviton training study plan](https://docs.google.com/document/d/1txyn1dND8xG_ofNG_rxRzvNuBfGl3j20w9Au5N8kq0E)
