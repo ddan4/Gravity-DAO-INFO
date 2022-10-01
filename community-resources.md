@@ -352,6 +352,7 @@ usp=drivesdk)
 - [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
 - [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
 
+
 ### Spiral Dynamics
 
 - [NEW METHODS OF ENGAGEMENT: A CASE STUDY ON SPIRAL DYNAMICS TO IMPROVE UNION-EMPLOYER RELATIONSHIPS](https://drive.google.com/file/d/1lbz6gBMadWrHca6MHqBxPoaFIVmIJanM/view)
@@ -386,12 +387,8 @@ usp=drivesdk)
 - [Abysmal_leadership_theory_a_decolonized.pdf](https://drive.google.com/file/d/1jbg62uT62hEIvRHZyWt5oZH9H-6h84BE/view?usp=drivesdk)
   > Ours is, by necessity, a speculative exercise; an attempt to think through cultural and ethical logics that we have yet to encounter. It is, in temporal terms, something akin to a reverse thought experiment in counterfactual history; one in which we try to work through the ‘what ifs’ of prospective futures in which ecocrisis has translated, at worst, into geopolitical meltdown or, at the very least, significant modification of our current ways of life. However speculative, we hope that the reasoning and ‘discoveries’ yielded by this thought experiment prove to be of value to the scholarly community and beyond.
 - [Discourse on Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)
-- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
-- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
-  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
-- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
-- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
 - [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
+- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
 
 ## Personal Development
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change

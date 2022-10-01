@@ -140,6 +140,11 @@ All links about Gravity DAO and related to our work.
 - [Gravity survey!](https://docs.google.com/document/d/1NavAVn0ipiSsfFAv6SOG89tJp1ihNNzpMEAY-YmXc2c)
   > Intro Research Goal The Gravity Working group has decided to prepare and apply a survey to identify key needs related to conflict management in DAOs
 - [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
+- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
+- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
+  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
+- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
+- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
 
 ### Drafts
 - [Gravity funding final reviews](https://docs.google.com/document/d/1u0mF9x5vEIYOgK5CWI-hH6Vwnfg8Hy7VrVB_LL-Q0Zc)
