@@ -2,25 +2,25 @@
 
 ## People
 ### Co-Hosts
-- Bianca, Incandenza, JuanK: GravityDAO 
+- Bianca, Incandenza, JuanK: GravityDAO of TEC
 ### Guests
 - Jake, Patrick: [TheWorkDAO](https://www.theworkdao.com/)
 - Bill: [Opolis](https://opolis.co/) 
 
 ## Contents
-- [Question 9: Can DAO offer similar benefits as traditional corporations?](#question-9-can-dao-offer-similar-benefits-as-traditional-corporations)
-- [Question 10: How does the future of work look?](#question-10-how-does-the-future-of-work-look)
-- [Introduction: Bill (Opolis)](#introduction-bill-opolis)
-- [Introduction: Patrick (WorkDAO)](#introduction-patrick-workdao)
-- [Question 11: What's the difference between a "Pure DAO" and Limited Liability DAO](#question-11-whats-the-difference-between-a-pure-dao-and-limited-liability-dao)
-- [Question 12: You hire people on behalf of a DAO, who are legally working through you, and can use that legal protection to work for other DAOs?](#question-12-you-hire-people-on-behalf-of-a-dao-who-are-legally-working-through-you-and-can-use-that-legal-protection-to-work-for-other-daos)
-- [Question 13: How will decentralized employment organizations compete?](#question-13-how-will-decentralized-employment-organizations-compete)
-- [Question 14: As a DAO contributor with no benefits, if I join Opolis or WorkDAO, how does that work?](#question-14-as-a-dao-contributor-with-no-benefits-if-i-join-opolis-or-workdao-how-does-that-work)
-- [Question 16: How do all the different jurisdictions impact this labor market?](#question-16-how-do-all-the-different-jurisdictions-impact-this-labor-market)
-- [Question 17: How receptive are DAOs to improving work conditions for their contributors?](#question-17-how-receptive-are-daos-to-improving-work-conditions-for-their-contributors)
-- [Question 18: How does WorkDAO work for projects having smaller treasuries?](#question-18-how-does-workdao-work-for-projects-having-smaller-treasuries)
-- [Question 19: Many people in Web3 stay off the grid and have much skepticism towards how DAOs are being tied to nation state systems?](#question-19-many-people-in-web3-stay-off-the-grid-and-have-much-skepticism-towards-how-daos-are-being-tied-to-nation-state-systems)
-- [Conclusion: What's next, where can people learn more about you?](#conclusion-whats-next-where-can-people-learn-more-about-you)
+- Question 9: [Can DAO offer similar benefits as traditional corporations?](#question-9-can-dao-offer-similar-benefits-as-traditional-corporations)
+- Question 10: [How does the future of work look?](#question-10-how-does-the-future-of-work-look)
+- [Introducing Bill](#introducing-bill-opolis) Opolis
+- [Introducing Patrick](#introducing-patrick-workdao) WorkDAO
+- Question 11: [What's the difference between a "Pure DAO" and Limited Liability DAO](#question-11-whats-the-difference-between-a-pure-dao-and-limited-liability-dao)
+- Question 12: [You hire people on behalf of a DAO, who are legally working through you, and can use that legal protection to work for other DAOs?](#question-12-you-hire-people-on-behalf-of-a-dao-who-are-legally-working-through-you-and-can-use-that-legal-protection-to-work-for-other-daos)
+- Question 13: [How will decentralized employment organizations compete?](#question-13-how-will-decentralized-employment-organizations-compete)
+- Question 14: [As a DAO contributor with no benefits, if I join Opolis or WorkDAO, how does that work?](#question-14-as-a-dao-contributor-with-no-benefits-if-i-join-opolis-or-workdao-how-does-that-work)
+- Question 15: [How do all the different jurisdictions impact this labor market?](#question-15-how-do-all-the-different-jurisdictions-impact-this-labor-market)
+- Question 16: [How receptive are DAOs to improving work conditions for their contributors?](#question-16-how-receptive-are-daos-to-improving-work-conditions-for-their-contributors)
+- Question 17: [How does WorkDAO work for projects having smaller treasuries?](#question-17-how-does-workdao-work-for-projects-having-smaller-treasuries)
+- Question 18: [Many people in Web3 stay off the grid and have much skepticism towards how DAOs are being tied to nation state systems?](#question-18-many-people-in-web3-stay-off-the-grid-and-have-much-skepticism-towards-how-daos-are-being-tied-to-nation-state-systems)
+- [Conclusion](#conclusion-whats-next-where-can-people-learn-more-about-you)
 
 ## Transcript
 
@@ -50,7 +50,7 @@ The future, a lot of it is unknown, but I said, we are looking at new benefits t
 
 Not everybody is, it's not like your traditional companies where everyone's in the same place and you can go out and do like work team things together or whatever. It's very much needs to be adapted for the Web Three.   
 
-### Introduction: Bill (Opolis)
+### Introducing Bill (Opolis)
 
 **Bill**:    I'm finally in like 15 minutes. Twitter spaces doesn't work with the desktop Twitter. You have to use it on your phone.  
 
@@ -65,7 +65,7 @@ The mission and the goal is pretty shared, **it's all about getting people, espe
 
 That's what we do. I'm on the product side. Like Jake thinking about what better benefits can we get folks, what can we do to improve the experience of being like a crypto native freelancer? What integrations can we offer so that the freelancers that join Opus really have like a commercial command center at their fingertips and can manage their work life from a single place.  
 
-### Introduction: Patrick (WorkDAO)
+### Introducing Patrick (WorkDAO)
 
 (13:35)    
 **Incandenza**:    Less alert, Patrick. I would like to introduce yourself as well.  
@@ -170,7 +170,7 @@ Once we contract on the DAO level or a sub DAO level through a governance propos
 
 Then on top of that, what the DAO wants to provide to their employ and to their contributors, if they don't want to contribute any additional to the benefits side, then it' gonna work the same thing as Opolis. Then the contributor like yourself will still have access to the benefits and still be protected. The contributions would come out of your pocket only.  
 
-### Question 16: How do all the different jurisdictions impact this labor market?
+### Question 15: How do all the different jurisdictions impact this labor market?
 
 (29:26)    
 **Bianca**:    Wow. That was, yeah. Thank you for answering that. That also makes me think about you said there are so many different countries and different tax regimens, different public welfare systems in Web two. How does this background diversity affect a hyper connected labor market?  
@@ -189,7 +189,7 @@ We wanna be better than Web two. When we get the next wave, we want to encourage
 
 Even Web two, they hire internationally. They've been doing that for the last 10 years, and it's been normal and they've been offering more than what the statutory requirements are. I don't know if it's that big of a deal, in my opinion, since we should be doing more than the minimum.  
 
-### Question 17: How receptive are DAOs to improving work conditions for their contributors?
+### Question 16: How receptive are DAOs to improving work conditions for their contributors?
 
 (32:47)    
 **Incandenza**:    Yeah, totally agree on that should be like Web Three. It's all about building a better environment for everybody. Do DAO understand that what's the benefit that they can have offering better condition to their contributors? Are they receptive on what you're offering? Like what are the reactions normally  
@@ -208,7 +208,7 @@ DAO are looking at this as a competitive advantage. Like cross collaboration, DA
 
 The biggest issue actually people that have in this space is actually trying to find talent, find devs that have solidity & rust experience. Keeping the current core teams there at some point is gonna have to go beyond passion and into something that entices people to contribute more benefits is just gonna be that extra thing. That's how I see it.  
 
-### Question 18: How does WorkDAO work for projects having smaller treasuries?
+### Question 17: How does WorkDAO work for projects having smaller treasuries?
 
 (36:10)    
 **Incandenza**:    Thanks. Definitely a competitive advantage is a big point in attracting like the big talent. Jake, a question for you does WorkDAO help with DAOs having smaller treasuries to offer benefits to their contributors as well, or your target is just like big DAO?
@@ -223,7 +223,7 @@ The biggest issue actually people that have in this space is actually trying to 
 
 **Incandenza**:    Thanks Juan. I know you would like to ask a question.  
 
-### Question 19: Many people in Web3 stay off the grid and have much skepticism towards how DAOs are being tied to nation state systems?
+### Question 18: Many people in Web3 stay off the grid and have much skepticism towards how DAOs are being tied to nation state systems?
 
 (38:06)    
 **Juank**:    Sure. I wanted to ask on the end user of a contributor, for example, I know that there's a lot of people that stay off the grid and there's a lot skepticism to how the nation state systems are adopting Web Three within their jurisdictions. 
