@@ -1,6 +1,35 @@
 # Welfare at Work in Web3 - Part 1
 
-## Introduction
+## People
+### Co-Hosts
+- Bianca, JuanK. GravityDAO of TEC\CommonsStack.
+- Incandenza. Aragon.
+### Guests
+- Loie. *PeopleOps*: Giveth, CommonsStack, Gitcoin. *Founder*: People Operations Guild.
+- Heather. *PeopleOps*: Giveth, CommonsStack, Gitcoin.
+- Daniel. *Founder*: RNDAO. *PeopleOps*: Aragon.
+- Ben. PocketDAO.
+
+## Contents
+
+- [JuanK Opening](#juank-opening)
+- [Introducing Loie](#introducing-loie-peopleops-giveth-commonsstack-gitcoin-founder-people-operations-guild)  PeopleOps: Giveth, CommonsStack, Gitcoin. Founder: People Operations Guild
+- [Introducing Heather](#introducing-heather-peopleops-giveth-commonsstack-gitcoin)  PeopleOps: Giveth, CommonsStack, Gitcoin
+- [Introducing Daniel](#introducing-daniel-founder-rndao-peopleops-aragon) Founder: RNDAO. PeopleOps: Aragon
+- [Introducing Ben](#introducing-ben-pocketdao) PocketDAO
+- Question 1: [How should DAOs take care of contributors?](#question-1-how-should-daos-take-care-of-contributors)
+- Question 2: [How to balance contributors needs organizational needs?](#question-2-how-to-balance-contributors-needs-organizational-needs)
+- Question 3: [Self-leadership and the Onboarding process](#question-3-self-leadership-and-the-onboarding-process)
+- Question 4: [How do you create clarity with new contributors?](#question-4-how-do-you-create-clarity-with-new-contributors)
+- Question 5: [What are you looking for in new contributors?](#question-5-what-are-you-looking-for-in-new-contributors)
+- Question 6: [How can DAO take care to the health of their contributors?](#question-6-how-can-dao-take-care-to-the-health-of-their-contributors)
+- Question 7: [Attracting more women to web3](#question-7-attracting-more-women-to-web3)
+- Question 8: [What are challenges the web3 job market faces? (lightning round)](#question-8-what-are-challenges-the-web3-job-market-faces-lightning-round)
+- [Conclusion](#conclusion)
+
+## Transcript
+
+### JuanK Opening
 
 (02:02)    
 **JuanK**:    I want to thank you all for being present here for your time and for your participation. I hope that we can have a really good talk. Welcome you from wherever you're logging in. We are from multiple parts of the globe here, and that's amazing to be in sync. 
@@ -9,32 +38,46 @@ I am really happy about the topics that we will be talking about today because *
 
 That is Web Three, and it's very amazing that we will be **talking about working conditions and welfare in DAO and in Web Three projects**. Here we have amazing people that I am going to let themselves to introduce themselves and to speak a bit about who they are, what do they do and why do you do it the way you do it? And why do you like to do it here? 
 
-We have people who have been working with human resources in multiple communities, and they can really teach to us with their experience and also contribute to the learning of all of us. Yeah, I will first pass the mic to Loie. How are you Loie? Where are you logging from? Yep.  
+We have people who have been working with human resources in multiple communities, and they can really teach to us with their experience and also contribute to the learning of all of us. 
 
-**Loie**:    Hey Juan. I am logging in from a pretty special space. Actually. It's fitting I'm at full node in Berlin right now, which is cowork in space full of Web Three people. I'm in this little tree house that's shaped like a womb and is a rest space. Spatially, this is totally a micro welfare at work in Web Three. I'm doing well. Speaking with you all. Now, I'll just say a little about me as contributed as a people ops person in Giveth and CommonsStack and Bitcoin. 
+### Introducing Loie (PeopleOps: Giveth, CommonsStack, Gitcoin. Founder: People Operations Guild)
 
-I also founded the People Operations Guild, which is a Guild for all the people ops folks. I've Web Three, all of us who have blocks leads do different works. I really love this work. I come from activist communities, but I'm a care person at my core. I love taking that to both the personal and the policies have in places creating great policies for parents and for folks going through hard times and for professional development and continuing education for peer review and doing all these things and a socially decent instrument.  
+**JuanK**:    I will first pass the mic to Loie. How are you Loie? Where are you logging from? 
 
-**Loie**:    I'm very happy to be amongst you guys.  
+**Loie**:    Hey Juan. I am logging in from a pretty special space. I'm at full node in Berlin right now, which is co-work in space full of Web Three people. I'm in this little tree house that's shaped like a womb and is a rest space. Spatially, this is totally a micro-welfare at work in Web Three. I'm doing well. Its good to be speaking with you all. 
 
-**JuanK**:    Thank you, Louis. Thank you. That's amazing to have you here, Heather, would you like to introduce yourself a bit to the space? I also want to remind that I sent some of the guiding questions that we have in an email a bit early today, so that we can prepare ourselves a bit and not be like catched out of the blue with some of the questions that we're preparing. Heather, would you like to talk a bit?  
+Now, I'll just say a little about me as contributed as a people ops person in Giveth and CommonsStack and Gitcoin. I also founded the People Operations Guild. I really love this work. I come from activist communities, but I'm a care person at my core. 
+
+I love taking that to both the personal and participating in creating great policies for parents and for folks going through hard times and for professional development and continuing education, peer review and doing all these things. I'm very happy to be amongst you guys.  
+
+### Introducing Heather (PeopleOps: Giveth, CommonsStack, Gitcoin)
+
+**JuanK**:    Thank you. That's amazing to have you here, Heather, would you like to introduce yourself a bit to the space? 
 
 (08:45)    
-**Heather**:    Yeah, sure. Thank you for telling me that cuz I'm coming from Denver, so I'm just waking up. I've been doing people ops, for Giveth and Commons stack and Gitcoin for the past year and a half. 
+**Heather**:    Yeah, sure. I'm coming from Denver, so I'm just waking up. I've been doing people ops, for Giveth and Commons stack and Gitcoin for the past year and a half. 
 
-**People ops, to me, includes hiring recruiting, doing check-ins and also doing exit interviews**. Before that, my past career life I'm trained as a clinical mental health counselor. I was working in an inpatient adult psychiatric hospital for five years previously. With that experience I really have more of a human centered approach when it comes to human resources *and have really brought in a lot of my counseling techniques into HR*, especially when it comes to interviewing and just dealing with conflict in the workplace and also in the, on the onboarding processes as well. That's all I can think of for now about myself. I'll pass the mic to back, I suppose.  
+**People ops, to me, includes hiring recruiting, doing check-ins and also doing exit interviews**. Before that, my past career life I'm trained as a clinical mental health counselor. I was working in an inpatient adult psychiatric hospital for five years previously. 
 
-**JuanK**:    Thank you, Heather. It's great to have you here. Now. We have two other guests that are really cool. I will pass the mic to Daniel who is the founder of AR DAO and also have been working a lot on these human resources on Aragon. Daniel, nice to have you here. Would you like to introduce yourself?  
+With that experience I really have more of a human centered approach when it comes to human resources *and have really brought in a lot of my counseling techniques into HR*, especially when it comes to interviewing and just dealing with conflict in the workplace and also in the, on the onboarding processes as well. I'll pass the mic back.  
 
-**Daniel**:    Sure. Thank you. Thank you very much for having me and great to have this conversation with this cool group. I come from an organization design background actually started my career as a chef in hospitality doing experience design. That still informs the way, of these issues, both the good things and the bad things I see in the space and how we can progress. Generally, I've been a community builder, a researcher and entrepreneur through these lens of organization design or how can people work together from a systemic perspective or how do groups interact and so on. Thank you for having me.
+### Introducing Daniel (Founder: RNDAO, PeopleOps: Aragon)
+
+**JuanK**:    Thank you, Heather. It's great to have you here. We have two other guests that are really cool. I will pass the mic to Daniel who is the founder of RNDAO and also have been working a lot on these human resources on Aragon. Daniel, nice to have you here. Would you like to introduce yourself?  
+
+**Daniel**:    Sure. Thank you. Thank you very much for having me and great to have this conversation with this cool group. I come from an organization design background actually **started my career as a chef in hospitality doing experience design**. That still informs both the good things and the bad things I see in the space and how we can progress. 
+
+Generally, I've been a community builder, a researcher and entrepreneur through these lens of organization design or how can people work together from a systemic perspective or how do groups interact and so on. Thank you for having me.
+
+### Introducing Ben (PocketDAO)
 
 **JuanK**:    Amazing. Now Ben, you are representing [PocketDAO](https://www.pokt.network/). What can you tell us about yourself and your experience?
 
-**Ben**:    Thank you. Good to be here. Yeah, I'm pretty well. Thanks. I'm in Bali at the moment, so it's a nice warm evening here and as always great to speak to people all around the world. I have always had my work in the tech and the purpose space. I really think technology is a great thing for the world, but it really needs to be focused on the human component and been really fortunate to be able to work in some organizations that have tried to bring those two things together. 
+**Ben**:    Thank you. Good to be here. Yeah, I'm pretty well. Thanks. I'm in Bali at the moment, so it's a nice warm evening here and as always great to speak to people all around the world. I have always had my work in the tech and the purpose space. 
 
-I got into Web Three because it's the best opportunity for us to build new systems that support human flourishing. The conversation that we're gonna have today is about why it's so important, but also the challenges that are in front of us, which are really huge, but all the great people on this call, I'm sure. I'm sure we can do some really cool things. 
+I really think technology is a great thing for the world, but it really needs to be focused on the human component and been really fortunate to be able to work in some organizations that have tried to bring those two things together. 
 
-## Panel
+**I got into Web Three because it's the best opportunity for us to build new systems that support human flourishing**. The conversation that we're gonna have today is about why it's so important, but also the challenges that are in front of us, which are really huge, but all the great people on this call, I'm sure. I'm sure we can do some really cool things. 
 
 ### Question 1: How should DAOs take care of contributors?
 
@@ -51,21 +94,23 @@ What do you think about this? And do you agree with this description and if so, 
 
 #### BEN
 
-**Ben**:    Yeah, I can do. I think, that's like pretty good assessment. If you want job security and protections and benefits do not work in Web Three right now because they don't exist. It's a fair assessment and something we should lean into in a way, because if we want to create new systems, which is why most of us are here. We have to take on the fact that they don't exist today. The challenge for me currently with this question is whether people actually see that as something that we need to be taking on or not. 
+**Ben**:    Yeah, I can do. I think, that's like pretty good assessment. If you want job security and protections and benefits do not work in Web Three right now because they don't exist. It's a fair assessment and something we should lean into in a way. 
 
-I'd look at a lot of DAOs today. We'll just default to maybe thinking of a number of the larger or more established DAOs that we might think of almost universally, they would have yield bearing activities going on with their treasury. I dunno what it would be, but most of them would be trying to capitalize on their existing treasury in some way through yield bearing assets. 
+If we want to create new systems, which is why most of us are here, we have to take on the fact that they don't exist today. The challenge for me currently with this question is whether people actually see that as something that we need to be taking on or not. 
 
-Very few of them will have the same systems in place. Yep. For providing protections like sick, leave, maternity leave, these similar sorts of things. That's the part that jumps out for me immediately is, why is it that for one set of systems yep. Financial systems, we can go all in and focus in this space quite easily. Then for these social systems, there does not seem to be the same desire or need for us to be exploring that right now. 
+A lot of DAOs today. We'll just default to maybe thinking of a number of the larger or more established DAOs that we might think of almost universally, they would have yield bearing activities going on with their treasury. 
 
-I'm sure I could go more, but that would be my opening thought is this is a problem we should look to take on by being real about the fact that it is a problem. Then asking ourselves some real questions around why we get able to build some types of systems, but so far, yeah. Not able to lean into this in the same way.  
+Very few of them will have the systems in place for providing protections like sick, leave, maternity leave, these similar sorts of things. That's the part that jumps out for me immediately is, why is it that for one set of financial systems, we can go all in on this quite easily. Then for these [new] social systems, there does not seem to be the same desire or need for us to be exploring that right now. 
+
+That would be my opening thought is this is a problem we should look to take on by being real about the fact that it is a problem. Then asking ourselves some real questions around why we get able to build some types of systems, but not able to lean into this in the same way.  
 
 #### LOIE
 
-**Loie**:    I love this question because I've been hearing this phrase passed around the assertion that working in Web Three is working in a 21st century on 21st century tech with 19th century working norms or whatever workplace safety and provisions, it makes me really want to interrogate what it was like to be in a workplace in those times. 
+**Loie**:    I love this question because I've been hearing this phrase passed around the assertion that working in Web Three is **working on 21st century tech with 19th century working norms** or whatever workplace safety and provisions, it makes me really want to interrogate what it was like to be in a workplace in those times. 
 
-I have the sense that this phrase is probably a bit reductive. Just one thing that about is the freedom to contribute broadly, which is something that Web Three excels in and is totally disallowed in most workplaces in the 19th century. Like the non-compete clause or the enforcement that your current employer owns you to a sense owns your work life. 
+I have the sense that this phrase is probably a bit reductive. Just one thing that about is the freedom to contribute broadly, which is something that Web Three excels in and is totally disallowed in most workplaces in the 19th century. Like the non-compete clause or the enforcement that your current employer owns you to a sense, owns your work life. 
 
-You are not allowed enforceable by law to work for anyone else or work for yourself was pretty standard throughout like 17 hundreds, 18 hundreds. I know that, that's one way in which we're breaking that standard in a positive direction, but it is a fair point that yeah. That we lack other elements of job security or various protections and benefits. 
+You are not allowed, enforceable by law, to work for anyone else or work for yourself was pretty standard throughout like 17 hundreds, 18 hundreds. I know that's one way in which we're breaking that standard in a positive direction, but it is a fair point that yeah. That we lack other elements of job security or various protections and benefits. 
 
 As someone who has done recruiting, overall people are paid at market or higher than market in most Web Three roles that I know of.  
 
@@ -75,90 +120,98 @@ As someone who has done recruiting, overall people are paid at market or higher 
 
 **Heather**:    Yeah, this is an interesting question because it can really depend on the ethos of the DAO, because there are some DAOs that are really more like human focus and want to serve the needs of their contributors, especially like when it comes to taxes and pay time off and stuff. 
 
-I do think overall in the Web Three space, there can somewhat be like a philosophical conflict when there's like a pretty large like libertarian streak in this community. Some doubts don't want to create like legal entities that would provide more protection to their contributors because it's in direct conflict with the like libertarian ethos. Yeah, as I said, it's really dependent on what DAO that you are working for. 
+I do think overall in the Web Three space, there can somewhat be like a philosophical conflict when there's like a pretty large like libertarian streak in this community. Some DAOs don't want to create like legal entities that would provide more protection to their contributors because it's in direct conflict with the like libertarian ethos. 
 
-I would also like to echo what Loie said that wages, depending on where you are in the world can actually be like quite competitive. Web Three can actually be like an equalizer of pay because if we pay in crypto we can hire anywhere in the world where a lot of companies can't do that. 
+As I said, it's really dependent on what DAO that you are working for. I would also like to echo what Loie said that wages, depending on where you are in the world can actually be like quite competitive. Web Three can actually be like an equalizer of pay because if we pay in crypto we can hire anywhere in the world where a lot of companies can't do that. 
 
 They can only hire in certain countries. In some ways, it's good news for you if like you're from a country that has a lower cost of living. Then in some other ways it can be bad news if you're from a country that has a higher cost of living. That's my input.  
 
-**JuanK**:    Totally agree with you, Heather, because I am from Columbia and I see working in Web Three as a way to interact with the global market and to escape an economy with very low rewards and very low competition to the global market. That allows people like me and people in Latin America and third world countries to actually get to comp more competent wages worldwide. Daniel, would you like to have the last word on this question?  
+**JuanK**:    Totally agree with you, Heather, because I am from Columbia and I see working in Web Three as a way to interact with the global market and to escape an economy with very low rewards and very low competition to the global market. That allows people like me and people in Latin America and third world countries to actually get more competitive wages worldwide. Daniel, would you like to have the last word on this question?  
 
 #### DANIEL
 
-**Daniel**:    Thanks. Building on top of already the excellent comments, what I'm seeing, or at least how I see it is that there are two main views, two main ways to look at what's happening, or like at least to mindset from which people act. One is a slightly pattern, ballistic mindset. 
+**Daniel**:    Thanks. Building on top of already the excellent comments, what I'm seeing, or at least how I see it is that there are two main mindset from which people act. One is a slightly Paternalistic mindset. 
 
-We could say moral fashion and so on, but it also has a lot of advantages is that there is people who are working for me and I'm responsible for them. I'm taking care of them and so on. That was historically like people having a lifelong career in a corporation. 
+It has a lot of advantages is that there is people who are working for me and I'm responsible for them. I'm taking care of them and so on. That was historically like people having a lifelong career in a corporation. 
 
-Ever since that time over the last a hundred years, that's been changing dramatically. We have a lot more going to these other mindset that is almost more of a relationship of equals where that relates to the libertarian mindset that Heather was speaking.  
+Over the last a hundred years, that's been changing dramatically. We have a lot more gone to this other mindset that is more a relationship of equals that relates to the libertarian mindset that Heather was speaking.  
 
-Now in Web Three, what we ha or the issue is that neither of these mindsets can actually deal with all of the complications of what we have. Cause on one side is fantastic. If we have, if we can have more consensual relationships of equals and so on where it is, not that the employer is in power, but people are more in power or have more power and so on to choose to change and also power to take care of themselves. 
+In Web Three, the issue is that neither of these mindsets can actually deal with all of the complications of what we have. Cause on one side is fantastic. If we we can have more consensual relationships of equals and so on where people have more power to choose, change and take care of themselves. There isn't necessarily an expectation that the DAO needs to take care of them. 
 
-It might not necessarily be an expectation that the let's say the employer or the DAO needs to take care of them. Then on the other side, if we have the issue that individuals might go through hardship, my software troubles might have, I dunno, any situation, or might be coming from an unprivileged background where they have certain difficulties, financial or social or emotional or whatever it is that happens through people's lives.  
+Then on the other side, if we have the issue that individuals might go through hardship: software troubles, any situation, or might be coming from an unprivileged background where they have certain difficulties, financial or social or emotional or whatever it is that happens through people's lives.  
 
 How do we deal with that in a way that's also caring and renegotiating in between these two mindsets. These two relationships is super tricky because we also have a huge variety of stages in the DAO from fledging startups or small groups that come together and themselves don't have a lot of resources or nor a lot of bandwidth and are trying to build something. 
 
 If you start to ask them to take care of maternity leave of one of the two people who are involved well, suddenly one person taking all that other burden, and that might just not be feasible like that unit might simply die under that weight, but we also wanna take care of that person who's going for maternity leave or whatever it is. 
 
-It's some really covering all the inequalities that we have in the world and trying to address all of that at the same time, which is quite challenging, but also the tremendous transformation that could really share a better society, a better world if we can take a good stab in that direction.  
+It's some really covering all the inequalities that we have in the world and trying to address all of that at the same time, which is quite challenging, but also the potential, for tremendous transformation, to create a better world if we can move in that direction.  
 
 **JuanK**:    Wow. That was an amazing first question. Now I am going to pass the mic to another cohost that Incandenza, but I will let him introduce himself and conduct the next question.  
 
-### Question 2: How to balance contributors needs organizational needs?
+### Question 2: How to balance contributors needs vs organizational needs?
 
 (27:09)    
-**Incandenza**:    Hi, everybody a Pablo from Italy. First of all, I would like to thank all the guests for being here in particular, Ben, because I know it's not feeling really well. I can hear it from his voice. I hope appear better. Pablo, from Italy, as I said, I'm a contributor in Aragon. I take care of internal communication and contributor wellbeing. 
+**Incandenza**:    Hi, everybody a Pablo from Italy. First of all, I would like to thank all the guests for being here in particular, Ben, because I know he's not feeling really well. Pablo, from Italy, as I said, I'm a contributor in Aragon. I take care of internal communication and contributor wellbeing. 
 
-This is a theme that I really care about. I would like to jump in on the last comment of Daniel. Introduced expectations, and maybe also introduce the concept of a compromise should be done between expectation and the requirement of the DAO. We have three HR here, plus DAO de who is the founder of a DAO. When you participate in the onboarding process, **what are the challenges that you are facing to balance the contributors and the DAO expectations?** We'd like to start with Daniel.  
+This is a theme that I really care about. I would like to jump in on the last comment of Daniel. Introduced expectations, and maybe also introduce the concept of a compromise should be done between expectation and the requirement of the DAO. 
+
+We have three HR here, plus Daniel who is the founder. When you participate in the onboarding process, **what are the challenges that you are facing to balance the contributors and the DAO expectations?** We'd like to start with Daniel.  
 
 #### DANIEL
 
 **Daniel**:    Thanks. Juan. Perhaps the biggest challenge is around compensation and or rewards more generally speaking, where we even lack a common language to talk about it. We're constantly having to use metaphors that are more coming from Web2 startup world or things like that. 
 
-At least in case we were talking in a situation where we were not offering a job in the traditional sense. The reason a company set up that is gonna hire you and give you an expected salary every month and a series of benefits. 
+At least in our case we are not offering a job in the traditional sense. There isn't a company that's gonna hire you and give you an expected salary every month and a series of benefits. That's not the situation we're in, at least not yet given that we've been bootstrapping the organization for a while. 
 
-That's not the situation we're in, at least not yet given that we've been bootstrapping the organization for a while. It's more a situation in that you kinda join this group as perhaps what could be conceived a bit more of a partnership.  
+It's more a situation in that you kinda join this group as perhaps what could be conceived a bit more of a partnership. That partnership might generate certain resources and you eat what you kill. **We're just going hunting together and trying to make certain things happening**. 
 
-That partnership might generate certain resources and you eat what you kill. We're just going hunting together and trying to make certain things happening. It's more of an entrepreneur entrepreneurial collective. This idea is that people can have more governance power, or perhaps become a co-owner of the thing. 
+It's more of an entrepreneur entrepreneurial collective. This idea is that people can have more governance power, or perhaps become a co-owner of the thing. Even that the group is gonna decide that together is pretty foreign and being able to translate in between these different notions. 
 
-Even that the group is gonna decide that together is pretty foreign and being able to translate in between these different notions while also saying, we are not doing an IPO, cause that's a different thing, it requires this new language. 
+Also saying, we are not doing an IPO, cause that's a different thing, **it requires this new language.** On top of all the other complexities of how do you even operate in this environment, do you join teams? 
 
-On top of all the other complexities of how do you even operate in this environment, do you join teams? Are you really that encouraged to start taking action and to be like entering into a group full of people and say: "Hello everyone. Hi, why don't we do this?" It is a quite unnatural behavior to some degree. 
+Are you really that encouraged to start taking action and to be like entering into a group full of people and say: "Hello everyone. Hi, why don't we do this?" It is a quite unnatural behavior to some degree. 
 
 Some people do it naturally, but for the majority, they prefer to look first a bit from the outside. Then they understand what the group is about and take action, which is a very different conception from have understanding what the group is about and then deciding to change that group, to suit themselves, which is in a way, a relatively new concept that we have. 
 
-There is a negotiation there into these different personalities. Plenty of room for misunderstandings or miscommunications. In general, we try to open a lot of conversation and say, we're here and let's chat and include every person through actually engaging with a human and having a good, at least half hour, ideally one hour conversation. There is still a work in progress that needs a lot of improvement.  
+There is a negotiation there into these different personalities. Plenty of room for misunderstandings or miscommunications. In general, we try to open a lot of conversation and say, we're here and let's chat and include every person through actually engaging with a human and having a good, at least half hour, ideally one hour conversation. That is still a work in progress that needs a lot of improvement.  
 
 ### Question 3: Self-leadership and the Onboarding process
 
 (31:21)    
-**Incandenza**:    Thanks. I completely agree on this lack of a shared language that can generate misunderstanding and that **self leadership is a key skill to have in Web Three. Ben, is it difficult to explain this concept to new contributors when you go through the onboarding process**, how do you deal? Like maybe with people that are new in the environment?  
+**Incandenza**:    Thanks. I completely agree on this lack of a shared language that can generate misunderstanding and that **self leadership is a key skill to have in Web Three. Ben, is it difficult to explain this to new contributors during onboarding**, how do you deal with people who are new to this environment?  
 
 #### BEN
 
-**Ben**:    Yeah, it's a really good question. Daniel's nailed it really. One thing that I see as a challenge in the space right now is a lot of DAOs have the challenge that Daniel's describing around this hunt and kill mentality of needing to generate revenue, but not always a clear understanding of what that looks like and how that defines the relationship between new contributors. 
+**Ben**:    Yeah, it's a really good question. Daniel's nailed it really. One thing that I see right now is a lot of DAOs have the challenge that Daniel's describing around this hunt and kill mentality of needing to generate revenue, but not always a clear understanding of what that looks like and how that defines the relationship between new contributors. 
 
-The fact that a lot of DAOs don't make money. I is a real problem in answering some of these questions because it delays considerations around how the community grows or how they're empowered perhaps later on. 
+The fact that a lot of DAOs don't make money. It's a real problem in answering some of these questions because it delays considerations around how the community grows or how they're empowered perhaps later on. 
 
 One of the things that's really important is to be clear about what that relationship actually looks, so that it can be a more permissionless system in that people know what they're getting themselves into and can operate accordingly.  
 
 A lot of the challenges stem around this question of a misunderstanding where people think if they do the time, then there will be opportunity for them to be rewarded. Perhaps it doesn't work out that way. That's very problematic. 
 
-One other thing I would say is it's just really important to have very clear expectations setting as part of onboarding. There's a lot of ambiguity in DAO, often, not a lot of clarity for people coming in. It's really important to set expectations around this question early.  
+One other thing is it's just really important to have very clear expectations setting as part of onboarding. There's a lot of ambiguity in DAO, often not a lot of clarity for people coming in. It's really important to set expectations around this question early.  
 
 ### Question 4: How do you create clarity with new contributors?
 
 (33:42)    
-**Incandenza**:    Thanks man. Yeah, absolutely. Also because a lack of clarity would undermine trust between the contributors and the DAO and also between the contributors community, Heather, how do you like tackle this problem of clarity? How do you create clarity with your new contributors would be your existing contributors?  
+**Incandenza**:    Thanks, absolutely. Also because a lack of clarity would undermine trust between the contributors and the DAO and also between the contributors community, Heather, how do you tackle this problem of clarity? How do you create clarity with your new contributors would be your existing contributors?  
 
 #### HEATHER
 
 **Heather**:    From my experience, the key to clarity is transparency. It's really trying to communicate who is being onboarded to our existing con contributors. Then also for our contributors that are being on onboarded is really having like a proper process, especially around expectations. 
 
-It's been definitely a learning curve of onboarding. Now we have like a more formal type of onboarding where we just have a lot of documentation that is a part of the on boarding process and where a person really has to be, as you said a self leader in this of how well they're on. It's like half and half it's how active the existing contributors are into the onboarding processes of in our workspace.  
+It's been definitely a learning curve of onboarding. Now we have like a more formal type of onboarding where we just have a lot of documentation that is a part of the on boarding process and where a person really has to be, as you said, a self leader. It's like half and half it's how active the existing contributors are into the onboarding processes in our workspace.  
 
 Everyone has a buddy. That really helps with clarity. The new contributors aren't lost in the process. One aspect that I really enjoy as part of the hiring processes, but I'm also a part of the onboarding processes. 
 
 I have check-ins with all of our new contributors for the first three months of their contribution. I provide a lot of resources where there could be holes of [understanding], they don't know what happens in this proposal or that, and that also like brings a lot of the human touch. 
+
+#### LOIE
+
+**Loie**:    I just wanted to add to Heather's description. That what I take from that is that it's very relational and it's that you're working in Web Three processes. Web Three orgs index, heavily on documentation and self-guided onboarding processes. 
+
+That's great for getting like information understanding of the project, but there's nothing that can replace having a buddy or a people ops person, hold your hand through that journey and experience it with you. I really admire that you do that, and it is a huge help to having clarity there.  
 
 ### Question 5: What are you looking for in new contributors?
 
@@ -167,26 +220,22 @@ I have check-ins with all of our new contributors for the first three months of 
 
 #### LOIE
 
-**Loie**:    I just wanted to add to Heather's description. That what I take from that is that it's very relational and it's that you're working in Web Three processes. Web Three orgs index, heavily on documentation and self-guided onboarding processes. 
+**Loie**:    That's a tough question. Actually. One of the biggest double edged swords that I look for is self management skills as well as collaborative spirit. Our world pits those two against each other. 
 
-That's great for getting like information understanding of the project, but there's nothing that can replace having a buddy or a people ops person, hold your hand through that journey and experience it with you. I really admire that you do that, and it is a huge help to having clarity there.  
+It's unique to find somebody who is truly able to hold both strongly, but you need both to be a great Web Three contributor. Regardless of someone's Web Three literacy or their technical chops that is important to a degree, but that also is what can be taught. 
 
-Paul, you asked just about like what we look for, in candidates. That's a tough question. Actually. One of the biggest double edged swords that I look for is self management skills as well as collaborative spirit. Our world pits those two against each other. 
-
-It's unique to find somebody who is truly able to hold both strongly, but you need both to be a great Web Three contributor. Regardless of someone's background or their Web Three literacy or their technical chops that is important to a degree, but that also is what can be taught. 
-
-Whereas these more human qualities of, how to balance between like being a great team player and collaborator and lifting people up and delegating and horizontally sharing power and also being totally self-directed holding yourself accountable, setting your own goals and deadlines, and even like contributing to how work is prioritized. **If I find somebody that demonstrates those skills, I wanna hire them for any role.**
+Whereas these more human qualities of, how to balance between being a great team player and lifting people up and delegating and horizontally sharing power and also being totally self-directed holding yourself accountable, setting your own goals and deadlines, and even like contributing to how work is prioritized. **If I find somebody that demonstrates those skills, I wanna hire them for any role.**
 
 (41:17)    
 **Incandenza**:    Thanks, Loie. This reminds me of some videos that I saw from Simon Sinek, that he said that an organization often is more important to have people who are good at interpersonal skill, rather than people who have high performance but they are not good team player, because at the end, these people can become toxic for the organization. 
 
 ### Question 6: How can DAO take care to the health of their contributors? 
 
-Juan, if you don't mind, I'll jump in with the second question and then leave you the mic. I would like to connect with Daniel and the research that rnDAO is producing on community health. In this research communities are divided in layers, and every layer has to be healthy to generate health for the community. 
+**Incandenza**:    I would like to connect with Daniel and the research that rnDAO is producing on community health. In this research communities are divided in layers, and every layer has to be healthy to generate health for the community. 
 
 One of the layers is the individual layer. My question is what does a healthy contributor look like? But we somehow already answer to this question, but what can be done? Loie just said that technical skill can be taught, but how can DAO take care to the health of contributors? 
 
-And especially we spoke about burnout, building trust among them building trust between contributors and DAO, and also to help, as we said before, people who are experiencing hardship in the private life, and this might affect the way they behave in the community.
+Especially we spoke about burnout, building trust among them building trust between contributors and DAO, and also to help, as we said before, people who are experiencing hardship in the private life, and this might affect the way they behave in the community.
 
 #### JUANK
 
@@ -194,7 +243,7 @@ And especially we spoke about burnout, building trust among them building trust 
 
 The issue with a lot of the individual challenges is that we come from a culture of having to keep a professional face. We come from a culture where we always have to perform every day and there is no space for, there is no forgiveness for someone having a less than stellar month or making a mistake or something like that. 
 
-The approach that's been handled with is, this person leaves. Then we can pretend that nothing happened and we continue and the business needs to be stable a machine that is always performing, always delivering.
+The approach that's been handled with is, this person leaves, then we can pretend that nothing happened and we continue and the business needs to be stable a machine that is always performing, always delivering.
 
 My partner, who's a relationship coach she also works a lot with cycles and so on. At some point we're having a discussion about the main difference in between men and women and how the world will be different if women design it. 
 
@@ -204,9 +253,9 @@ In a world that has been largely designed by males, perhaps this is less taken i
 
 Coming back to the point, there is a huge variety of challenges that someone can go through. We might be equipped to support them in some of them, in some others it will be beyond our capacity. 
 
-At least we try, we can try to create a space where it's okay to share these sorts of things. At least we have the possibility to try to respond. That is super hard creating such an environment is perhaps the hardest thing. 
+We can try to create a space where it's okay to share these sorts of things. At least we have the possibility to try to respond. That is super hard creating such an environment is perhaps the hardest thing. 
 
-As I see at one where we can have tremendous impact, because it also benefits the business, which can help us justify these work. Unfortunately, we're still in a situation where we need to justify a lot of these things from a financial perspective, even if we are just talking about viability. 
+As I see it, one where we can have tremendous impact, because it also benefits the business, which can help us justify these work. **Unfortunately, we're still in a situation where we need to justify a lot of these things from a financial perspective**, even if we are just talking about viability. 
 
 As I was saying, is organizations are in all situations. Some are wealthy, some are not and so on. If the organization cannot subsist to care for the people, it won't be able to care for the people. 
 
@@ -220,7 +269,7 @@ I've been doing them for the past year and a half. Now I'd say like half of the 
 
 Any person who I've helped in their own boarding process, **I've had the open invitation of, if you're ever having a hard time at work, call me, I'm here for you. Let's talk about it.** 
 
-I've had people who have been like six months into their onboarding or like a year and they call me if there's ever like a conflict at work that they don't really know how to navigate, or if there's like some personal issue that they don't really know how to handle if it's, if it's affecting their work. 
+I've had people who have been like six months into their onboarding or like a year and they call me if there's ever like a conflict at work that they don't really know how to navigate, or if there's like some personal issue that they don't really know how to handle if it's affecting their work. 
 
 Then these conversations that we have are 100% confidential I'm not gonna tell anyone else. That helps build trust inside of the, of our interaction and then our DAO. Then we also just like have a time where we just talk about ideas for how we can solve this issue.  
 
@@ -237,13 +286,15 @@ Ben, I know that building trust, sharing vulnerabilities, and helping people tha
 
 **Ben**:    I really appreciate both the responses. Trust is such a really important element. It's funny that we have these organizations where there is often a highly assumed level of trust. People come into a DAO and often you feel closely connected to them in some way, but it's almost very artificial. 
 
-It's very surface level. I would actually say in most ours people almost know nothing about each other. People are often strangers. Of the people on this call that actually know most of everyone here. I really only know you at a surface level and would love to know more. This is a good question for DAO to be asking. 
+It's very surface level. I would actually say in most ours people almost know nothing about each other. People are often strangers. Of the people on this call that actually know most of everyone here. I really only know you at a surface level and would love to know more. 
 
-Daniel and Heather both touched on it is how we actually making time to connect more, to build greater empathy and understanding because that level of vulnerability creates trust and actually allows people to be healthier because they can be more open around what's happening in their lives and use that as an opportunity to regulate. Also because it actually makes organizations much more resilient. 
+This is a good question for DAO to be asking. Daniel and Heather both touched on it is how we actually make time to connect more, to build greater empathy and understanding. 
+
+That level of vulnerability creates trust and actually allows people to be healthier because they can be more open around what's happening in their lives and use that as an opportunity to regulate. Also because it actually makes organizations much more resilient. 
 
 The fact that we can talk about small things that might be going on because we have a high level of trust means that we can start to talk about the larger things in life, the true hardships and how we create new systems that can better support everyone. 
 
-I really do appreciate that. I thought that yeah, health is something that comes from trust and vulnerability. It's something that towers really can refocus on to be much more sustainable organizations than perhaps they are today.  
+I really do appreciate that. I thought that health is something that comes from trust and vulnerability. It's something that towers really can refocus on to be much more sustainable organizations than perhaps they are today.  
 
 ### Question 7: Attracting more women to web3
 
@@ -266,11 +317,9 @@ The goal was connection throughout all of that. We would read little games or co
 
 Then we would have like guest speakers or we'd all read an article together and go through, or we have a facilitated discussion on a philosophical topic and carving out this time for like an hour every week. 
 
-Think about all of these people in your workplace, who you try and schedule meetings with. Their calendars are crazy. They're meeting blocked for like six, seven hours on end each day. It's hard, but it's so worth it. 
+Think about all of these people in your workplace, who you try and schedule meetings with. Their calendars are crazy. They're meeting blocked for like six, seven hours on end each day. It's hard, but it's so worth it. I think that's one of the most successful people operations projects that I started at Gitcoin. 
 
-> I feel like that's one of the most successful like people operations projects that I started at Bitcoin. 
-
-**I highly recommend** anyone in any community that is having a work product of some sort, even if you are not in a workplace, particularly if you are spending most of your time focused on producing something, **take at least an hour a week to connect with each other** and build intentional ways to do so because it really makes everyone feel safe to share like the other parts of their lives. 
+**I highly recommend** anyone in any community that is having a work product, even if you are not in a workplace, particularly if you are spending most of your time focused on producing something, **take at least an hour a week to connect with each other** and build intentional ways to do so because it really makes everyone feel safe to share like the other parts of their lives. 
 
 There's so much regulation that happens there. Nervous system regulation happens when you're laughing. When you're talking with other humans that you're close with, we had a lot of extremely comedic moments in our gathering hours. Just to have that time to shoot the breeze and be together is a great foundation.  
 
@@ -285,7 +334,7 @@ That's amazing. With that, we are getting to the wrapping moment of this discuss
 
 #### HEATHER
 
-**Heather**:    To answer your first question, some challenges that we're currently facing in the Web Three space is I'm gonna say reputation. **Web Three and crypto just have like a naughty reputation** sometimes. The more we can like spread the word about like what crypto and Web Three really is, especially when it comes to philanthropy and refi that will definitely onboard more people in, into the space. You can find me on Twitter and follow me there. Then I also contribute to Giveth and general magic and the UMAC.
+**Heather**:    To answer your first question, some challenges that we're currently facing in the Web Three space is I'm gonna say reputation. **Web Three and crypto just have like a naughty reputation** sometimes. The more we can like spread the word about like what crypto and Web Three really is, especially when it comes to philanthropy and refi that will definitely onboard more people into the space. You can find me on Twitter and follow me there. Then I also contribute to Giveth and general magic and the UMAC.
 
 #### BEN
 
@@ -310,4 +359,4 @@ A lot of the people off Guild will be mentoring folks there in that session. The
   
 **JuanK**:    Thank you all for coming for your time for your participation. Please stay in the loop, please share, please. And yeah, let's continue working on this and I really want to congratulate all of you for what you are doing, because this is something that is a shared cause. The people here is the, is people that I admire a lot and I like to work with. It's just a pleasure to have this space to talk with you. Thank you for your time this Thursday, the first day after the merge.  
 
-**Incandenza**:    I quote one, the conversation was really high level and amazing. I will definitely share it as much as I can. I hope there were more people, but it was still like a great conversation. Thank you all for being here year.  
+**Incandenza**:    I quote Juan, the conversation was really high level and amazing. I will definitely share it as much as I can. I hope there were more people, but it was still like a great conversation. Thank you all for being here year.  
