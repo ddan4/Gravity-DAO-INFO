@@ -1,18 +1,34 @@
 # Mental Health Awareness - Suicide Prevention
 
+## Contents
+- [Introductions](#introductions)
+  - [Bianca](#bianca)
+  - [Irene](#irene)
+  - [David](#david)
+  - [Marcelo](#marcelo)
+  - [Angie (CoHost)](#angie-cohost)
+- [Guest Questions](#guest-questions)
+  - [What is Suicidal Ideation?](#marcelo-what-is-suicidal-ideation) (Marcelo)
+  - [What is trauma therapy?](#irene-what-is-trauma-therapy) (Irene)
+  - [How is trauma related to suicide?](#irene-how-is-trauma-related-to-suicide) (Irene)
+  - [How to help someone with suicidal thoughts?](#david-how-to-help-someone-with-suicidal-thoughts) (David)
+  - [Different types of suicidal ideation](#marcelo-different-types-of-suicidal-ideation) (Marcelo)
+  - [How alarmed should we be after someone confessed to contemplating suicide?](#marcelo-how-alarmed-should-we-be-after-someone-confessed-to-contemplating-suicide) (Marcelo)
+  - [How can therapy help someone contemplating suicide?](#irene-how-can-therapy-help-someone-contemplating-suicide) (Irene)
+  - [How can DAOs be more present for real life problems like suicide prevention?](#david-how-can-daos-be-more-present-for-real-life-problems-like-suicide-prevention) (David)
+    - [Richard Bandler's Getting the Life you Want](#richard-bandlers-getting-the-life-you-want)
+    - [NLP Exercise](#nlp-exercise)
+- [Conclusion](#conclusion)
 
-## Transcript
-
-### Introductions
-
-#### Bianca
+## Introductions
+### Bianca
 (06:00)    
 **Bianca**:    Today we are gonna talk about Yellow September. We are in Suicide Prevention Awareness month. We are happy to be talking about this with so many people involved in the field. I'm happy to have you all as speakers here. Thank you for accepting the invitation for being here. 
 
 I am very happy to being a host in this talk. We have DDan and Irene as Gravitys contributors Rainy works with Therapy Trauma and DDan works with Gravity on the Nonviolent Communication sessions in the trainings. Marcelo is my professor in college and he has a very long curriculum, and I'm gonna let you guys introduce yourselves and you can give yourself honors for the talk.
 
 
-#### Irene
+### Irene
 (08:45)    
 **Irene**:    Okay. Hello everybody. I am a therapist and I work with trauma, and the modality that I use is called Somatic Experiencing. I also have a bit of sensory motor approach and hakomi approach and polyvagal. I work this way because I have found, from my own experience, that when you address experience in the body is where things really can be different. 
 
@@ -21,7 +37,7 @@ When I tried talk therapy, nothing changed. In trauma specifically, it's not men
 (10:07)    
 **Bianca**:    That's awesome. Thank you. DDan And do you wanna introduce yourself? Talk about who you are, what do you do, and why you do it the way you do it?  
 
-#### David 
+### David 
 (10:23)    
 **David**:    Awesome. I've been in the blockchain space for like four since like 2017. That's also coincided with my personal recovery from alcoholism and drug abuse. In that time I've just done tons of study into just changing my awareness and changing my frame of mind, how and live. 
 
@@ -30,7 +46,7 @@ Nonviolent Communication has been a really important part of that for me. It's a
 Specifically lately I've been into ifs internal family systems, EMDR, neurolinguistic programming (NLP), cognitive behavioral therapy (CBT) and really getting down to what are the mental models that we can take from psychology that are people really need in today's world to know themselves better. Then what are the practices that are really game changing to have the most positive, optimal state of mind so we can do the things that we wanna do.  
 
 
-#### Marcelo
+### Marcelo
 (13:08)    
 **Bianca**:    This is awesome. Thank you. Marcelo, do you wanna talk a bit more about you too? Who are you, what do you do and why do you do the way you do it?  
 
@@ -45,7 +61,7 @@ Not just that, the idea of helping people but a person gaining from it. As a pro
 **Bianca**:    That's awesome. I love listening to you guys speak. I wanna thank you again so much for being here and sharing with us your expertise and everything that you've been doing, taking care of others and taking care of yourself. We see it's so important for not also looking for taking care of others, but taking care of yourself first. I don't remember if I introduced myself, but I'm Bianca. I am representing Gravity today, and we have as a cohost, Angie and Angie, do you wanna introduce yourself? I pass the mic to you.  
 
 
-#### Angie (CoHost) 
+### Angie (CoHost) 
 (16:20)    
 **Angie**:    Hi everybody, I'm Angie. I'm from Mexico and I am a part of the communications team in Token engineering. I also share with Bianca this space in Gravity where we have this monthly event called Mental health, Take care of your Mind, which is a safe space for people to come and express themselves and help them in any way we can. 
 
@@ -53,9 +69,9 @@ I wanted to share that every community member should be prepared to how to respo
 
 It's important we are all in a positive and safe environment and make people feel like they can ask for help openly and without feeling like a burden or judged. We have a series of questions to ask our special guests. 
 
-### Guest Questions
+## Guest Questions
 
-#### Marcelo: What is Suicidal Ideation?
+### Marcelo: What is Suicidal Ideation?
 (17:59)    
 **Bianca**:    Yeah, sure. To talk about our topic today, I want to start with Marcelo and he's a psychologist, special specialized in suicide, in trauma and crisis. I wanna ask you, what is suicidal ideation?  
 
@@ -71,7 +87,7 @@ These are still not direct communications about intention to kill myself. These 
 (20:41)    
 **Bianca**:    That was really good. Thanks for answering that.  
 
-#### Irene: What is trauma therapy?
+### Irene: What is trauma therapy?
 (20:49)    
 **Angie**:    I'll go ahead and ask the next question, which is too, Irene, we know you work with trauma therapy, so do you think you can explain a bit more about what it is?  
 
@@ -88,7 +104,7 @@ In a sense, we want to empower the person so they have their life on their hands
 
 If we let lower this high levels of arousal and discharge the nervous system, we can integrate the functioning of the prefrontal cortex in the brain so we can have all our wisdom with us, all our capacities, reasoning, and then we can deal with things. That's a great extract about it.  
 
-#### Irene: How is trauma related to suicide?
+### Irene: How is trauma related to suicide?
 (24:29)    
 **Angie**:    Well, thank you for sharing your answer. Also we have a follow up question, which is, how is trauma related to suicide and how can we act when we are the ones idealizing the suicide?  
 
@@ -125,7 +141,7 @@ How much is good enough for me that serves in my presence to the other. The othe
 
 Today we are without camera and not in person because we relate to people that are really a long distance from us. That part is really important for the human being. It's the presence and the looking in the eyes and it. That is really another piece. Well, there's a lot of things that we could talk about, but mainly we can do that. Our presence is really important.
 
-#### David: How to help someone with suicidal thoughts?
+### David: How to help someone with suicidal thoughts?
 
 (33:30)    
 **Angie**:    Thank you for sharing your amazing and helpful answer. We have another question for Dan, which is, how do you see ways to help someone with suicidal thoughts, especially using Nonviolent Communication?  
@@ -162,119 +178,214 @@ Discovering what you have to do having that vision, having that future that you 
 (43:42)    
 **Bianca**:    That's beautiful. David, thank you so much for sharing that. There is a lot on Nonviolent Communication to learn and to put in practice every time that you shared about it. I keep like rethinking and yeah, it's like an everyday process that we go through. 
 
-#### Marcelo: Different types of suicidal ideation
+### Marcelo: Different types of suicidal ideation
 **Bianca**:    I wanna go back to Marcelo and he talked before about this suicidal ideation and that it's when somebody wants to put an end to a feeling or something that they are experiencing, that's the idea of it. I want to know if there are types of different types of suicide ideation.  
 
 (44:49)    
-**Marcelo**:    Yes, we can think of it in terms of different types and it is very important when we're listening to someone going through some experience that is painful to listen for those different kinds of communication. Basically we're talking about communication because if a suicidal ideation is completely private, if the person never mentions it to anyone, it doesn't become visible. It's, it becomes hard for us to act in a preventive way. We understand that this communication can be either verbal or behavioral, and in being verbal or behavioral, it can be explicit or covert or veiled disguised in a way. To look at the, some of examples, if we think about the examples I gave before would be verbal, but also covert, disguised ways of saying, Another example would be like someone says, if anything happens to me, would you take care of my children?  
+**Marcelo**:    Yes, we can think of it in terms of different types and it is very important when we're listening to someone going through some experience that is painful to listen for those different kinds of communication. 
 
-(46:29)    
-**Marcelo**:    That would be a verbal communication, but it, even though it doesn't talk about suicide directly, it talks about, in my absence, would you take care of my children? What is bringing to that person? The idea, the thought of they can be absent. That idea could be the idea of suicide. For another example, now overt and verbal, these would be affirmations of an intention and explicit intention or a plan to kill myself, something, I won't be here by Christmas, for example. I won't be here in what way? Or I will kill myself, or you can't prevent me from killing myself. These would be affirmations that there is an intention, explicit intention to kill oneself. Now, overt behavioral would be actions or plans to, in preparation for attempting suicide. These, again, even though they are over behavioral, they can be misperceived. We cannot see the in sometimes we cannot see the intention if the person buys something that is a means to suicide or acquires a firearm or any other means of attempting suicide. Now, covert behavioral, an example of covert behavioral would be given away prized possessions, something that is very important to that person or that and their personal history or their related to their identities, and they're given away to important people in their lives, these private price possessions that can indicate that they're preparing for a suicide.  
+We're talking about communication because if a suicidal ideation is completely private, if the person never mentions it to anyone, it doesn't become visible, its hard for us to act in a preventive way. 
 
-(48:45)    
-**Marcelo**:    Basically we look at ideation from the perspective of communication. These forms of communication can be either verbal or behavioral and they may be disguised. That's basically how we look at it in hope to be able to bring that, these ideas, these topics, to explicitly engage the person in a process of understanding what's going on. Just to tie this answer to the comments that previous comments e either about traumatic experiences that have been in some form registered in the body or about things that ideas that we need to reconnect with experiences or feelings to understand our needs. What the speakers before me mentioned about either working with trauma or with importance, effective or emotional experiences is very important. In a way, the suicidal communication is a communication that there is some form of suffering, some form of experience that needs to be understood, expressed, and dealt with. Thank you.  
+We understand that this communication can be either verbal or behavioral, and in being verbal or behavioral, it can be explicit or covert or veiled disguised in a way. To look at the, some of examples, if we think about the examples I gave before would be verbal, but also covert, disguised ways of saying. 
+
+Another example would be like someone says, if anything happens to me, would you take care of my children? That would be a verbal communication, but it, even though it doesn't talk about suicide directly, it talks about, in my absence, would you take care of my children? What is bringing to that person? The idea, the thought of they can be absent. That idea could be the idea of suicide. 
+
+For another example, now overt and verbal, these would be affirmations of an intention and explicit intention or a plan to kill myself, something, I won't be here by Christmas, for example. I won't be here in what way? Or I will kill myself, or you can't prevent me from killing myself. 
+
+These would be affirmations that there is an intention, explicit intention to kill oneself. Now, overt behavioral would be actions or plans to, in preparation for attempting suicide. These, again, even though they are over behavioral, they can be misperceived. We cannot see the in sometimes we cannot see the intention if the person buys something that is a means to suicide or acquires a firearm or any other means of attempting suicide. 
+
+An example of covert behavioral would be given away prized possessions, something that is very important to that person or that and their personal history or their related to their identities, and they're given away to important people in their lives, these private price possessions that can indicate that they're preparing for a suicide.  
+
+We look at ideation from the perspective of communication. These forms of communication can be either verbal or behavioral and they may be disguised. That's basically how we look at it in hope to be able to bring that, these ideas, these topics, to explicitly engage the person in a process of understanding what's going on. 
+
+Just to tie this answer to the comments that previous comments either about traumatic experiences that have been in some form registered in the body or about things that ideas that we need to reconnect with experiences or feelings to understand our needs. 
+
+What the speakers before me mentioned about either working with trauma or with importance, effective or emotional experiences is very important. In a way, the suicidal communication is a communication that there is some form of suffering, some form of experience that needs to be understood, expressed, and dealt with. Thank you.  
+
+### Marcelo: How alarmed should we be after someone confessed to contemplating suicide?
 
 (50:41)    
 **Bianca**:    Thank you. That's very interesting to get that knowledge about the communication because basically everything is communication. Like if we act a certain way, we are also communicating. I have another question that it includes that aspect because we hear that it's a myth that people who talks about suicide is not going to conclude the act. How is this in real life?  
 
 (51:27)    
-**Marcelo**:    Well, in terms of myths, we have to look at in two different directions to either we can downplay or minimize the importance of suicidal behaviors or suicidal ideations, or we can exaggerate in both ways. Could do some damage or make things worse for the person. Listening attentively is the most important recommendation to what the person means by their own experience. The idea about being non-judgmental is important because if I treat what the person is experiencing as right or wrong or attach any moral value, that from my own experience, I can create a condition that will not facilitate communication. The myth goes both ways. If, oh, that's not important, that person doesn't really mean that, or it isn't that bad, or that person has, oh, she has everything in life, or he has everything going for him, that's downplaying the risk.  
+**Marcelo**:    Well, in terms of myths, we have to look at in two different directions to either we can downplay or minimize the importance of suicidal behaviors or suicidal ideations, or we can exaggerate in both ways. Could do some damage or make things worse for the person. 
 
-(53:05)    
-**Marcelo**:    And the other extreme is going in the other direction as like this is the end of it all. There's no help anymore. We can't really do much about it. That person is beyond our help. I would suggest if we look statistically, even among depressed people, less than 10% that have depression, severe depression attempt suicide, and even lesser number of those DAI by suicide. If you don't look just about depression, if you look at people who have attempted suicide, of all those people who have attempted suicide, less than 10% DAI by suicide. In terms, the fact that the person may have had a suicidal ideation or even suicidal behaviors does not allow us to conclude that person will commit suicide. The key factor here is, okay, what's going on in that person's life? That life has to be questioned. Why now? What's the meaning of this?  
+Listening attentively is the most important recommendation to what the person means by their own experience. The idea about being non-judgmental is important because if I treat what the person is experiencing as right or wrong or attach any moral value, that from my experience, can create a condition that will not facilitate communication. 
 
-(54:31)    
-**Marcelo**:    And what needs to be changed? And what needs to be changed is a question that aligns very well with non violent communication. Because the key thing about Nonviolent Communication is understanding what emotions arise in situations and what needs they relate to. If you understand the need and you, the person after understanding the need can express that need in ways that the need can be met, that's when you see these people move away from the suicide risk and they integrate in their lives, new alternatives that meet their needs and therefore brings, gives them a better condition to regulate emotions and have satisfactory relationships and all the rest of it. It's a process that once the person understands that engaging with this idea of understanding one's experience, one's needs, one's effects and the meaning of effects and their lives, then a change is real significant change is possible. The myth, either one, it's not really that bad minimizing it or it's the end of everything or that there's no help anymore. Either way, the myth will make it difficult. If I focus on what is happening, what's the need, why now, what's the meaning of it? What can we do to meet these needs?  
+The myth goes both ways. Oh, that's not important, that person doesn't really mean that, or it isn't that bad, or that person has, oh, she has everything in life, or he has everything going for him, that's downplaying the risk.  
 
-(56:45)    
-**Marcelo**:    Then we can make a significant change or help this person facilitate meaningful change in life.  
+The other extreme is going in the other direction as like this is the end of it all. There's no help anymore. We can't really do much about it. That person is beyond our help. I would suggest if we look statistically, even among depressed people, less than 10% that have depression, severe depression attempt suicide, and even lesser number of those die by suicide. 
+
+If you don't look just about depression, if you look at people who have attempted suicide, of all those people who have attempted suicide, less than 10% die by suicide. In terms, the fact that the person may have had a suicidal ideation or even suicidal behaviors does not allow us to conclude that person will commit suicide. 
+
+The key factor here is, okay, what's going on in that person's life? That life has to be questioned. Why now? What's the meaning of this? What needs to be changed? And what needs to be changed is a question that aligns very well with non violent communication. 
+
+The key thing about Nonviolent Communication is understanding what emotions arise in situations and what needs they relate to. **If you understand the need and after understanding the need can express that need in ways that it can be met. 
+
+That's when you see these people move away from the suicide risk and they integrate in their lives, new alternatives that meet their needs and therefore brings, gives them a better condition to regulate emotions and have satisfactory relationships and all the rest of it. 
+
+It's a process that once the person understands that engaging with this idea of understanding one's experience, one's needs, and the meaning of effects and their lives, then a change is real significant change is possible. 
+
+The myth, either one, it's not really that bad minimizing it or it's the end of everything or that there's no help anymore. Either way, the myth will make it difficult. 
+
+> If I focus on what is happening, what's the need, why now, what's the meaning of it? What can we do to meet these needs? Then we can make a significant change or help this person facilitate meaningful change in life.  
 
 (56:57)    
 **Angie**:    You for sharing That was a great answer.  
 
-#### Irene: How can therapy help someone contemplating suicide?
+### Irene: How can therapy help someone contemplating suicide?
 
 (57:07)    
 **Angie**:    We have another question for Irene, which is, how can trauma therapy help someone who thinks they are about taking their own life?  
 
 (57:22)    
-**Irene**:    Okay, If we think about trauma as a too much state, it's a hight state that it's taken us to an edge and it's so unbearable that we cannot hold it and we don't know what to do with it and it's surpasses our capacities, then one thing that, the first thing that we can do is start to lower that highness speed. The awareness of the body is not unaccessible. We are not in that vortex of unbearable feelings and sensations and thoughts because if we don't lower that and discharge the nervous system, we cannot access the other capacities and capabilities of the person because we have to, we have to acknowledge that everybody is really wise and has everything they need for their life and for the problems they're facing. When we are in a high tenant state, we cannot access that wisdom, that capacity.  
+**Irene**:    Okay, If we think about trauma as a heightened state that it's taken us to an edge and it's so unbearable that we cannot hold it and we don't know what to do with it and it's surpasses our capacities. 
 
-(58:48)    
-**Irene**:    If we assume and we know that everyone has this wisdom and this capacity and knows what to do and how to do it, and has everything we, what we want to do is to make it accessible because at that present moment it's invisible or inaccessible. We want to, the heightened state many times becomes to life because of past experiences and because of a sense of threat. It can be present and it can be passed. Yeah, as I mentioned before, we want to bring the sense of safety and that is really the basis of everything else. There's also many other things that we want to do because if this state doesn't allow us to see possibilities, to see solutions, to be, to see that things can be different in the sense of how we experience them. Cause some things do not change because we look about many suicides, they are from minorities and marginalized people and we cannot change the system and the world, but we do can change our experience about it and some of the things we can change.  
+The first thing that we can do is start to lower that heightened state. The awareness of the body is not inaccessible. So we are not in that vortex of unbearable feelings and sensations and thoughts. 
 
-(1:00:28)    
-**Irene**:    This is really important, but because we have to be real and well in all of this, we want to address belonging, feeling understood, and self respect. That is a common element that we find in people with this ideations. We also find really common that people have had a recent huge loss in their life. We want to address a way to manage that loss or that growth. It doesn't have to be the debt of someone, it can be different types of loss. There are many problems with the economic situation. Today we are living in a special moment where all of these situations are lived by children and are by younger people. We're living in a world that climate change and economic system and war and insecurity and we're living in a really different world right now and really difficult and we have a huge task in our hands.  
+If we don't lower that and discharge the nervous system, we cannot access the other capacities and capabilities of the person because we have to, we have to acknowledge that everybody is really wise and has everything they need for their life and for the problems they're facing. 
 
-(1:01:58)    
-**Irene**:    That's why I like about thinking about doubts and about different types of economics because we have to create those options. Those are the things that we can do something about. There are difficult to change and there are things that we can change, but when we are in those states, we cannot do much of self care. We need to lower that heightened state so we can do the things that we need to do to feel better and have a big list to do things. It's not helpful at all. We also in trauma therapy a lot understanding in the sense of psychoeducation so people can understand why they feel this way, why they cannot see options, why they feel it's unbearable and it is unbearable, it's true. Give this validation is really important and we want to bring them options of experience.  
+When we are in a heightened state, we cannot access that wisdom, that capacity. If we assume and we know that everyone has this wisdom and this capacity and knows what to do and how to do it, and has everything we, what we want to do is to make it accessible because at that present moment it's invisible or inaccessible. 
 
-(1:03:16)    
-**Irene**:    It's, okay, for someone that lives in chronic pain or lives in deep suffering, I can sometimes live with not pain for a second at least I can sometimes feel with the no suffering. We start small because big changes bring the self reacts. It's like I don't trust this big change and reacts. We go slowly by slowly changing from pain to no pain, to comfort to something nice because when we are living those situations, we cannot access the good feelings, the good thoughts and the good experiences and resources. It's like they are unaccessible. We go slowly until we can access a micro moment of feeling good and then we can go from there into the really good experiences that we know that life can have and our beings can experience. It's a really slow and step by step trauma.  
+We want to, the heightened state many times becomes to life because of past experiences and because of a sense of threat. It can be present and it can be passed. Yeah, as I mentioned before, we want to bring the sense of safety and that is really the basis of everything else. 
 
-(1:04:38)    
-**Irene**:    It's not also a too big, too much state. It's also at too fast and no space and no support state. We want to bring a lot of time for it so we can recover like airplanes recover because they are I aerodynamics. The is so static and the self can recover, it's resilient, but it needs support, it needs space, it needs time. We can start teaching regulation of emotions and the body states, but first by correlation because no one does regulation just by itself. It starts with correlation and then we can teach regulation of their states.  
+There's also many other things that we want to do because if this state doesn't allow us to see possibilities, to see solutions, to be, to see that things can be different in the sense of how we experience them. 
 
-(1:05:41)    
-**Irene**:    What else about social skills? We work on social skills. We address attachment, trauma and talking about somatic sensations we work in the reaching out because if you can reach out in your body, then you then can go into reaching out to somebody. We work with that. We also work a lot boundaries. It's a big issue with this topic because if we can say no, if we can have respect in our own personal space or if we can fully develop our identity and differentiation from the other, then that is a great place to be so we can act. We can do many things and well, yeah. Yeah, I could say a lot more, but that's a good, that's a good part. Thank you.  
+Some things do not change because we look about many suicides, they are from minorities and marginalized people and we cannot change the system and the world, but we do can change our experience about it and some of the things we can change.  
 
-#### David: How can DAOs be more present for real life problems like suicide prevention?
-(1:1:07:00)    
-**Bianca**:    Thank you Irene. I love that. I love that what you said the self is able to be covered and it needs help and it needs attention in all the aspects. I want to ask den, and it's more like in the space about Web Three, how can DAOs be more present in the real life problems like this one that we are talking about today? How do you see that?  
+This is really important, but because we have to be real and well in all of this, we want to address belonging, feeling understood, and self respect. That is a common element that we find in people with this ideations. 
 
-(1:07:47)    
-**David**:    Yeah, well I could start out by pointing our listeners to the, for the Gravity DAO pinned post for this space. I dropped some links in the comments of that post. A couple helpful worksheets that can help us identify positive and negative distortions, automatic negative thinking and challenging negative thoughts. Those are a few really helpful frameworks for getting practice in recognizing like the workings of our minds. A lot of stuff Irene was talking about I just, in the DAO space in general and I see this as something that Gravity, that as a role that we can help to fill is just in number one, having a collection of resources of these type of these type things that help us to identify where we're our thoughts can trick us up. Maybe for most DAOs you might just have like one day a year or one weekend a year or an event every year or something so that even though like most of your flow isn't focused on like personal wellness, mental health, emotional development, at least one weekend a year, one week a year, it could be.  
+We also find really common that people have had a recent huge loss in their life. We want to address a way to manage that loss or that growth. It doesn't have to be the debt of someone, it can be different types of loss. 
 
-(1:10:03)    
-**David**:    And having that consciousness and having the resources in place so that when people are struggling that they can find what they need.  
+There are many problems with the economic situation. Today we are living in a special moment where all of these situations are lived by children and are by younger people. We're living in a world that climate change and economic system and war and insecurity and we're living in a really different world right now and really difficult and we have a huge task in our hands.  
 
-(1:10:16)    
-**David**:    And so there's a lot of that stuff that I'm really interested in. Then that there's also a bunch of tools that we can use and those can be like a bit more concentrated that people might do some of these practices. Ay like what Irene was talking about the body language, the communication skills, all this stuff is okay, oh that reminds me ego strength. Something that we don't really understand in the public consciousness. Consciousness we talk a lot about like breaking down the, and egolessness. To be a healthy productive person in the world, you need to have a strong ego. What we think of as ego mania is actually evidence of a weakened ego. We need to have this strong sense of ourselves in the world.  
+That's why I like about thinking about DAOs and about different types of economics because we have to create those options. Those are the things that we can do something about, but are difficult to change, and there are things that we can change, but when we are in those states, we cannot do much self care. 
 
-(1:11:39)    
-**David**:    And that comes from good, healthy habits of sleep, eating and community and your work skills, your all the things that make you feel grounded in on this planet that you have the security to live your life and to move forward. That can help bring down some of those activated states where we get all charged up, but when we have that good ego strength, when we know, okay, hey I'm upset but what, this little disagreement or this challenging situation, this isn't the end of my world because I like I have this whole network of strength built around me in, So that's briefly backtrack to some of those fundamental frameworks. As far as practices meditation, I tell you what I started December of last year meditating every day and I was pretty in the, for the first few months I was doing like two, one to three hours a day and now I'm just like a half hour a day.  
+We need to lower that heightened state so we can do the things that we need to feel better. We also in trauma therapy a lot understanding in the sense of psychoeducation so people can understand why they feel this way, why they cannot see options, why they feel it's unbearable and it is unbearable, it's true. 
 
-(1:13:19)    
-**David**:    But it's just made a huge difference in my ability to just manage the day to day and my overall presence with the world. It's a long, it's a, but it didn't take, it only took a couple months before I really started noticing the differences and then within six and now like nine months, it's like for sure. Very powerful. There's a lot of guided meditations that people could find on YouTube and I just really highly encourage everyone to get in a practice and you can find them even like five minutes, 10 minutes and work your way up or find what works for your schedule and be creative. Maybe you can, that's how you can go to bed is have just listen to a guided meditation or whatever works for you.  
+Give this validation is really important and we want to bring them options of experience. For someone that lives in chronic pain or lives in deep suffering, I can sometimes live with not pain for a second at least I can sometimes feel with the no suffering. 
 
-(1:14:26)    
-**David**:    And like the, there's like the internal family systems is really a cool thing to learn the different parts and recognize that we have different parts of us that want different things and learning to not just think of ourselves as this homogenous but that we do have different, that's why there's conflicts cuz different parts of this want different things and just getting more aware in that sense can help you like before conflict emerges, you can just be aware that there's different parts of you that want different things and something really cool that we could, if this is okay, we could even do like a really short exercise, a little short imagination work for reframing some emotion to a more positive or reframing some, just an example. Is that okay? Just do we feel good about taking like two, three minutes to do a quick  
+We start small because big changes bring the self reacts. It's like I don't trust this big change and reacts. We go slowly by slowly changing from pain to no pain, to comfort to something nice because when we are living those situations, we cannot access the good feelings, the good thoughts and the good experiences and resources. 
 
-(1:15:52)    
-**Bianca**:    Yeah, if everybody is okay with it, we are ready cross the line of the hour. I could listen to you guys all day long if it's okay with everybody else. I'm okay with it.  
+It's like they are inaccessible. We go slowly until we can access a micro moment of feeling good and then we can go from there into the really good experiences that we know that life can have and our beings can experience. It's a really slow and step by step. 
 
-(1:16:14)    
-**David**:    It's okay with me. That piece sign. Awesome, thank you. Okay, so this is something that I picked up from Richard Bandler, Getting the life you want. He has all these really cool exercises where you identify a situation and identify the emotion and where it is going within your body and then you identify the opposite situation and find out where that feeling is and then you can then, if you want to feel better about doing a certain thing, then you can move that into the place in your body where you recognize that you're feeling good or motivated. Yeah, that's a good one. Why we do the motivation one, cuz that's really like a neutral thing. We'll, we'll just do, first we want to think of something that we are super motivated to do. No one could stop us. We're, when you're, when it's time to do this thing, you are just full bore.  
+Trauma is also not only too much state. It's also at too fast and no space and no support state. We want to bring a lot of time for it so we can recover like airplanes recover because they are aerodynamic. 
 
-(1:17:32)    
-**David**:    I just want you to imagine if you have pictures in your head of what does that look like and then where are the pictures? Maybe the pictures aren't in your head, maybe the pictures in your shoulder or what, wherever it happens to be. Then what are the senses? Do you hear anything? Do you smell anything? Do you, what do you feel? Where in your body is it in the front of your body back? Is it isolated? Is it just in one particular area? Is it vibrating tingling? Is it moving counterclockwise around your center or is it moving forward front to back, top to bottom thing or back top to bottom? Identify all that. Okay, now once you have all that in mind and you're anchored in those sensations and those feelings, then you can think about something that you've been procrastinating and you've been putting it off, but you really wanna do it and you're gonna do it, but you just have been dragging your feet a bit.  
+The is so static and the self can recover, it's resilient, but it needs support, it needs space, it needs time. We can start teaching regulation of emotions and the body states, but first by correlation because no one does regulation just by itself. It starts with correlation and then we can teach regulation of their states.  
 
-(1:18:53)    
-**David**:    And so think about that and think about where that is in your body and how what you're hearing, what you're smelling. You ta is it tastes like something, whatever sensations, what direction is this feeling moving, where is that located? Okay, so now you can take that image of the thing that you've been putting off and you can move that into the space where you were super motivated and you can change the direction of the motion to the direction of that you wanna feel. If you change it to those other modalities, then you may find that you're feeling excited and you're feeling motivated to do this thing that you've been procrastinating on. You can even do things as simple as once you've identified, you don't even have to contrast them, but just isolate it on their own. Once you find the way of feeling is moving, you can in your imagination spin it faster in the direction if you want to feel more that way and spin it in the opposite direction to feel less of that way.  
+What else about social skills? We work on social skills. We address attachment, trauma and talking about somatic sensations we work in the reaching out because if you can reach out in your body, then you then can go into reaching out to somebody. 
 
-(1:20:23)    
-**David**:    And that's just like a little taste for neurolinguistic programming, richer Bandler, get the life you want. Really highly recommend it. It's like just super cool ways that we can use our mind to create our experience and not just be subjected to whatever we wake up with and whatever life throws at us, you know? And it can be really effective in the immediate, which is really awesome. A lot of this work is long term, but there are some tools such as NLP and also self-hypnosis and different programs that you can find that will suit your particular needs and your particular situation. Be please do your research and make sure like what you're getting into and some of the programs will have, sounds that alternate and if you're just be aware if you're sensitive to different sounds and stuff that you're, you're getting, that you're working with something that works with you and not, isn't activating you further. I wish I would love talk to me again in another six months or a year and I'll have a lot more complete answer. That's what I can offer right now as far as all that goes.  
+We work with that. We also work a lot boundaries. It's a big issue with this topic because if we can say no, if we can have respect in our own personal space or if we can fully develop our identity and differentiation from the other. 
+
+That is a great place to be so we can act. We can do many things and I could say a lot more, but that's a good, that's a good part. Thank you.  
+
+**Bianca**:    Thank you Irene. I love that. I love that what you said the self is able to be covered and it needs help and it needs attention in all the aspects. 
+
+### David: How can DAOs be more present for real life problems like suicide prevention?
+(1:07:00)    
+
+**Bianca**:    I want to ask David, and it's more like in the space about Web Three, how can DAOs be more present in the real life problems like this one that we are talking about today? How do you see that?  
+
+**David**:    I would like to start out by pointing our listeners to the [Gravity DAO tweet for this space](https://twitter.com/DavidDanforth12/status/1575576846552342528). I dropped some links in the comments of that post. A couple helpful worksheets that can help us identify positive and negative distortions, automatic negative thinking and challenging negative thoughts. Those are a few really helpful frameworks for getting practice in recognizing like the workings of our minds. 
+
+A lot of stuff Irene was talking about, in the DAO space in general and I see this as something that Gravity, that as a role that we can help to fill is just in number one, having a collection of resources of these type of these type things that help us to identify where we're our thoughts can trick us up. 
+
+Maybe for most DAOs you might just have like one day a year or one weekend a year or an event every year or something so that even though like most of your flow isn't focused on like personal wellness, mental health, emotional development, at least one weekend a year, one week a year, it could be.  
+
+Having that consciousness and having the resources in place so that when people are struggling that they can find what they need. There's a bunch of tools that we can use and those can be like a bit more concentrated. 
+
+Irene was talking about the body language, the communication skills, all this is really important. Actually that reminds me ego strength. Something that we don't really understand in the public consciousness. Consciousness we talk a lot about like breaking down the ego and egolessness. 
+
+Instead, to be a healthy productive person in the world, you need to have a strong ego. What we think of as ego mania is actually evidence of a weakened ego. We need to have this strong sense of ourselves in the world.  
+
+That comes from good, healthy habits of sleep, eating healthy, community, your work skills all the things that make you feel grounded in on this planet that you have the security to live your life and to move forward. 
+
+That can help bring down some of those activated states where we get all charged up, but when we have that good ego strength, when we know, okay, hey I'm upset but this disagreement or this challenging situation, this isn't the end of my world because I like I have this whole network of strength built around me in. 
+
+So that's briefly backtrack to some of those fundamental frameworks. As far as practices meditation, I tell you what I started December of last year meditating every day and for the first few months I was doing 1-3 hours a day, and now I'm at around half hour a day.  
+
+It's made a huge difference in my ability to just manage the day to day and my overall presence with the world. It's somewhat of a long-term practice, but it only took a couple months before I really started noticing the differences and then within six and now like nine months, it's like for sure. Very powerful. 
+
+There's a lot of guided meditations that people could find on YouTube. I just really highly encourage everyone to get in a practice and you can find them even like 5-10 minutes and work your way up. Find what works for your schedule and be creative. 
+
+Maybe that's how you can go to bed is just listen to a guided meditation, or maybe you get up before anyone else to steal 20 minutes for yourself, whatever works for you. 
+
+Internal family systems is another cool thing to learn, it supposes we all are made up of different parts that want different things. The trick is learning not to think of ourselves as a homogenous unit but recognize that we have different parts. 
+
+That's part of why there's conflicts cuz different parts of this want different things and just getting more aware in that sense can help you like before conflict emerges, you can just be aware that there's different parts of you that want different things.
+
+#### Richard Bandler's Getting the Life you Want
+
+We could even do like a really short exercise, a little short imagination work for reframing some emotion to a more positive or reframing some, just an example. This is something that I picked up from [Richard Bandler's Getting the Life You Want](https://www.simonandschuster.com/books/Get-the-Life-You-Want/Richard-Bandler/9780757307768). 
+
+He has all these really cool exercises where you identify a situation and identify the emotion and where it is going within your body and then you identify the opposite situation and find out where that feeling. 
+
+Then, if you want to feel better about a certain thing, then you can move that into the place in your body where you recognize that you're feeling good or motivated. Yeah, that's a good one. Lets do motivation, cuz that's a neutral subject. 
+
+#### NLP Exercise
+
+First we want to think of something that we are super motivated to do. No one could stop us. When it's time to do this thing, you are just full bore. I just want you to imagine, if you have pictures in your head, what does that look like and then where are the pictures? Maybe the pictures aren't in your head, maybe the pictures in your shoulder or what, wherever it happens to be. 
+
+Then what are the senses? Do you hear anything? Do you smell anything? Do you, what do you feel? Where in your body is it in the front of your body back? Is it isolated? Is it just in one particular area? Is it vibrating tingling? Is it moving counterclockwise around your center or is it moving forward front to back, top to bottom thing or back top to bottom? Identify all that. 
+
+Once you have all that in mind and you're anchored in those sensations and those feelings, then you can think about something that you've been procrastinating and you've been putting it off, but you really wanna do it, and you're going to do it, but you've just have been dragging your feet a bit.  
+
+Think about that and think about where that is in your body and how what you're hearing, what you're smelling. Does it taste like something, whatever sensations, what direction is this feeling moving, where is that located? 
+
+Okay, so now you can take that image of the thing that you've been putting off and you can move that into the space where you were super motivated and you can change the direction of the motion to the direction of that you wanna feel. 
+
+If you change it to those other modalities, you should find that you are now associating those positive feelings with the subject you were previously dragging feet on.
+
+You can even do things as simple as once you've identified, you don't even have to contrast them, but just isolate a single anxiety on their own. Once you find the way of feeling is moving, you can in your imagination spin it faster in the direction if you want to feel more that way and spin it in the opposite direction to feel less of that way.  
+
+That's just a little taste for neurolinguistic programming, Rricher Bandler, Get the life you want. Really highly recommend it. It's like just super cool ways that we can use our mind to create our experience and not just be subjected to whatever we wake up with and whatever life throws at us. 
+
+It can be really effective immediately, which is awesome. A lot of this work is long term, but there are some tools such as NLP and also self-hypnosis and different programs that you can find that will suit your particular needs and your particular situation. 
+
+Please do your research and make sure what you're getting into and some of the programs will have, sounds that alternate and if you're just be aware if you're sensitive to different sounds. Just make sure you're working with something that feels good for you and doesn't activating you further. 
+
+Talk to me again in another six months or a year and I'll have a lot more complete answer. That's what I can offer right now as far as all that goes.  
 
 (1:22:07)    
-**Bianca**:    That awesome. David, thank you so much for sharing that. We talked about this a bit before and I was personally very curious about it and the practice is very interesting. We can fill it and how it works and the material that is shared, it's very valuable. Thanks for sharing it with us and all your knowledge and everything and everybody else, thanks for being here. I wanna do a last round if you wanna share something quick that you felt that you missed or that you wanna add to the contribution. I would go back to Marcelo if you wanna share something else.  
+**Bianca**:    That awesome. David, thank you so much for sharing that. We talked about this a bit before and I was personally very curious about it and the practice is very interesting. We can feel it and how it works and the material that is shared, it's very valuable. 
+
+Thanks for sharing it with us and all your knowledge and everything and everybody else, thanks for being here. 
+
+## Conclusion
+I wanna do a last round if you wanna share something quick that you felt that you missed or that you wanna add to the contribution. I would go back to Marcelo if you wanna share something else.  
 
 (1:23:06)    
-**David**:    Okay, well just the idea that if you are in contact with someone that you think may be of risk or having some suicidal ideation, be a good friend, listening, supporting, being there, not judging, encouraging help seeking behavior is very important, especially seeking professional help in these cases. Sometimes we need to take the person's hand and help them get access to professional help. In general, being compassionate and being present as a good friend, if you are in a professional role than you probably have more information about how to deal, how to help and, but that's the way that we can make a difference in this world. That's it. Thank you. It was a pleasure to listen to Irene and David and I thank you very much for the invitation to be here.  
+**Marcelo**:    Okay, well just the idea that if you are in contact with someone that you think may be of risk or having some suicidal ideation, be a good friend, listening, supporting, being there, not judging, encouraging help seeking behavior is very important, especially seeking professional help in these cases. Sometimes we need to take the person's hand and help them get access to professional help. 
+
+In general, being compassionate and being present as a good friend. If you are in a professional role than you probably have more information about how to deal, how to help, but that's the way that we can make a difference in this world. That's it. Thank you. It was a pleasure to listen to Irene and David and I thank you very much for the invitation to be here.  
 
 (1:24:30)    
 **Bianca**:    Thank you so much Marcella for sharing with us. It's a pleasure to listen to you. I will pass it to Irene. Do you wanna share something quick that you wanna add?  
 
 (1:24:43)    
-**Irene**:    Yeah, thank you Bianca. I agree with Marcelo. It's been a pleasure. I'm honored that you invited me and I loved hearing Dan and Marcelo on this topic and just difficult topic and I loved it. We did the visualization because it's a difficult topic so I bet it helped a lot us all. I, what I want to say something that we haven't mentioned is that it's important to do not do exposure treatment. Do not judge, do not do opinions or comparisons. Never size exclusion and restraint because we want to empower, not take away the power and we want to talk about it, we want to normalize it. It's like this prejudices that it's surrounded, we want to normalize it, Okay, you are living this and this is hard, but we want to talk about it. Also something really important, I always explore the biological first, the physiological part because maybe something is happening.  
+**Irene**:    Yeah, thank you Bianca. I agree with Marcelo. It's been a pleasure. I'm honored that you invited me and I loved hearing David and Marcelo on this topic, just a difficult topic. 
 
-(1:26:02)    
-**Irene**:    That is really important. It's the first place to go and always seek a professional place. When you, there's a thing that I want to bring consciousness to, sorry, to take this long, that every part of the system, every professional enterprise, organization, institutions, we need to make conscious efforts to understand and to be responsive. The personal impact that every action and interaction and law and norms and everything has in the people that we interact with because of their unique experience and context. Because everything we do has an impact. We need to have the context and have a accountability of the effects that institutions and organizations and people will happen, all human beings and their lives. Thank you.  
+I love that we did the visualization because it's a difficult topic so I bet it helped a lot us all. I want to say something that we haven't mentioned is that it's important to do not do exposure treatment. Do not judge, do not do opinions or comparisons. 
+
+We want to empower, not take away the power and we want to talk about it, we want to normalize it. It's like this prejudices that it's surrounded. Okay, you are living this and this is hard, but we want to talk about it. 
+
+Something really important, I always explore the biological, the physiological part because maybe something is happening. That is really important. It's the first place to go and always seek a professional place. 
+
+There's a thing that I want to bring consciousness to that every part of the system, every professional enterprise, organization, institutions, we need to make conscious efforts to understand and to be responsive. 
+
+The personal impact that every action and interaction and law and norms and everything has in the people that we interact with because of their unique experience and context. Because everything we do has an impact. 
+
+We need to have the context and have a accountability of the effects that institutions and organizations and people will happen, all human beings and their lives. Thank you.  
 
 (1:27:09)    
-**Bianca**:    Thank you Rennie. That's a really good advice. Thanks for accept our invitation for being here. I value so much your work. I know how much impact you are in the work that you do. That's really beautiful and I'll pass it to David, do you wanna share something you wanna add?  
+**Bianca**:    Thank you Irene. That's a really good advice. Thanks for accept our invitation for being here. I value so much your work. I know how much impact you are in the work that you do. 
+
+**Bianca**:    That's really beautiful and I'll pass it to David, do you wanna share something you wanna add?  
 
 (1:27:33)    
-**David**:    Yeah, just thanks so much for having me and it is really an honor to be here and it's great to hear Marcelo and Irene talk and I just, I don't know, I like it. It, I'm just glad that you're doing this work in Gravity to bring this focus of psychology and personal like wellness into Gravity and Web Three and I'm really excited to, for this work and I just feel so blessed to be a part of this community and yeah, it just full of really brilliant people and just so highly dense with knowledge and positive intention and just a great cross section of some of the most advanced topics of that's they're being talked about today. Thank you. Everyone, Oh, go ahead. Yeah, no, that's all. I just realized I didn't really follow up anything with all that other stuff, but honestly I just need time to get it all organized. Yeah. Thanks again.  
+**David**:    Yeah, just thanks so much for having me and it is really an honor to be here and it's great to hear Marcelo and Irene talk and I'm really glad that you're bringing this focus of psychology and personal wellness into Gravity and Web Three. 
+
+I feel so blessed to be a part of this community, its just full of really brilliant people and just so highly dense with knowledge and positive intention and just a great cross section of some of the most advanced topics of that are being talked about today, but in a practical not only theoretical fashion. Thank you, Everyone.
 
 (1:29:07)    
 **Angie**:    Yeah, that's awesome. Well, thank you guys so much for being here and sharing all your useful information. We have one last question for everyone before we leave, which is how can we learn more about you and your projects? Whoever wants to answer  
@@ -283,28 +394,20 @@ Discovering what you have to do having that vision, having that future that you 
 **Irene**:    I can answer that. I'm available in direct contact. I don't have a webpage, I don't have nothing public, but in direct contact and accessible. Thank you.  
 
 (1:30:00)    
-**David**:    And I'm in the Gravity Discord server and you're welcome to find me there in the Gravity channel, in the t token engineering comments, discord server. I don't have anything like really that I am trying to show off right this second, but I hope to in the, in this soon. Yeah, thank you again.  
-
-(1:30:35)    
-**Bianca**:    Myself just went off, but he's a professor. Oh, he's coming back. Okay. He  
+**David**:    I don't have anything that I am trying to show off right this second, but I hope to soon. Yeah, thank you again.  
 
 (1:31:02)    
-**David**:    Expertise here. I've, I was trying to get my microphone on and I turned myself off I think, but I'm glad I'm back. I'm also available indirect contact, so if, I don't know how you'd like to do this, but you could share either my email or WhatsApp number. J just feel free if you want to connect, contact me however you'd like to do this, Bianca. It's okay. Fine with me.  
+**Marcelo**:    I'm also available by direct contact, I don't know how you'd like to do this, but you could share either my email or WhatsApp number. Feel free if you want to connect, contact me however you'd like to do this, Bianca. It's okay. Fine with me.  
 
 (1:31:48)    
 **Bianca**:    Thank you. I want to phrase Marcelo and thank you so much because he created the Twitter just to be in this call. Thank so much for being here and doing that and putting so much intention on  
 
 (1:32:04)    
-**David**:    It. It was a pleasure. Indeed. It's, I learned something today. Thank you too for inviting me.  
+**Marcelo**:    It was a pleasure. Indeed. I learned something today. Thank you too for inviting me.  
 
 (1:32:17)    
-**Bianca**:    Yeah, I love to listen to you and it's a pleasure for me to be one of your interns and I really learn a lot with you and with everybody else. Thank you David. Thank you Irene. Thank you Marcel for being here. I could listen to you guys all day and this topics is so interesting and there are so many aspects of it that we could be talking and yeah, this was a great call, a great talk and I appreciate very much and thank you for everybody listening to this. Thanks Angie for being a co-host in this space. You are amazing person. You're awesome. Thank you for being a partner in this mental health events there happening. It happens every last Thursday of the month at 3:00 PM ESD time. We are usually on Gravity discord and this month we came to the Twitter space for this special topic. We hope to see you around and thank you so much everybody for coming and sticking with us and yeah, sending loves and hugs for everybody. Thank you. I appreciate you all.  
+**Bianca**:    Yeah, I love to listen to you and it's a pleasure for me to be one of your interns and I really learn a lot with you and with everybody else. Thank you David. Thank you Irene. Thank you Marcel for being here. 
 
-(1:33:51)    
-**David**:    Thank you. Bye. Thank you. Bye.  
+I could listen to you guys all day and this topics is so interesting and there are so many aspects of it that we could be talking and yeah, this was a great call, a great talk and I appreciate very much and thank you for everybody listening to this. Thanks Angie for being a co-host in this space. You are amazing person. You're awesome. Thank you for being a partner in this mental health events there happening. 
 
-(1:33:54)    
-**Bianca**:    Thank you everyone. Bye.  
-
-(1:33:56)    
-**David**:    Thank you. 
+It happens every last Thursday of the month at 3:00 PM ESD time. We are usually on Gravity discord and this month we came to the Twitter space for this special topic. We hope to see you around and thank you so much everybody for coming and sticking with us and yeah, sending loves and hugs for everybody. Thank you. I appreciate you all.  
