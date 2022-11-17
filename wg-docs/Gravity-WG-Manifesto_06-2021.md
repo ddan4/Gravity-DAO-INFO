@@ -1,5 +1,18 @@
 # Gravity Manifesto
 
+> Explain what is pushing us apart so Gravity can bring us back together.
+
+_WG lead: Juan Carlos_
+
+---
+
+Note! [The Working Group Manifesto is a live document](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit), as the working group evolves (e.g. people join the working group) this document should be updated to reflect these changes. This is important so that there is an updated single source of truth for onboarding new working group members.
+
+---
+
+(The working group lead is expected to keep the document up to date.)
+
+## Contents
 - [What goals would you like to achieve with this working group?](#what-goals-would-you-like-to-achieve-with-this-working-group)
   - [This working group:](#this-working-group)
 - [How will these derivables be addressed](#how-will-these-derivables-be-addressed)
@@ -32,17 +45,6 @@
 
 ## Manifesto
 
-**Explain what is pushing us apart so Gravity can bring us back together.** 
-
-_WG lead: Juan Carlos_
-
----
-
-Note! [The Working Group Manifesto is a live document](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit), as the working group evolves (e.g. people join the working group) this document should be updated to reflect these changes. This is important so that there is an updated single source of truth for onboarding new working group members.
-
----
-
-(The working group lead is expected to keep the document up to date.)
 
 ## What goals would you like to achieve with this working group?
 
