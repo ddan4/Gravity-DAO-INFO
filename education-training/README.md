@@ -1,5 +1,7 @@
 # Education Training
 
+> Explain what is pushing us apart so Gravity can bring us back together.
+
 ## CONTINUE THE GRAVITON PATH
 
 ![](images/1_Graviton-Path.png)
