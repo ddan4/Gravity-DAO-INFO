@@ -131,3 +131,14 @@ I suggest the queries can be sent to a bot or a typeform, that is associated to 
   > Approaching an introduction/sampler training session for Attention Exercises/Practices with What, So What, Now What 
 - [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
   > Let’s know a little bit more about each other!
+
+## Gravity WG Practice
+
+- [W49 Gravity WG: Liberating structures - Accepted and Non-accepted violence](https://www.youtube.com/watch?v=kExHpkju7I8&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=26)
+- [W47 Gravity WG: Liberating structures - Deep democracyand the resistance line!](https://www.youtube.com/watch?v=vJDKXBfE2gE&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=28)
+- [W45 Gravity WG:Wicked Questions, Integrated Autonomy, liberating structure w/Jeremy&Lean](https://www.youtube.com/watch?v=QXyqBc0jMy4&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=30)
+- [W39 Gravity WG: Practice Groups on Deep Democracy and Liberating Structures](https://www.youtube.com/watch?v=6wYxzTem8JU&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=36)
+- [W41 Gravity WG: Practice group liberating structure w/Jeremy](https://www.youtube.com/watch?v=VuwFX7uLTSQ&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=34)
+- [W42 Gravity WG: Practice group liberating structure w/Jeremy&Lean](https://www.youtube.com/watch?v=Gd_s4fv_dSU&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=33)
+- [W51 Gravity WG: Practice Groups - Inclusive Decisions](https://www.youtube.com/watch?v=k8lQjqSx10o&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=24)
+- [W53 Gravity WG: Practice Groups - Invitations & Check In Wave](https://www.youtube.com/watch?v=nfPv43fC_R8&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=21)

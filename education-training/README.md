@@ -127,12 +127,35 @@ There should be awareness of conflicts that may arise that are not listed in the
 - [Role Play: Playing Fast & Loose - ORI - The Office of Research Integrity](https://ori.hhs.gov/role-play-playing-fast-loose)
   > RCR Casebook: Conflicts of InterestTable of Contents - Previous - Next
 
-## Book Club
+## TEC Book Club
 
 - [Margaret Wheathley: Who do we choose to be](https://docs.google.com/document/d/1BLKfRoeKSUAuqnPhtO3QYc1_iMGwXtW39dAWc__uZL4)
   > Margaret Wheatley: Who do we choose to be? Facing reality, claiming leadership, restoring sanity Practical Thursdays at the TEC server
 - [Wheatley Margaret J Who Do We Choose To Be - Facing Reality Claiming Leadership Restoring Sanity](https://drive.google.com/file/d/1aemPQZzkwMrkXdcBJglbsSWvrf9LD89m/view?usp=drivesdk) ([1](https://drive.google.com/file/d/1OkliRD5p0JyQWZcgs1tKkCYw28YLXnhe/view?usp=drivesdk)) ([2](https://drive.google.com/file/d/1XxuJmbsqoPw13ki_S74NprLrH6exq4gf/view?usp=drivesdk)) ([3](https://drive.google.com/file/d/1vjMr-W6RBxQBJAVbYfOGAgF_5_Dlf_uD/view?usp=drivesdk)) ([Chapter_5 Notes](https://docs.google.com/document/d/1qIF3C5nc5b0AfOdcUuWYBe_03SpCTD_o/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true))
 - [Margaret J. Wheatley – Margaret J. Wheatley](https://margaretwheatley.com)
+
+### Governing The Commons
+
+- [W1 TE Book Club: Towards a decentralized publishing house!](https://www.youtube.com/watch?v=3ddAgeixOMA&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=10)
+- [Ostrom’s Governing the Commons - Book Club Chapter 2](https://www.youtube.com/watch?v=GO9o_Xd8Xdw&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=9)
+- [Ostrom’s Governing the Commons - Book Club Chapter 3 Part 1](https://www.youtube.com/watch?v=K7Iy6-yo12c&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=8)
+- [Ostrom’s Governing the Commons - Book Club Chapter 3 Part 2](https://www.youtube.com/watch?v=hhG8fGuWyAQ&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=7)
+- [Ostrom’s Governing the Commons - Book Club Chapter 4 Part 1](https://www.youtube.com/watch?v=gWwL0WXkO_s&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=6)
+- [Ostrom’s Governing the Commons - Book Club Chapter 4 Part 2](https://www.youtube.com/watch?v=uWJhkX3ijMU&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=5)
+- [Ostrom’s Governing the Commons - Book Club Chapter 5 Part 1](https://www.youtube.com/watch?v=2KfpWrYRl5A&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=4)
+- [Ostrom’s Governing the Commons - Book Club Chapter 5 Part 2](https://www.youtube.com/watch?v=D_lY653Myqc&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=3)
+- [Ostrom’s Governing the Commons - Book Club Chapter 6 Part 1](https://www.youtube.com/watch?v=j9VxlU4hCCM&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=2)
+- [Ostrom’s Governing the Commons - Book Club Chapter 6 Part 2](https://www.youtube.com/watch?v=42rnjUjRKV0&list=PLusWL9gf0FIRVbMKJI2PCyQzbGf8dyR4s&index=1)
+
+### Nonviolent Communication
+
+- [NVC Book Club Chapter 1: Giving From the Heart](https://www.youtube.com/watch?v=J5-Oqr2ZA8w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=1)
+- [NVC Book Club Chapter 2: Communication That Blocks Compassion](https://www.youtube.com/watch?v=rZR7ui88E8Y&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=2)
+- [NVC Book Club Chapter 3: Observing Without Evaluating](https://www.youtube.com/watch?v=_4RY6TYdoNA&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=3)
+- [NVC Book Club Chapter 4: Identifying and Expressing Feelings](https://www.youtube.com/watch?v=0HsUCvIU9FQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=4)
+- [NVC Book Club Chapter 5: Taking Responsibility for Our Feelings](https://www.youtube.com/watch?v=FWH9ebj3Ppo&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=5)
+- [NVC Book Club Chapter 6: Requesting That Which Would Enrich Life](https://www.youtube.com/watch?v=3opeXmWFUoQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=6)
+- [NVC Book Club Chapter 7: Receiving Empathically](https://www.youtube.com/watch?v=ykl7_gBsx9w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=7)
 
 ## Community Resources
 - [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
@@ -154,3 +177,5 @@ There should be awareness of conflicts that may arise that are not listed in the
 - [Stanley_Star_Roleplay.pdf](https://drive.google.com/file/d/1ND-uehOOF54gN1T5VGzYWaZylVHxsWSl/view?usp=drivesdk)
 - [Role Play: Playing Fast & Loose - ORI - The Office of Research Integrity](https://ori.hhs.gov/role-play-playing-fast-loose)
   > RCR Casebook: Conflicts of InterestTable of Contents - Previous - Next
+
+
