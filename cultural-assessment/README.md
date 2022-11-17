@@ -30,3 +30,48 @@ Following [E. Ostrom’s Principles](https://www.onthecommons.org/magazine/elino
 * Transparent - We value individual  efforts, honest behavior, & proactively identifying incentives, especially if there are conflicts of interest, when it comes to proposing, funding, work progress and other important activities involving the TE Commons.
 * Accountable - Community members are expected to be accountable for all their actions and commitments. Accountability brings trust, and trust is critical for our success. 
 * Value Driven -  we encourage members to support the TE field more so than the opportunity for token values to rise
+
+## Community Resources
+
+- [Holacracy: A Radical New Approach to Management – Brian Robertson – TEDxGrandRapids](https://www.youtube.com/watch?v=tJxfJGo-vkI)
+- [Blockchain Governance and Crypto Law Legal Innovation Law](https://www.notion.so/Blockchain-Governance-and-Crypto-Law-Legal-Innovation-Law-dc8b7fef62874623b3e7c655a7dcf476)
+- [The Cooperative Culture Handbook](https://www.ic.org/community-bookstore/product/the-cooperative-culture-handbook/)
+- [Organizational Shadow and Conflict Management](https://www.mediate.com/articles/OReardonD6.cfm) 
+  > Jung’s shadow describes all the aspects of a person that he or she can’t face up to. As a result, the person represses them and then projects them on to others (angry people see anger everywhere, victims see injustice everywhere). I believe that organisations behave in the same way. 
+- [Build a tower, build a team - Tom Wujec](https://www.youtube.com/watch?v=H0_yKBitO8M) 
+  > https://www.ted.com Tom Wujec from Autodesk presents some surprisingly deep research into the "marshmallow problem" -- a simple team-building exercise that in...
+- [Scott Olster and LinkedIn News have a lot of people trading ideas about how to make meetings work](https://www.linkedin.com/posts/jnakers_rule-omega-greenhall-schmachtenberger-activity-6817492381391314945-0q3i/) Jeremy Nathaniel Akers
+  > In practice it can look/sound like:\
+  > At first glance I disagree with everything you just said, but I’m sure you’ve thought about it, so I’m curious as to what makes you say that.
+- [Composable Membership and its Role in Generating Social Capital](https://ath.mirror.xyz/Olq6VS57xDFWDlxRdQwBKy05xdU2TJHXyk75y-ZxGNg) 
+  > Having a token brings a community together loosely with a financial stake, but composable membership holds a community together long term with social capital. That’s a lot of buzzwords, so let’s explore this in three parts:
+- [Accountability - For The People](https://forthepeople.earth/accountability) 
+  > FTP recognizes that at some point we will make mistakes. All organizations and organizers make mistakes; this is normal and natural. We believe that to make mistakes is not wrong, but to not recognize and be accountable for those mistakes is wrong. Therefore, this document outlines what FTP means by accountability.
+- [Workplace conflict costs employers £30bn a year, study finds](https://www.peoplemanagement.co.uk/news/articles/workplace-conflict-costs-employers-30bn-a-year) 
+  > Staff turnover represents single biggest expense, as research also reveals nearly half a million workers resign every year over disputes
+- [Holacracy: A Radical New Approach to Management - Brian Robertson - TEDxGrandRapids](https://www.youtube.com/watch?v=tJxfJGo-vkI) 
+  > In his engaging talk, Brian Robertson explains Holacracy, a complete system for structuring a company without a management hierarchy, yet with clear accounta...
+- [Global Governance and the Emergence of Global Institutions for the 21st Century](https://www.cambridge.org/core/books/global-governance-and-the-emergence-of-global-institutions-for-the-21st-century/AF7D40B152C4CBEDB310EC5F40866A59) 
+  > Cambridge Core - International Relations and International Organisations - Global Governance and the Emergence of Global Institutions for the 21st Century
+- [Elinor Ostrom’s Principles of Managing a (Civil) Commons with Planetary and Population Health Life-Value Guiding Principles](https://bsahely.com/2018/12/29/an-illustrated-guide-to-life-grounding-elinor-ostroms-principles-of-managing-a-civil-commons-with-planetary-and-population-health-life-value-guiding-principles)
+  > Elinor Ostrom’s 8 polycentric, subsidiarity, hierarchical, coherently-inclusive rule-making and governance-principles can be life-grounded and connected to planetary and population health via…
+- [Working Out Loud: The making of a movement - John Stepper - TEDxNavesink](https://www.youtube.com/watch?v=XpjNl3Z10uc) 
+  > Powered by peer support circles spreading the practice across companies and countries, Working Out Loud is now a growing movement. In this talk, John Stepper describes how you can start, so you can unlock a better career and life. 
+- [Shaping CSPB’s Strategy](https://vimeo.com/693378067/0187842d67) by Carlos Salinas on Vimeo
+- [Blawesome â Wellness 3.0](https://www.blawesome.life)
+  > Blawesome is a powerful set of Web3 tools of for the next generation of Wellness Creators to bring special experiences, exclusive content to their communities
+- [Well_Being_questionnaire_Eurostat.pdf](https://drive.google.com/file/d/1UGWnb-jXOTz0bSHOMbhoWwBU37Xym4s_/view?usp=drivesdk)
+- [Peer-Review-Tools.pdf](https://drive.google.com/file/d/13d6ySENQVcKkrjC5eDBFRjML1sfQeK6M/view?usp=drivesdk)
+- [Subtle Acts of Exclusion](https://subtleactsofexclusion.com)
+  > Subtle Acts of Exclusion is a practical, accessible, nonjudgmental handbook to help individuals and organizations recognize and prevent microaggressions in the workplace.
+- [Promoting the Emergence of Team Flow in Organizations](https://drive.google.com/file/d/1w0tCuwrQcBSGAe9NYBk-Kp4JLDlwcci7/view?usp=drivesdk)
+  > The results provide confrmation of the existing research on team dynamics, fow, group and team fow and indicate that a collective ambition, professional autonomy, and open communication must be deliberately and carefully cultivated to set the stage for the other team fow prerequisites and thence for team fow to emerge.
+- [Sessions | The Facilitation Summit 2021 - October 15, 2021](https://pheedloop.com/FacilitationSummit2021/site/sessions/?event=FacilitationSummit2021&amp;section=97261&amp;id=SESINGVUL0R427BPW)
+  > The Facilitation Summit 2021 by International Association of Facilitators on October 15, 2021.
+
+### Sociocracy
+- [Strategies vs trust, conflict resolution, NVC, Sociocratic Democracy](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in) 
+  > Sociocracy is a highly effective method of designing and managing organizations—regardless of their purpose. NVC is a highly effective process or technique for examining feelings, sorting out needs, and identifying means of addressing them. They both use structured practices and they are complementary, but they have different purposes. One cannot do the job of the other.
+- [Conflict Resolution: Strategies vs Trust](https://www.sociocracy.info/conflict-resolution-strategies-vs-trust-in/)
+- [Navigate via Tension](https://patterns.sociocracy30.org/navigate-via-tension.html)
+  > The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.

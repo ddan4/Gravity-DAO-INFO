@@ -117,6 +117,9 @@ https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875
 There should be awareness of conflicts that may arise that are not listed in the graduate sanction system. And the group of conflict management supporters in the organization should be able to propose management protocols that could include new types of behavior in the graduate sanction protocol. This group of people should be in charge of making the system be antifragile and able to nurture from unpredictable social behavior. 
 
 ## Community Resources
+- [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
+  > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
+
 ### Peace
 - [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
   > How to Start a Revolution reveals the hidden forces behind the headlines - the strategies passed from the jungles of Burma, to the streets of Iran, the Arab Spring and the looming battle to defend democracy in the West. This is the story of the power of people to change their world, the modern revolution and the man behind it all.
@@ -127,3 +130,8 @@ There should be awareness of conflicts that may arise that are not listed in the
 - [The Young Peacemaker](https://rw360.org/the-young-peacemaker)
   > The Young Peacemaker is a curriculum that parents, teachers and youth workers can use to teach children how to prevent and resolve conflict in a constructive and biblically faithful manner. The curriculum emphasizes principles of confession, forgiveness, communication and character development, and uses realistic stories, practical applications, role plays and stimulating activities. This detailed and comprehensive […]
 
+### Punished by Rewards
+
+- [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
+- [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
+- [Punished by Rewards – Alfie Kohn](https://www.amazon.com/Punished-Rewards-Twenty-fifth-Alfie-Kohn/dp/132845052X/)
