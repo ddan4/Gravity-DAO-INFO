@@ -127,7 +127,6 @@ All links about Gravity DAO and related to our work.
 - [Protocol for TEC Calls](https://docs.google.com/document/d/12Pl3mpF5IautPtVdPHjh0tc8fu6JM2iTCnGyumCmULc/edit#)
 - [Gravity WG Call Notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
 - [TEC Code of Conduct](https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit?usp=sharing)
-- [Gravity Forum Posts](https://docs.google.com/document/d/1UVbiVCOk8X4nYF6AcnLKw-87yOzSo20I0PMHH2a0cEU/edit) Work Doc
 - [GRAVITON TRAINING.](https://docs.google.com/document/d/1yqLokbvhveJafMPTfljFd1DDzQ6k8NuF7qRnct4fl2E/edit#-) Work Doc from before the 1st training
 - [Gravity Working Group Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit)
 - [Graviton SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/edit) Presentation
@@ -140,27 +139,32 @@ All links about Gravity DAO and related to our work.
 - [Gravity survey!](https://docs.google.com/document/d/1NavAVn0ipiSsfFAv6SOG89tJp1ihNNzpMEAY-YmXc2c)
   > Intro Research Goal The Gravity Working group has decided to prepare and apply a survey to identify key needs related to conflict management in DAOs
 - [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
-- [I AM THE PROBLEM: Responsibility & Freedom in a Post-Colonized World - Durgadas 2021 01 13](https://www.youtube.com/watch?v=lxi76vO-hJY)
-- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
-  > I AM THE PROBLEM RESPONSIBILITY & FREEDOM IN A POST-TRUTH, POST-RACE, POST-COLONIZED WORLD.
-- [I AM THE PROBLEM-Decolonization-Draft 5](https://docs.google.com/presentation/d/1MSxuyRq_zyt_SxPrM42uAb0Ymup6vT6Sn35eZFewQrc)
-- [I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
 
 ### Drafts
-- [Gravity funding final reviews](https://docs.google.com/document/d/1u0mF9x5vEIYOgK5CWI-hH6Vwnfg8Hy7VrVB_LL-Q0Zc)
-- [Gravity Focus Matrix Draft 1](https://docs.google.com/spreadsheets/d/159PXnpqmSALyo0Ps3Pk7HyzEkSeapNnBG5005Qh4qU0)
+
 - [Gravity Organizational Development Draft](https://docs.google.com/spreadsheets/d/1_ZFbHNSzXAgBfpgha9WpARTBvF-7SVPIDRK_Ri-fHCY)
-- [Gravity medium article Q1 2022 - HackMD](https://hackmd.io/fPQnk34_SmyQWLh8Qepk2A)
-- [Burnout Medium Post](https://docs.google.com/document/d/1MpBEblSKb8GuAAKp6brOxsIUWNrwKfXVA7Tu6KPqB9Q)
-- [GravityDAO Website Agenda & Planning Document Draft1](https://docs.google.com/document/d/1ZaZArVSZkhBIzrLNIeQQG_iM6gAXgIXUACb5jh5z3TE)
-- [Aragon Gravity Umbrella on Notion](https://aragonorg.notion.site/dates-not-fixed-yet-Aragon-Gravity-Umbrella-Workshops-a26c092cef8b47958e4795a9e4081a71)
-- [Graviton Training Preparation Aragon on Notion](https://aragonorg.notion.site/Training-Planning-Preparation-8868d189bdff49f2a994372b909ec539)
-- [Gravity funding draft-Jan 2022](https://docs.google.com/document/d/1YLvvnuxKpz0mq4DRT0MB4JlGjB6rRdyJiFGzm71hLH0)
-- [Graviton Training 3 Session 2- Draft2](https://docs.google.com/presentation/d/1H9mL-HOa9xU50vhNshBqmef0ZHglK-6MLJ178IbChyY)
-- [Gravity Focus Matrix Draft 2.xlsx](https://docs.google.com/spreadsheets/d/1fuNTwL2UfzD6ILHfKYJukbqqdAKQxiHE)
-- [Gravity article q1 editorial phase](https://docs.google.com/document/d/14EQu0zLFYP3rgqqrZL6Cvy-Of4bEuSonwqx3PrTWjyE)
 - [Thoughts On Consent Draft 1](https://docs.google.com/document/d/1xnH5lI4iHESQNXGyaeBd8hGCUGoiuEcD5uZ4-vSWOoU)
 - [Creating_Virtuous_Cycles_Draft1.pptx](https://docs.google.com/presentation/d/1OLAV_DusZnfntxLzQUtuM2kPlJeOL_lh/)
+- [Gravity Forum Posts](https://docs.google.com/document/d/1UVbiVCOk8X4nYF6AcnLKw-87yOzSo20I0PMHH2a0cEU/edit) Work Doc
+
+#### Funding
+- [Gravity commons prize script](https://docs.google.com/document/d/1HsmFAZ65GU877HEFteOBi_Yh565cS6iLJXUUUTmZmdg)
+- [Gravity funding final reviews](https://docs.google.com/document/d/1u0mF9x5vEIYOgK5CWI-hH6Vwnfg8Hy7VrVB_LL-Q0Zc)
+- [Gravity funding draft-Jan 2022](https://docs.google.com/document/d/1YLvvnuxKpz0mq4DRT0MB4JlGjB6rRdyJiFGzm71hLH0)
+
+#### Website
+- [Gravity Focus Matrix Draft 1](https://docs.google.com/spreadsheets/d/159PXnpqmSALyo0Ps3Pk7HyzEkSeapNnBG5005Qh4qU0)
+- [GravityDAO Website Agenda & Planning Document Draft1](https://docs.google.com/document/d/1ZaZArVSZkhBIzrLNIeQQG_iM6gAXgIXUACb5jh5z3TE)
+- [Gravity Focus Matrix Draft 2.xlsx](https://docs.google.com/spreadsheets/d/1fuNTwL2UfzD6ILHfKYJukbqqdAKQxiHE)
+
+#### Blog
+- [Gravity medium article Q1 2022 - HackMD](https://hackmd.io/fPQnk34_SmyQWLh8Qepk2A)
+- [Burnout Medium Post](https://docs.google.com/document/d/1MpBEblSKb8GuAAKp6brOxsIUWNrwKfXVA7Tu6KPqB9Q)
+- [Gravity article q1 editorial phase](https://docs.google.com/document/d/14EQu0zLFYP3rgqqrZL6Cvy-Of4bEuSonwqx3PrTWjyE)
+
+#### Projects
+- [Aragon Gravity Umbrella on Notion](https://aragonorg.notion.site/dates-not-fixed-yet-Aragon-Gravity-Umbrella-Workshops-a26c092cef8b47958e4795a9e4081a71)
+- [Graviton Training Preparation Aragon on Notion](https://aragonorg.notion.site/Training-Planning-Preparation-8868d189bdff49f2a994372b909ec539)
 
 ### Project Management
 - [Trello](https://trello.com/b/F43HeLnJ/gravity)
@@ -182,10 +186,6 @@ All links about Gravity DAO and related to our work.
 - [Gravity survey](https://the-commons-stack.typeform.com/to/reUmcsJ6)
 - [WG 0Mega - TE Community Survey](https://docs.google.com/document/d/1B0LpG_iHS3oK3GH0COmFCWl4XVl12bz6vRsIvEZATVE)
   > Research Goal How can we enable Token Engineering Ethos to emerge from such diverse backgrounds across the globe? Preserving, fostering transdisciplinarity? How can we enable, foster ethical engineering be the foundational lense of Token Engineering “Have Hypothesis for each question” - M...
-- [DD/LS Proposal Planning](https://docs.google.com/document/d/1YbrGI7xwzk1-sT4zfCo0A1qFr-Bumq5BlGFKj3tzdFI)
-  > Tweet/comms proposal Starting 15/02 we welcome everybody to the Graviton practice groups. Every session will have one or two hands on facilitation tools to implement in your daily DAO meetings. Advantages: better conversations, better decisions, better connections Every Tuesday 20:00- 21:00 we ...
-- [Miro - Anja Ebers's Liberating Structures Menu & Principles template - Miroverse](https://miro.com/miroverse/liberating-structures-menu-and-principles)
-  > Discover how Anja Ebers does Liberating Structures Menu & Principles 
 - [Tokenlog · Token-weighted backlogs](https://tokenlog.xyz/commons-stack/commonsprize)
 - [Graviton Budget Sheet](https://docs.google.com/spreadsheets/d/1-Mh6vJ2Xqrsw8Gkd1v-D7r7zoyz87-pFFpdIrddBjGQ)
   > GRAPHS
@@ -303,6 +303,10 @@ All links about Gravity DAO and related to our work.
 - [Proposal Working Group 0mega](https://docs.google.com/document/d/1GZi7Cz0DlovZBRzocxfj-5A9Jp3lGX6kjFxoTH8v2G4/edit#)
 
 ### Group Activity
+- [DD/LS Proposal Planning](https://docs.google.com/document/d/1YbrGI7xwzk1-sT4zfCo0A1qFr-Bumq5BlGFKj3tzdFI)
+  > Tweet/comms proposal Starting 15/02 we welcome everybody to the Graviton practice groups. Every session will have one or two hands on facilitation tools to implement in your daily DAO meetings. Advantages: better conversations, better decisions, better connections Every Tuesday 20:00- 21:00 we ...
+- [Miro - Anja Ebers's Liberating Structures Menu & Principles template - Miroverse](https://miro.com/miroverse/liberating-structures-menu-and-principles)
+  > Discover how Anja Ebers does Liberating Structures Menu & Principles 
 - [Wise Crowds - Tap the Wisdom of the Whole Group in Rapid Cycles (15 min. per person)](https://www.liberatingstructures.com/13-wise-crowds/) ([Youtube](https://www.youtube.com/watch?v=yCFRcLGsUOA&list=PLBlnEMjx5Jb0mqcZkkUqp8EIYfp1hssqs))
   > Exploring how to create the worst possible outcomes in this Design Call Space with TRIZ
   > 
