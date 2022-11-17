@@ -123,3 +123,11 @@ Sanctions are a necessary evil. In order to play exciting games, there must be f
 Even though transparency is an ethical value inside the organization, there is no need for making all disputes public. Instead, all conflict management processes should start [p][q]private [r][s]and begin including actors in the conversation by strategic need. 
 
 I suggest the queries can be sent to a bot or a typeform, that is associated to a spreadsheet with a distribution figure that assigns cases equally to each conflict manager so that just sending a message connects you to someone able to manage the situation, lift information about the issue from the parts involved, and suggest sanctions according to the tiers, or help scaling the conflit if it becomes complex to address. This could serve as a database of disputes that can be periodically reviewed to update tiers by nurturing from the insights generated of conflict management practices and unpredicted social behavior. (Also if the person that receives a query declares himself unable to handle the query, they can skip this case and then the dispute is assigned with the distribution figure to another person) -Ex. My brother is involved in a case.
+
+### Group Activity
+- [Wise Crowds - Tap the Wisdom of the Whole Group in Rapid Cycles (15 min. per person)](https://www.liberatingstructures.com/13-wise-crowds/) ([Youtube](https://www.youtube.com/watch?v=yCFRcLGsUOA&list=PLBlnEMjx5Jb0mqcZkkUqp8EIYfp1hssqs))
+  > Exploring how to create the worst possible outcomes in this Design Call Space with TRIZ
+  > 
+  > Approaching an introduction/sampler training session for Attention Exercises/Practices with What, So What, Now What 
+- [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
+  > Let’s know a little bit more about each other!

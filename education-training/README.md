@@ -137,18 +137,20 @@ There should be awareness of conflicts that may arise that are not listed in the
 ## Community Resources
 - [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
 
-### Peace
-- [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
-  > How to Start a Revolution reveals the hidden forces behind the headlines - the strategies passed from the jungles of Burma, to the streets of Iran, the Arab Spring and the looming battle to defend democracy in the West. This is the story of the power of people to change their world, the modern revolution and the man behind it all.
-- [Advice for Peace: Ending Civil War in Colombia](https://www.youtube.com/watch?v=iDJ5JRPo7Ss) 
-  > The civil war in Colombia lasted 52 years, taking the lives of at least 220,000 people and displacing up to seven million civilians. In 2012, Colombian Presi...
-- [Peace and Conflict Fundamentals](https://open.spotify.com/show/2K7KJt6A2R3AZ6QEph9bio?si=W3jZrNNKQhaUqXbXJGYANQ&amp;nd=1) 
-  > Listen to Peace and Conflict Fundamentals on Spotify.
-- [The Young Peacemaker](https://rw360.org/the-young-peacemaker)
-  > The Young Peacemaker is a curriculum that parents, teachers and youth workers can use to teach children how to prevent and resolve conflict in a constructive and biblically faithful manner. The curriculum emphasizes principles of confession, forgiveness, communication and character development, and uses realistic stories, practical applications, role plays and stimulating activities. This detailed and comprehensive […]
 
 ### Punished by Rewards
 
 - [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
 - [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
 - [Punished by Rewards – Alfie Kohn](https://www.amazon.com/Punished-Rewards-Twenty-fifth-Alfie-Kohn/dp/132845052X/)
+
+### Group Activity
+- [Wise Crowds - Tap the Wisdom of the Whole Group in Rapid Cycles (15 min. per person)](https://www.liberatingstructures.com/13-wise-crowds/) ([Youtube](https://www.youtube.com/watch?v=yCFRcLGsUOA&list=PLBlnEMjx5Jb0mqcZkkUqp8EIYfp1hssqs))
+  > Exploring how to create the worst possible outcomes in this Design Call Space with TRIZ
+  > 
+  > Approaching an introduction/sampler training session for Attention Exercises/Practices with What, So What, Now What 
+- [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
+  > Let’s know a little bit more about each other!
+- [Stanley_Star_Roleplay.pdf](https://drive.google.com/file/d/1ND-uehOOF54gN1T5VGzYWaZylVHxsWSl/view?usp=drivesdk)
+- [Role Play: Playing Fast & Loose - ORI - The Office of Research Integrity](https://ori.hhs.gov/role-play-playing-fast-loose)
+  > RCR Casebook: Conflicts of InterestTable of Contents - Previous - Next

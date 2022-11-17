@@ -104,6 +104,21 @@ From: https://en.wikipedia.org/wiki/Gravity
 - [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
   > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
 
+#### POAPs
+- [POAP Distribution Methods 101](https://intercom.help/poap/en/articles/5812140-poap-distribution-methods-101)
+  > What are the various methods of POAP distribution and their advantages/disadvantages?
+- [How Do I Set Up a POAP Drop?](https://intercom.help/poap/en/articles/5802657-how-do-i-set-up-a-poap-drop)
+  > How-to article describing the process for setting up a POAP drop
+- [GitHub - poapxyz/poap-bot: Discord 🤖 for POAPs events](https://github.com/poapxyz/poap-bot)
+  > Discord 🤖 for POAPs events. Contribute to poapxyz/poap-bot development by creating an account on GitHub.
+- [POAP Help Center](https://poap.xyz/faqs)
+  > Advice and answers from the POAP Team
+- [https://app.poap.xyz/admin/events](https://app.poap.xyz/admin/events)
+- [POAP Gallery – Gravity training for the TEC - NVC & Spiral Dynamics](https://poap.gallery/event/699)
+- [POAP - The bookmarks of your life](https://app.poap.xyz/scan/heuer.eth)
+  > Your collection of Non Fungible Tokens minted by POAP (Proof of Attendance Protocol) is the best way to keep a visual diary of your life events.
+
+
 
 ### Project Management
 - [Trello](https://trello.com/b/F43HeLnJ/gravity)

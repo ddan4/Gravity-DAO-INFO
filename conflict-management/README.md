@@ -1,6 +1,7 @@
 # Conflict Management
 
-* [Step by step guide for mediation in DAOs](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs/edit#slide=id.g13b99c68355_0_0)
+- [Gravity easy Step by Step](https://forum.tecommons.org/t/gravity-easy-step-by-step/354)
+  > Functions for Alternative Dispute Resolution in DAOs 1. Identification: One of the parties to a dispute approaches Gravity and requests a mediation. Gravitons can also propose issues to manage and discuss. 2. Screening: The parties provide the Gravitons assigned all the relevant information pertaining to the dispute and are invited to participate in a mediation process 3. Look for solutions: Gravity offers premises to frame the dispute in a non adversarial way and to conduct the mediation pro...
 
 ![](https://i.imgur.com/guO2mKm.png)
 
