@@ -213,7 +213,7 @@ Suggested approach: The leaders of the refund proposal ask for accompaniment to 
 
 There should be help on searching for solutions. And even if the agreement to address the issue is the voluntary retirement of certain members from the project, there should be a following process to offer support for the members that decided to retire, appropriate company could help in searching for new opportunities and dealing with the issue.
 
-Soft skills that could be applied: Learning to differ without making it personal - The Art of Saying No: Save the Deal, Save the Relationship, and Still Say No  
+Soft skills that could be applied: Learning to differ without making it personal - [The Art of Saying No: Save the Deal, Save the Relationship, and Still Say No](https://www.williamury.com/books/the-power-of-a-positive-no/)  
 * There should be recognition of the people that represents the declined proposal instead of being pointed out by the protocol’s decision winners. 
 * The results have shown no turning back points where each part has it’s own point of view and recent’s the other. How could we help to deal with this situation managing people’s feelings, saving relationships, avoiding moral judgements “Good-bad”.   
 
