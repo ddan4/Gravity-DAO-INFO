@@ -116,9 +116,26 @@ https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875
 
 There should be awareness of conflicts that may arise that are not listed in the graduate sanction system. And the group of conflict management supporters in the organization should be able to propose management protocols that could include new types of behavior in the graduate sanction protocol. This group of people should be in charge of making the system be antifragile and able to nurture from unpredictable social behavior. 
 
+## Group Activity
+- [Wise Crowds - Tap the Wisdom of the Whole Group in Rapid Cycles (15 min. per person)](https://www.liberatingstructures.com/13-wise-crowds/) ([Youtube](https://www.youtube.com/watch?v=yCFRcLGsUOA&list=PLBlnEMjx5Jb0mqcZkkUqp8EIYfp1hssqs))
+  > Exploring how to create the worst possible outcomes in this Design Call Space with TRIZ
+  > 
+  > Approaching an introduction/sampler training session for Attention Exercises/Practices with What, So What, Now What 
+- [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
+  > Let’s know a little bit more about each other!
+- [Stanley_Star_Roleplay.pdf](https://drive.google.com/file/d/1ND-uehOOF54gN1T5VGzYWaZylVHxsWSl/view?usp=drivesdk)
+- [Role Play: Playing Fast & Loose - ORI - The Office of Research Integrity](https://ori.hhs.gov/role-play-playing-fast-loose)
+  > RCR Casebook: Conflicts of InterestTable of Contents - Previous - Next
+
+## Book Club
+
+- [Margaret Wheathley: Who do we choose to be](https://docs.google.com/document/d/1BLKfRoeKSUAuqnPhtO3QYc1_iMGwXtW39dAWc__uZL4)
+  > Margaret Wheatley: Who do we choose to be? Facing reality, claiming leadership, restoring sanity Practical Thursdays at the TEC server
+- [Wheatley Margaret J Who Do We Choose To Be - Facing Reality Claiming Leadership Restoring Sanity](https://drive.google.com/file/d/1aemPQZzkwMrkXdcBJglbsSWvrf9LD89m/view?usp=drivesdk) ([1](https://drive.google.com/file/d/1OkliRD5p0JyQWZcgs1tKkCYw28YLXnhe/view?usp=drivesdk)) ([2](https://drive.google.com/file/d/1XxuJmbsqoPw13ki_S74NprLrH6exq4gf/view?usp=drivesdk)) ([3](https://drive.google.com/file/d/1vjMr-W6RBxQBJAVbYfOGAgF_5_Dlf_uD/view?usp=drivesdk)) ([Chapter_5 Notes](https://docs.google.com/document/d/1qIF3C5nc5b0AfOdcUuWYBe_03SpCTD_o/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true))
+- [Margaret J. Wheatley – Margaret J. Wheatley](https://margaretwheatley.com)
+
 ## Community Resources
-- [Pecha kucha presentation - basics](https://www.youtube.com/watch?v=zAZ_8UJUpno) 
-  > Is death by power point a problem in your organisation? Here are some tips on the pecha kucha presentation style. Simple 20 x 20
+- [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
 
 ### Peace
 - [Gene Sharp How to Start a Revolution](https://howtostartarevolution.org) [Amazon](https://www.amazon.com/Gene-Sharp-How-Start-Revolution/dp/B08LFVRW4F/) [(Chinese subtitles)](https://www.youtube.com/watch?v=Jy2e4RqLv04) 
