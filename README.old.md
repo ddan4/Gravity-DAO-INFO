@@ -1,38 +1,7 @@
-# &#128330;-tec-gravity discord digest <img src="https://github.com/CommonsBuild/tec-branding-assets/blob/main/Logo/Icon/TEC%20Icon%20Color@2x.png?raw=true"  width="25" height="25" /></h3>
-
-![](gravity-wg_banner.png)
-
-All links about Gravity DAO and related to our work.
-
-- [Gravity DAO](#gravity-dao)
-  - [Gravity Blog](#gravity-blog)
-  - [Helpful](#helpful)
-    - [POAPs](#poaps)
-    - [Pecha Kucha](#pecha-kucha)
-  - [Forum](#forum)
-  - [Docs](#docs)
-  - [Presentation](#presentation)
-  - [Drafts](#drafts)
-  - [Project Management](#project-management)
-  - [Psychology in Web3](#psychology-in-web3)
-  - [Session Docs \ Presentations](#session-docs--presentations)
-    - [Forum Posts](#forum-posts)
-- [Commons Stack](#commons-stack)
-  - [Github](#github)
-- [Token Engineering Commons](#token-engineering-commons)
-  - [TEC Blog](#tec-blog)
-  - [Token Engineering Forum](#token-engineering-forum)
-  - [TEC Docs](#tec-docs)
-  - [Group Activity](#group-activity)
-  - [Book Club](#book-club)
-- [Ecosystem](#ecosystem)
-  - [Gitcoin](#gitcoin)
-  - [Aragon](#aragon)
-  - [1Hive](#1hive)
+# discord digest
 
 ## Gravity DAO
 
-[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO) - [Zoom Room](https://us06web.zoom.us/j/87412975245) - [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3Jhdml0eWRhb0BnbWFpbC5jb20) - [Graviton Guide](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs)
 
 - [Graviton Guide](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs)
   > Gravitons shall be able to:

@@ -8,6 +8,10 @@ Newton says that "all bodies whatsoever are endowed with a principle of mutual g
 
 From: https://en.wikipedia.org/wiki/Gravity
 
+## Meta
+
+[Website](https://gravitydao.org) - [Dework](https://app.dework.xyz/gravity-dao/) - [twitter](https://twitter.com/GravityDAO) - [Zoom Room](https://us06web.zoom.us/j/87412975245) - [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Z3Jhdml0eWRhb0BnbWFpbC5jb20) - [Graviton Guide](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs)
+
 ## TRUST CREATION
 
 ## CULTURAL ASSESSMENT
