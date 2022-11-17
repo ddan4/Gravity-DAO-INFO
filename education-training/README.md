@@ -2,6 +2,9 @@
 
 > Explain what is pushing us apart so Gravity can bring us back together.
 
+* [Disentanglement Theory](https://spirals.blog/articles/disentanglement/)
+  > Disentanglement Theory is an attempt to get to the bottom of things, The real bottom, and then heal it. It requires courage, patience, empathy, love, strength, and intuition. It builds emotional intelligence, your sense of love for yourself and the world, deeper happiness, and a generally pretty chillin’ vibe. It’s sweet.
+
 ## CONTINUE THE GRAVITON PATH
 
 ![](images/1_Graviton-Path.png)
@@ -156,6 +159,19 @@ There should be awareness of conflicts that may arise that are not listed in the
 - [NVC Book Club Chapter 5: Taking Responsibility for Our Feelings](https://www.youtube.com/watch?v=FWH9ebj3Ppo&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=5)
 - [NVC Book Club Chapter 6: Requesting That Which Would Enrich Life](https://www.youtube.com/watch?v=3opeXmWFUoQ&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=6)
 - [NVC Book Club Chapter 7: Receiving Empathically](https://www.youtube.com/watch?v=ykl7_gBsx9w&list=PLusWL9gf0FITFKE5ScG_dXD1_Uuyegsht&index=7)
+
+## Divided vs Unified
+
+* [(video) My Stroke Of Insight - Jill Bolte-Taylor](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+
+What we're gonna talk about today is based on this first video, my stroke of insight with Joel bolt Taylor. 
+
+One of the aspects that we're gonna talk about today with regard to spiral dynamics and nonviolent communication is just two different ways to think one is unified. The other is divided. What nonviolent communication is intended to do is, and one of the big outcomes from all of my 15 years experience with is that it allows you to create unified thinking from divided thinking within yourself to understand what your own feelings and needs are. 
+
+As a result of understanding that within yourself, to then extend that same compassionate outlook to others, and what's Spiral Dynamics does is it actually gives you an incredibly deep way to prevent the creation of enemy images within a given context.  
+
+One can contextualize all of our behavior and even our personal stories in terms of spiral dynamics, it is an unbelievably deep framework. It's so deep, Ken Wilber has created an entire theory of everything with this as it's fundamental framework. 
+
 
 ## Community Resources
 - [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)

@@ -31,6 +31,10 @@ Following [E. Ostrom’s Principles](https://www.onthecommons.org/magazine/elino
 * Accountable - Community members are expected to be accountable for all their actions and commitments. Accountability brings trust, and trust is critical for our success. 
 * Value Driven -  we encourage members to support the TE field more so than the opportunity for token values to rise
 
+## Applying systems thinking to our culural approach
+(01:15:30)
+**Durgadas**:    We take systems level thinking and apply it to our cultural approach and to understand that the approach we're gonna take to our cultural thing is going to come from the evolution we have along these, in these quadrants and in this spiral. Right? And so this part is, is really important because if we don't understand how that relationship exists, then we're going to carry whatever unconscious, like, call it from the culture or from our own trauma or from all these things. There are more tools to unpack all that at each level, this is a unifying principle, but you know, if people have questions about this from a personal standpoint, I have other graphics like how does, how does communication happen between two adults, for example, and I'm gonna have another version of this document that talks about what, if you have a mature person talking to a child and and so on. This all can apply from a different context.  
+
 ## Community Resources
 
 - [Holacracy: A Radical New Approach to Management – Brian Robertson – TEDxGrandRapids](https://www.youtube.com/watch?v=tJxfJGo-vkI)

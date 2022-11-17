@@ -28,6 +28,22 @@
 - [Gravity Mediation form](https://docs.google.com/document/d/1RgL9QANBhq6KqtETCYEEEsFSJvHUw0K5VD58qWPUBTk)
   > (Organization name) GRAVITY MEDIATION session Participants: We agree that: 1. The Parties shall endeavor to settle the dispute set out in 1 Scheduled mediation. 2. If for any reason, the mediator agreed upon by the Parties or the parties themselves cannot or does not accept an invitation to ...
 
+## Graviton Training
+
+![](https://i.imgur.com/zwECDBf.png)
+
+After this training, you guys should be able to do each one of these seven things. A huge part that we're gonna cover today around **separating people from problems** that's in many ways, **separating the feelings that people have from the needs (that the word problems is often used to represent)**. 
+
+Also trying to make sure that you understand that each time we're talking about conflict, we need to talk about it in these three contexts that I was talking to you about within yourself, within the relationship that you're having in front of you, and then additionally to the larger community as a whole. 
+
+One of the things you should be able to do as a graviton is to be able to identify those different contexts from each other. And like number three says, additionally promoting empathy between all of the conflicting parties with emotional intelligence with also with this understanding of basically in many ways, this is a setting of expectations, what we're talking about now.  
+
+Also this presentation is intended to give you the different tools in the context, in which to understand yourselves and the three contexts that we're talking about. 
+
+Additionally there are just some plain old regulations that we have to adhere to with respect to terms and conditions, codes of conduct the graduated sanctions. 
+
+There are other legal obligations that we have. Those things would all be addressed in the larger context of the overall community and in many ways, the world.
+
 ### Helpful
 - [xDAI Chain - Metamask](https://metamask.zendesk.com/hc/en-us/articles/360052711572-How-to-connect-to-the-xDai-network)
   > Please stand by, while we are checking your browser...

@@ -5,6 +5,10 @@
 
 ![](https://i.imgur.com/guO2mKm.png)
 
+>  We are preparing with this knowledge of techniques to understand conflict and to overcome and to transform it into something healthy. That is the purpose of gravity. 
+> 
+> The purpose of this training is for you to be able to practice in your everyday life techniques to handle conflict, to communicate mindfully and to make the best of a challenging situation.
+
 ## Contents
 - [Steps for Alternative Dispute Resolution](#steps-for-alternative-dispute-resolution)
 - [THE 4 P’s - FRAMEWORK FOR CONFLICT ANALYSIS](#the-4-ps---framework-for-conflict-analysis)
@@ -17,7 +21,6 @@
   - [Conflict Transformation](#conflict-transformation)
   - [Negotiation](#negotiation)
   - [Restorative Justice](#restorative-justice)
-  - [Nonviolent Communication](#nonviolent-communication)
 
 ## Steps for Alternative Dispute Resolution
 
@@ -259,6 +262,21 @@ https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/
 
 https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
 
+## Trusting the process
+(01:08:18)
+**Durgadas**:    As somebody who has participated in a lot of nonviolent communication practice groups, I've had a lot of situations in which, for example, one of the practice groups that I had, there was just a guy annoying the hell outta me. I just didn't know why. After about eight meetings, I was like, look, man, you're just irritating as hell to me. I don't know why. I had to trust the process to, to have a difficult conversation with that person. and to have the group assist me in figuring out why that was so that I could overcome it. Then he was no longer annoying. This is the power of inclusion. This is the power of using the duality against itself, the power of using the SOIC approach to something, to work against the hiding and the projecting power of the mind.
+
+## Avoiding conflict is avoiding evolution
+(01:09:35)
+**Juan Carlos**:    I want to compliment also on something and that this all connects with what we are going to see next week on the theories of conflict, because conflict is somehow like the expression of an ENT duality. How can we transform an toity that arises between two people into something that can be better for, for the, for both of them.  
+
+(01:10:06)
+**Durgadas**:    that, and that's specifically what this evolution is showing, right? It's actually conflict that creates a person's evolution along the different colors.  
+
+(01:10:17)
+**Juan Carlos**:    So it, it, sometimes we, when we hear the word conflict, we tend to like avoid it. Yeah. Avoiding a conflict is avoiding evolution. Yes. Because is expression of, of different points of view, it's expression of needs that are not met. An approach that we're promoting here is to see is to not go into conflict with everything, but see conflict with compassion, with, as a process that has a lot of knowledge in need. I am also going into this next session, but it's also a dialectic process, a process that comes from a thesis and antithesis, and then it a synthesis that it's like what we are seeing here in this, in these graphs.  
+
+
 ## Community Resources
 
 - [Jur](https://jur.io/) – Justice. Decentralized
@@ -330,33 +348,3 @@ https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
 - [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
   > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
 - [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
-
-### Nonviolent Communication
-
-- [Natural giving song](https://www.youtube.com/watch?v=iwceYGiTeWo)
-- [Nonviolent COmmunication Companion Workbook](https://www.amazon.com/Nonviolent-Communication-Companion-Workbook-2015-09-01/dp/B01NAO8XZQ/)
-- [Nonviolent Communication Language Life Changing Relationships](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X/)
-- [Nonviolent Communication Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034/) Marshall Rosenberg
-- [Say What You Mean: A Mindful Approach to Nonviolent Communication](https://www.youtube.com/watch?v=GpZMcFzO4eo)
-- [1. Basics of Nonviolent Communication, by Marshall Rosenberg](https://www.youtube.com/watch?v=VT8KGgDo6TY)
-- [Mindful Communication talk at Apple, full video](https://www.youtube.com/watch?v=wXVBPPtTrgs&amp;list=PL50MVdNosAWFBn2mNi0ZjAIR9eRw_u8u4)
-- [Your Complete Nonviolent Communication Guide [2020 Update]](https://positivepsychology.com/non-violent-communication/)
-- [Nonviolent Communication Summary](https://srinathramakrishnan.files.wordpress.com/2016/07/non-violent-communication-summary.pdf)
-- [Communication NonViolente - Marshall Rosenberg](https://www.amazon.fr/gp/product/2960188810)
-- [@MBR_Quotes](https://twitter.com/MBR_Quotes) 
-- [What Is Nonviolent Communication? – Insightful Counselling & Training](https://insightfulcounselling.com/what-is-nonviolent-communication) 
-  > NVC is an excellent program to learn to navigate difficult conversations, conflicts, and learn to meet your needs with awareness.
-- [nonviolent-communication-a-language-of-life-marshall-b-rosenberg-.pdf](https://drive.google.com/file/d/1kKfGQYU0DIrTLSGY82kz9RxROWnjW3-r/view) 
-- [NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION](https://www.youtube.com/watch?v=l7TONauJGfc) 
-  > Fully transcribed - subbed.K dispozícii sú aj (amatérsky preložené) slovenské titulky :)Just spreading the word on NVC - I transcribed the whole session for ...
-- [Nonviolent Communication - Marshall Rosenberg (audiobook) - Google Drive](https://drive.google.com/drive/folders/1olzC4R0qf04N4Qum_Yz4PUeGOGGPRmap) 
-- [Feelings_Wheel_in_PDF.pdf](https://drive.google.com/file/d/1EC7Ga7HdM-kgNzloq1SH0h1UJqXDDDM4/view?usp=drivesdk)
-usp=drivesdk)
-- [2022 Online NVC Conference](https://nvctraining.com/live-nvc-courses/online-nvc-conference-2022)
-  > We are proudly sponsoring the 2022 Online NVC Conference! Experience the varied perspectives of 9 experienced, engaging trainers Learn skills for listening, speaking, and cooperating with integrity and care Practice skills to communicate better at home, at work, or at school Make connections with ki...
-- [CEG_Feelings-and-Needs-Exercise.pdf](https://drive.google.com/file/d/1_vgMUJqUljgzlR2bg1o7j5RQa0-BxX5O/view?usp=drivesdk)
-- [International Intensive Training (IIT) in the United States: June 2022 | Center for Nonviolent Communication](https://www.cnvc.org/2022-United-States-IIT)
-  > Join us for this residential retreat in Los Angeles, California (June 10-19, 2022) that will help you bring nonviolence and peace into all areas of your life. In this event, you can discover skills that will help you improve the quality of your relationships, deepen your inner peace, and increase your contribution to the world.
-- [Worksheets – BayNVC](https://baynvc.org/free-worksheets)
-  > 1. Think of something you’ve done that you feel regret about. Write down what it is in observations (without judgments).
-
