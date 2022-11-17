@@ -2,11 +2,14 @@
 
 * [Step by step guide for mediation in DAOs](https://docs.google.com/presentation/d/1IfkX70RczxzyX4bjSGabFhOWNF3eLQ1_3LtyMIajXhs/edit#slide=id.g13b99c68355_0_0)
 
+![](https://i.imgur.com/guO2mKm.png)
+
 ## Contents
 - [Steps for Alternative Dispute Resolution](#steps-for-alternative-dispute-resolution)
 - [THE 4 P’s - FRAMEWORK FOR CONFLICT ANALYSIS](#the-4-ps---framework-for-conflict-analysis)
   - [The 4 Ps key factors](#the-4-ps-key-factors)
 - [Gravity Mediation Process](#gravity-mediation-process)
+- [Assorted Graphics](#assorted-graphics)
 - [Community Resources](#community-resources)
   - [Mediation](#mediation)
   - [Alternative Dispute Resolution](#alternative-dispute-resolution)
@@ -123,6 +126,138 @@ https://unbreakable-vows.on.fleek.co/#/create
 
 ![](images/13_ONFR-4Ps.png)
 
+## Steps Typically Used by a Private ADR Center
+
+![](https://i.imgur.com/VIgqu4B.png)
+
+## Identify bright lines for formal legal process (including mediation/appeal)
+
+* optional/restorative/compulsory community service
+* correct/muting/removal of prior communications on social channels
+* suspension/expulsion as member/participation
+* Monetary penalty … forced burning, transfer or lock-in of tokens
+* Consider purchasing ADR tokens (alternative dispute resolution hours) from LexDAO for the complicated situations
+
+Following a dialectical approach, there should be at least three filters required for the bot/typeform to accept a conflict management request inside the system and be able to start working around it.
+
+A. Is this information true? (the caller signs the information sent)
+*Calling for conflict management with false statements should be a low-mid sanction.
+
+B. What are the social agreements at risk in this situation
+*Sustaining how this behavior is contrary to the organization ethics.
+
+C. Why is addressing this issue useful for the system?
+*Stating how can the community/members benefit for a call on this issue
+
+As the proposed authority comes from consensus, the sanctioned should accept the sanction (sign it) in order to be legitimate. If the sanctioned does not agree with the sanction or feels that they are being harmed in other ways, there can be a presentation of counter-arguments that will begin a negotiation process with a TEC SME in conflict management and the involved members to look for solutions.
+
+## Scalability of disputes 
+
+Following alternative mechanisms of conflict management, we can propose strategies to deal with the scaling of disputes that cannot be easily managed with the graduate sanctions. This scope involves the active participation of qualified third parties to play the role of facilitators that help building communication bridges in non consensual situations where the parts keep pushing away from each other. These are paths suggested to suit the complexity of conflicts.
+
+1. Negotiation: - The issue is private -  Decisions can be settled easily between the parts and a SME in conflict management. Light sanctions can be applied.
+2. Mediation: - The issue is still private - The parties can agree to ask for support from a group of trusted members inside the community (not related to any of the parties), to help find solutions. They will suggest a path to proceed, but the implementation of the decision depends on the consent of both parties involved. Yellow cards can be applied.
+3. Conciliation: The issue is still private  – The parts can agree to ask for support from a group of trusted members inside the community (not related to any of the members) that helps in the design, voting, and implementation of solutions that should be respected by all parts. Red cards can be applied.
+4. Arbitration: The issue becomes public after having exhausted the previous mechanisms without reaching agreements - The parts can call for help to an external organization – trusted by all parts (like kleros - aragon courts - Celeste)  - that should review the process and work towards regaining governance by proposing alternatives, that should be voted inside the system to be legitimated and implemented. Red cards can be applied.
+
+Based on: https://dialnet.unirioja.es/descarga/articulo/4182033.pdf
+
+## Draft for the conflict resolution program of the TEC which can eventually support other DAO communities. 
+
+1. We could have conflict management training twice a year, each one ending with a conflict management certification.
+2. People who pass the training and show they have soft skills and understanding of conflict can become part of this trusted group of conflict management supporters for the TEC. 
+3. That will provide the minimum requirements, but then we need to develop a reputation system to promote meritocracy and good will. A person can not be part of the conflict managers more than 3 years in a row to promote rotation and avoid centralization of power. He/she can join again after 1 year of not being part of this group.
+4. Agreements and sanctions as products (actions) of conflict management processes, are registered in the system database (off-chain) with follow up indicators for accountability. - My idea is that we could have some kind of system that holds the proof and information needed to revise and solve cases- maybe?. Ex. A member publishes some information as his own. The community should be able to record the situation, the decision taken for that case, and look for a way to track the progress. 
+5. What type of conflicts will they be able to manage? Mostly common conflicts related to unwanted organizational behavior, disputes between members and non consensual situations.  The objective of this program is to handle small disputes with ease and provide preventive/de-scaling management for bigger issues. 
+6. This is a voluntary process that can be called by one or part, but to proceed there should be recognition of the process by all parts involved.
+7. The conflict management process does not end in agreements or sanctions. After them, there should be Indicators and off-chain follow-up.
+8. The Conflict management process should be rewarded for the people doing this job.
+
+## TABLE 1.5 Steps Typically Used by a Private ADR Center
+* Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers
+
+1. One of the parties to a dispute (referring party) approaches the ADR Center and requests a mediation.
+2. The ADR Center provides a list of names of available mediators from which the parties may elect their mediator.
+3. The parties provide the ADR Center with all the relevant documents pertaining to the dispute, and the ADR Center provides this information to the mediator.
+4. The ADR Center, in consultation with the parties and the chosen mediator, determines the date and place when the mediation will take place. The ADR Center may offer premises for conducting the mediation. A few hours or a number of days may be allocated for the mediation, depending on the complexity of the matter and the number of parties involved.
+5. If the dispute is settled through mediation, the parties enter into a Settlement Agreement. Often the ADR Center will keep a copy of the Settlement Agreement on file for its records.
+6. If the dispute remains unresolved, the referring party may request that the matter be arbitrated by the ADR Center, if this is the agreed process to be followed by the parties (for example, in terms of the contract between the parties). Alternatively, the parties may agree to arbitration. If the parties do not agree to arbitration , they may follow the recognized route for resolving disputes in that jurisdiction (for example, approaching the court for a court order).
+7. Once again, the parties will elect an arbitrator. The arbitrator will conduct the arbitration on a date and at a time as agreed between the parties.
+8. The arbitrator adjudicates the matter and provides an arbitration award, which is normally binding between the parties through operation of law or by agreement of the parties.
+
+## Brainstorms
+Brainstorm with Loie (12 Oct). what does the conflict resolution process include:
+* It’s clear who facilitators/supporters are - ¿should there be rotation /how to do it?
+* Pre-circling (facilitators interview stakeholders)
+Identify the other stakeholders (who else needs to be involved)
+Get a definition of what happened (as neutral as possible - description of events. Helpful here to use Who What Where When questions, no How or Why)
+* All stakeholders need to accept the definition of what happened
+* Circle (meeting with all stakeholders)
+Action Steps (equivalent of justice circles)
+* Set a date in future to evaluate if these have been followed
+Setting a safe space
+* Reminding what our mission/principles are (the stuff that holds us together)
+* Making it clear what pieces are confidential/what aren’t (for example Action Steps may be public but all other elements of the meeting are kept confidential)
+* Facilitator is not a Judge, more of an external person that promotes communication, de-scaling of the problem and searching for solutions within different scopes.
+* Accountability of the agreements/action steps
+What happens if you break the agreements?*** 
+Graduated Sanctions + positive reinforcement 
+* “Post Circle” - 1 month-6 months later check in on if agreements are being followed.
+* Clear process for when & how agreements are revisited/changed
+* It’s an internal program - the facilitators should be IN the community
+
+Clear list of who is this list of people that plays this role in the organization 
+How does it rotate for avoiding power centralizations?
+Knowing when a facilitator is unable to be an impartial third in a situation.
+
+It Could be a little difficult until we have the 1st training. Once people in the community have gotten trained as conflict supporters, we can use people from within the community
+
+### Brainstorm with griff (18th Oct):
+
+Thermometer of unwanted behavior 
+
+If someone disagrees with the group sanction, there can be an arbitrage (like kleros-aragon courts).
+
+### Other Brainstorm points
+
+* Knowing when this process doesn’t apply
+
+### Brainstorm with Livia (28 oct)
+
+#### How Could the cycle be?
+what if for the conflict res we can do something as the Dish prase, but private, like people send their query to a bot, and then a conflict manager contacts him/her for knowing more info on the report.
+
+Then unwanted behavior is measured periodically following tiers, and related to sanctions if needed
+
+like what you and griff to for impact hours, but this would be on reports about disputes
+
+like, i think there should be a distributor figure (cifra repartidora) that distributes equal quantities of cases to this group of people
+
+but they sould have also responbilities as a group, being accountable of some things in the community's well being
+
+i thought about the bot because it's very simple and private, just sending a message connects you to someone that understand that the community's well being is related to individual wellbeing
+
+## Academic references 
+- Harvard’s program on negotiation
+To sign up to receive the Teaching Negotiation Resource Center email newsletter, click here.
+If you would like to learn more about negotiation books, role-play simulations, and other materials available through the Teaching Negotiation Resource Center, you can reach us at tnrc@law.harvard.edu.
+  
+![](https://i.imgur.com/k1o3bNp.png)
+
+Include conflict resolution in Founding documents
+
+The Mexican Cooperative law gives some examples of conflict resolution within a cooperative, I know that law, we can talk on that :) [Am Humberto] - Nice! I’m suggesting monday calls.
+
+Related links
+
+https://oscr.umich.edu/article/restorative-justice-circles
+
+https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court
+
+https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/edit# D2D reputation sharing
+
+https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
+
 ## Community Resources
 
 - [Jur](https://jur.io/) – Justice. Decentralized
@@ -223,3 +358,4 @@ usp=drivesdk)
   > Join us for this residential retreat in Los Angeles, California (June 10-19, 2022) that will help you bring nonviolence and peace into all areas of your life. In this event, you can discover skills that will help you improve the quality of your relationships, deepen your inner peace, and increase your contribution to the world.
 - [Worksheets – BayNVC](https://baynvc.org/free-worksheets)
   > 1. Think of something you’ve done that you feel regret about. Write down what it is in observations (without judgments).
+

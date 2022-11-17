@@ -97,3 +97,29 @@ Liberating Structures is an open tool-kit for facilitation.
 
 [https://www.youtube.com/watch?v=OAuWRuU4uzA](https://www.youtube.com/watch?v=OAuWRuU4uzA)
 
+## No difference between legitimacy of social law and other types of law.
+
+Following the principles of self governance and self sovereignty, despite the lack of central authorities, we can rely on the social acceptance of internal contracts to create binding procedures, as a basis for participation inside the community.
+
+The point of these processes[k][l] (to have clear roles in the organization played by a group of people accountable of managing the disputes sent to the system, by periodically applying and reviewing transformational actions, and conflict management scaling protocols for complex problems) are to be able to have antifragile systems that set guidelines for resisting frictions in human interaction. 
+
+## Making rules is not just blindly following a system.
+
+To monitor the system’s stability, there must be a clear definition of who are the individuals accountable for managing disputes and promoting the ethical values of the organization in decision taking, rewards and reasonable graduated sanction designs. This group is responsible for developing trust between members, and it’s decisions, or members can be revoked if the majority of the community approves a proposal stating it’s contradiction to social agreements. 
+
+## Correcting contradictory social law behavior
+
+Sanctions are a necessary evil. In order to play exciting games, there must be fast responses to unwanted behavior that can help to easily address common issues and keep playing without much traumatism (like in sports). 
+
+
+\*I suggest that after a certain time[m][n], accumulated sanctions are erased.
+
+* Light sanctions serve as verbal warnings -to actions that affected other game players without intention to do so, and take place for the first times. 
+* Medium sanctions  serve as yellow cards -that are tracked for intentional harm, and the registry of continuing unwanted behavior for a period of time. (duration 6 months)
+* Hard sanctions serve as “red cards” that can be called for suspension of privileges of a member through a period of time, for hardly endangering others wellbeing (with or without intention), and persistent unwanted behavior with medium sanctions -This could include removing cstk tokens, banning from community calls, request for external arbitrage and traditional legal actions[o]. (duration from 1 year to 2 years)
+
+## Promoting strategic nonviolent communication
+
+Even though transparency is an ethical value inside the organization, there is no need for making all disputes public. Instead, all conflict management processes should start [p][q]private [r][s]and begin including actors in the conversation by strategic need. 
+
+I suggest the queries can be sent to a bot or a typeform, that is associated to a spreadsheet with a distribution figure that assigns cases equally to each conflict manager so that just sending a message connects you to someone able to manage the situation, lift information about the issue from the parts involved, and suggest sanctions according to the tiers, or help scaling the conflit if it becomes complex to address. This could serve as a database of disputes that can be periodically reviewed to update tiers by nurturing from the insights generated of conflict management practices and unpredicted social behavior. (Also if the person that receives a query declares himself unable to handle the query, they can skip this case and then the dispute is assigned with the distribution figure to another person) -Ex. My brother is involved in a case.
