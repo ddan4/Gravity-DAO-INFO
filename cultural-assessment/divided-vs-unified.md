@@ -1,5 +1,11 @@
 # Divided \ Unified Thinking
 
+[I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+12.83 MB
+\**This video gets through about 2/3 of the slides:*
+[I AM THE PROBLEM: Responsibility &amp; Freedom in a Post-Colonized Worl...](https://www.youtube.com/watch?v=lxi76vO-hJY)
+
+
 If you take a look back at the stroke Myro of insight, which I mentioned about the unified and divided ways that the, the human brain thinks what you can see is that a lot of times we have these unified and divided ways of thinking. 
 
 If a person is approaching things from a divided standpoint, they're going to tend to have a conflict in when they find themselves in context of a unified system in the, in the spiral, this could be roughly connected to the eye and the we, and as I said, previously, as we evolve along the spiral, you can see how this conflict actually pushes you to evolve.  
@@ -92,3 +98,192 @@ If they don't know what their feelings are to clarify a person's needs, if they 
 If you misidentify your feelings, that's gonna create more conflict because you're gonna be caught up in your head rather than to have any sense of where you actually are. All of the understandings that we come up with use the, the duality and the ignorance and the projections against themselves to create this SOIC way of being in and feeling and thinking. 
 
 Right? so yeah, I, the using duality against itself is, is like the hidden agenda underneath all of these different things, right? Because what we're trying to do is create this unified approach, you know? And so I hope that clarifies that, and this, Hindu approach, I've got some links on the, on the other side to, to help understand how all of that works. This is not exactly related to token engineering, but, but this first thing is just all about how to contextualize all of our future work, so that we have an understanding of the real meaning behind what this conflict resolution slash transformation can actually create.  
+
+## Divided vs Unified
+
+### TWO WAYS TO THINK
+**HOW HUMANS ARE HAVING *HUMAN EXPERIENCES* IN A TIMELESS, INFINITE, UNCHANGING REALITY**
+
+[*WATCH: STROKE OF INSIGHT VIDEO*](https://www.youtube.com/watch?v=UyyjU8fzEYU)
+
+#### DIVIDED
+- Bicameral Brain, Left Side
+- Serial Processor, Linear Thought
+- PATTERNS, PAST, PROJECTIONS
+- Language, Details & Differentiation
+- Visual Processing Focused on objects
+- CMYK Color Model produces Black
+- Externalization of costs
+- Ethics
+
+[*WATCH: The Divided Brain and the Making of the Western World*](https://youtu.be/SbUHxC4wiWk)
+
+#### UNIFIED
+- Bicameral Brain, Right Side
+- Parallel Processor, Non-Linear Thought
+- NOW, CONTEXT
+- CANNOT differentiate
+- Visual Processing focused on relationships
+- RGB Color Model produces white
+- Response-ability
+
+Those of you who saw the video with Jill Bolty Taylor, hopefully it was inspiring for you. I want to speak about this from the perspective of Jill Bolte Taylors, two different ways to think. There's also a link to the stroke of insight video here. 
+
+The divided mind basically thinks in terms of a serial processor with linear thought the right brain as functions, more like a parallel processor with non-linear thought the divided left brain thinks in terms of patterns past and projections, the unified mind on the right side thinks only in terms of now what the now looks like and smells like and tastes like. 
+
+It is the ultimate co contextualize because it literally has no concept of the slightest amount of differences whatsoever. It can't even tell the difference between one thing and another, it only knows about the perpetual. Now the divided mind thinks in terms of language and details and differentiation and more details about all of this, the unified mind can't differentiate.  
+
+As I mentioned before, visual processing of the divided mind, the left mind is focused a lot on objects. Visual processing on the right hemisphere of the brain is much more focused on relationships. We'll get into this more metaphorically. I've included this idea of the difference between the cm, Y K and RGB color models. 
+
+For those of you who have any idea, what that is, the cm YK thing is basically an additive model or a it's added in terms of reflection, cm, YK produces black, whereas RGB monitors from the we're looking at all that in with respect to these monitors produces white. 
+
+It's important to understand how those things work. The only difference between RGB and cm, Y K and the unified and divided mind is that the RGB and cm, Y K can be roughly considered to be a duality. 
+
+Even though there are two ways to think the United unified and divided approaches to thinking should not, I repeat, *should not* be misunderstood as opposing things, the unified mind essentially swallows the entire divided way of thinking in its entirety.
+
+It is the ultimate context in which the divided mind understands and projects itself. From, in terms of a metaphor, you could think about the divided mind is the movie projector, whereas the unified mind is the screen upon which that movie is projected. 
+
+For example, if you project a violent movie with a lot of guns and John WIC activity there, the screen itself does not get full of holes, nor does it take any knife wounds or nor does it bleed. It is in many ways detached from the divided mine, and can't really be affected by that.  
+
+Those of you're familiar with yoga and advice to Viant and other non-dual spiritual philosophies you'll understand that it is in fact, these contexts in which this bicameral mind is allowing us to lend the world. We'll speak about that quite a lot. 
+
+I also put externalization of costs. One of the things that the divided mind will tend to do is to be in denial. It's also the thing, which is responsible for ethics. That is to say that, which concerns me, it's the in individual self. 
+
+If I'm talking about myself in terms of a social context, my choices as relates to what I choose to connect with, for example, you all chose to show up into this group right now, your was your ethical choice to connect with this group and be engaged with this group. Whereas morality is much more of a social thing. 
+
+Then the unified side, we've got responsibility. That is to say, because it is the ultimate co contextualize. It is the thing which gives us the ability to overcome all these divide, divided ways of thinking and generate abilities to respond to things in with detachment and understanding because the unified mind also doesn't have anything like memory it only knows about now. 
+
+### CONTEXT: TWO SOCIAL FORMS
+**HOW HUMANS ARE HAVING *SOCIAL EXPERIENCES* IN A TIMELESS, INFINITE, UNCHANGING REALITY**
+
+#### DIVIDED
+- Colonizer Worldviews dominate
+- Unified Cultures are genocided and appropriated.
+- Abrahamic Traditions Objectify Unity (“Sky Gods”)
+- Merchants Assess Objects Using “Value” using highly objectified and technical languages like English and - accept only written texts as evidence.
+- Creates Hierarchies By Default, Resulting In Violence, holarchies considered impossible.
+- Visual Perception & Philosophy Emphasize Individuals & Reductionistic Approaches
+- Psychological effects of cultural influences result in increasing narcissism and narcissistic abuse among participants over time.
+- Good=Compliance, Evil=Non-Compliance To Social Contract/Hierarchy.
+
+#### UNIFIED
+- Pre-Colonization & Highly Unified Worldviews dominate
+- Divided Cultures cannot survive and are absorbed through the sheer flexibility and resilience of the approach.
+- Shamanic & Dharmic Traditions Contextualize Objects In A Totality
+- Citizens Assess Objects in “Relative” ways using contextualized, oral traditions and sonically diverse languages.
+- Creates & exists inside holarchies by default. Mechanisms (like the potlatch) exist to flatten the inevitable hierarchies that form.
+- Visual Perception & Philosophy Emphasis Contextualizations At Every Level
+- Psychological effects result in Overview Effect and relational thinking among participants over time.
+- Good=Inclusive Thinking & Behavior, Evil=Exclusive Thinking & Behavior
+- Morals
+
+I divide up the social forms of colonizer thinking, basically the divided mind you've got, if you're ratifying and validating the divided mind, you're gonna end up with the colonizer worldview. On the other hand, before, when you had a world that was dominated by unified social forms, you could have somebody like genus con go blazing through your history and still recover from that because the unified worldviews were essentially the most common thing that existed.  
+
+You can see that the divided cultures essentially can't survive for very long, unless they actually colonize really. There are many forms of colonization we'll talk about, but on the other hand, the divided cultures, unified cultures tend to be appropriated and treated poorly. 
+
+Even to the degree, to which they're genocide, you can also take a look at it with respect to the compare and contrast between the divided Abrahamic traditions with their sky gods and the shamonic and dharmic traditions, which basically contextualize the earth, the sky, the universe, the planets, all those things in a totality, as opposed to just a bunch of different objects.
+
+## Merchant Thinking
+
+It's also true that the divided mind basically has been taken over by this merchant thinking. We basically assess objects in divided cultures in divided social forms, using this thing called value. Those values basically are, have to do with like a monetary exchange. 
+
+For those of you who are dealing with things in terms of cryptocurrency and who have encountered me with respect to my perspective on cryptocurrencies, you'll see that what I'm attempting to do is relentlessly contextualize the nature of the work that we're doing in the cryptocurrency space, so that we don't make this a colonizer mistake and to bring forth the legacy code base, which is very much divided.  
+
+### Language
+
+The other thing is that the language itself is incredibly influenced by this merchant's assessing objects using value. It creates a highly technical language that is extremely appropriate for that type of that type of cultural context in which you would assess things like that to the degree, to which we even think of our own psychology and the words we use in our psychology and the entire way that psychology is constructed in our culture. 
+
+I literally mean this from the entire history of psychiatry, and psychology in terms of value and worth. It's actually extraordinary. Once you, once, by the way, I'm just warning you that once you start to see this stuff, it's really difficult to unsee it. This is a bit like the matrix. I'm just warning you ahead of time.  
+
+Juan Carlos gave me about many stories about the process of decolonization on the part of the hundred plus countries that declared independence days from various European colonies. I didn't include any of that later versions of this will include many links to that thing, but I'd just like you to understand that English in particular is a, is an extremely good language for technical topics and is extremely good for mercantilism and other things. Whereas things like Sanskrit are much better at things. In many ways you could think about it in terms of there's additional bifurcation in terms of language.  
+
+It should be noted that Sanskrit is considered the world's most natural language, according to artificial intelligence research. 
+
+## Hierarchy vs Wholarchy
+For those of you who are in the crypto AI space, additionally, it, the divided mind tends to create hierarchies by default and basically wholarchies, which are talked about in the Aqua version of spiral dynamics of Ken Wilbur. 
+
+They're largely considered to be impossible just because we've repeated this hierarchical way of thinking. Often that it's almost difficult to think of things in terms of anything other than a series of flatland hierarchical objects, the differentiation between the divided, the unified mine, culturally, cuz we're talking about social forms here.  
+
+## Achieving Unified Thinking
+
+If you read Jonathan hates book, for example, he actually speaks about this too. Even visual perception is affected by this and the inevitable results of carte and thinking for example, are even felt in Al and philosophies and other things. You can see that stuff really clearly. 
+
+Then people who think about things in terms of a unified way of thinking, particularly in recolonized unified cultures, the psychological effect of thinking this way tends to result in inevitably in an overview effect, as opposed to narcissism, which is the inevitable outcome of the divided way of thinking.  
+
+The overview effect you guys may or may not understand is something that is often experienced by astronauts who go up into space and realize that they're going around 19 times a day and everyone who's ever lived and all the drama and politics that have ever occurred. The entire of human history is all this, just this one unified ball. It's this one thing that tends to detach your mind from thinking about things in terms of the divided countries and things, and gives you this overview effect. 
+
+It's possible to achieve that just with yoga and thinking about things relentlessly in terms of a unified approach. It also redefines the nature of good and evil. For example, in Hinduism, good and evil actually don't exist at all. There really just a way of thinking, good would be inclusive thinking and behavior evil is exclusive thinking and behavior, but even then the evil is explained away in terms of the good, the larger good, and so that you can actually see the cultural framework doesn't even accept this so-called classic philosophical problem of evil simply just doesn't exist.  
+
+## Problem of Evil 
+
+The idea that if there was a deity, how could a deity let so many horrible things happen? Well, I'm specifically telling you explicitly that the reason why bad things happen is because of this bifurcation and the cultural emphasis and imbalance that is present in our current culture. That should just be obvious just by watching current events, any questions on the social forum side of this picture?  
+
+## Divided mind creates space for unified
+
+(21:26)    
+**Speaker 1**:    You were talking about earlier where like this unified consciousness actually explains a way that divided consciousness and even creates space for it.  
+
+(21:46)    
+**Durgadas**:    That's absolutely true. In fact it, what's more than that, it actually allows for the complexity of the divided to be discovered in this comprehensive manner. Right? The, even to the degree to which, and this is talked about maybe in the next slide where you can actually take a look at the intellectual approach. 
+
+### CONTEXT: INTELLECTUAL APPROACHES
+**HOW HUMANS ARE HAVING *PHILOSOPHICAL&PERCEPTUAL* EXPERIENCES IN A TIMELESS, INFINITE, UNCHANGING REALITY**
+
+#### DIVIDED
+- Educational system focused on external objects given positive value by the society, not the student nor the mind of the student; nor “Reality” itself.
+- Materialistic Worldviews dominate (Science Delusion) and limit the available evidence, focusing on patho-myths and denialism.
+- Objectivity and Subjectivity are misunderstood as “a very very very long list of objects” and individual perception is completely denied, dismissed and distrusted rather than understood.
+- Unified Cultures are appropriated, demeaned and degraded, resulting in enormous misunderstandings and failure to benefit from the syncretic approach they possess. 
+- Focus On “Being Right” within the hierarchy’s ‘value’ system. “Right” (according to the social contract) is PARAMOUNT ABOVE ALL ELSE. Therefore “beliefs” supersede all other rationality.
+- Intellectuals Assess Concepts, Values, and Objects Using “Value”, based on the orthodoxy of their culture, resulting in an imbalance of thinking. Extending the senses is a primary means of knowledge.
+- “Hard Sciences” preferred due to materialist bias, while psychology and even history are seen through the rigid orthodoxies that actively subvert and prevent their understanding.
+- Visual Perception & Philosophy Emphasize Individuals & Reductionistic Approaches above all else: DESCARTES: “I think, therefore I am.”
+
+#### UNIFIED
+- Educational system focused on the student, and their mind’s ‘lensing’ of Reality and their roles within themselves, the family unit, the social fabric and the world and the universe itself; forming a cohesive approach to both inner and outer life.
+- Mythologies are used as unified frameworks for imparting vast, complex and contextual understandings for multiple levels of learner development and maturity levels along the path to knowledge of all the roles an individual plays, as previously mentioned.
+- The apparent division between Objectivity and Subjectivity in perception was solved thousands of years ago.
+- Divided Cultures are understood to be immature expressions of a whole, even while suffering under the abuse they mete out.
+- Subverting “belief” altogether is a primary means of knowledge. “The Knowledge That, Being Known, Nothing Else Remains To Know.”
+- Intellectual activity is validated and contextualized in terms of being balanced between openness and discrimination.
+- Creates & exists inside holarchies by default. 
+- Visual Perception & Philosophy Emphasis Contextualizations At Every Level: Advaita Vedanta: “I Am, Therefore I Think”, since existence precedes Thought.
+
+## Lord Ramma
+The thing that I'm talking about here is that the word myth has been largely corrupted by the divided way of thinking and educational thinking. What mythologies actually are, is very much like spiral dynamics. You can think of, for example, this deity behind me, Lord Ramma. 
+
+Lord Rama would be a framework upon which you can project an a truly staggering amount of complexity to the point of understanding astronomy psychology. It just goes on and on. Then the relationships between the different characters in these things also then elucidate other kinds of mythological relationships. This is true to a degree that it said that the Maha Brata contains every possible human experience.  
+
+The largest book really in existence beyond that it is an oral tradition. If you carry this into the intellectual side of the picture, what you can see is in many ways, the approach of science on the left side. I've got some links to Rupert Sheldrake's science delusion, which talks about some of these things and his advice around approaches to unify science again. 
+
+## Education focused on external objects
+
+The educational system in the divided cultural context is exclusively focused on external objects.
+
+There'll be links to Marshall Rosenberg's audio book. He actually speaks about how he went through like 20 plus years of including like a PhD. He was never once asked how he felt about participating in that system. Basically the thing that I'm attempting to show is that the educational system of the divided is one that has a giant hole in the middle. 
+
+That giant hole in the middle is you. Whereas the educational system of a unified way of thinking is exclusively focused on the student and their mind's relationship with the external and how they have to play these different roles within their relationship with themselves. 
+
+To understand their shadow selves and other things, how they have their relationship with their family unit, but the social fabric, the world itself, and then the larger diffuse mysterious universe.  
+
+By paying attention to how the mind lenses reality one can actually gain an understanding, not only about the, a deeper understanding about the nature of the external reality that the divided mind's trying to talk to you about, but also about your relationship with it.  
+
+## other assertions that the divided intellectual approach takes
+
+There's also some other assertions that the divided intellectual approach takes. For example, they tend to completely distrust the mind and, to people like who's the well there's Richard Dawkins, but he has a, there's a magician guy in Britain. What's his name, Darren brown, who likes to show the fundamental problems with the perception. And that's the divided way of thinking. 
+
+Whereas the unified mind solved the problem of objectivity and subjectivity several thousand years ago, we don't have to keep going on television to point out the fact that this subjectivity objectivity problem exists. We, and you can't actually solve these subjectivity objectivity issue with a divided form of thinking. It requires that you adopt and ratify a unified way of thinking. 
+
+Additionally, the divided way of thinking has a crucial flaw in that what you believe is the primary thing your beliefs, it's gotten to the point, I've almost got 5,000 answers on core. At this point, it's gotten to the point where I won't even answer a question with the word belief in it. 
+
+It doesn't make any sense at all, because I have a unified approach, which includes the unified and then divided, but I'm just tired of answering people whose minds are completely taken over by the divided. I would rather speak to people who have at least an inkling of the nature of the unified way of thinking. 
+
+It's also true that divided cultures are understood by unified cultures as immature expressions of a whole, even while suffering under the abuse that the divided cultures have given out in the last thousand years. One of the primary approaches about unified knowledge is to subvert belief altogether.  
+
+This is the primary means of knowledge for a unified thinker. There's a story about the traditional way to deal with the guru system is that a parent would send its their child a way to an ashram or to a local teacher at age eight. They would return at age 20. 
+
+The real question, the only real question that needs to be answered by this student when they come back to their parents, is did you learn the knowledge that being known, nothing else remains to know. 
+
+This is very clear evidence of a cultural, a framework, which sets up the unified approach to thinking versus being right adhering to a social contract, adhering to the various levels of hierarchy. Even with intellectuals, they assess concepts, values, and objects using this term value generally based on the orthodoxy of their culture, inevitably resulting in an imbalance of thinking.  
+
+To the degree that scientists themselves tend to hard sciences versus psychology or like history it's unbelievable the degree to which history has been revised, not only due to the horrific nature of colonization, but also just everything else. Take a look at the pyramids. They used saws. There's no way to, what I'm saying?, sorry, that just happened. We've got this whole revisionist history that says that couldn't have happened. There's just, it's all about reductionist approaches, whereas the unified intellectual approach would prioritize contextualization above all other things and the whole Cartesian way of thinking. Therefore I am is actually seen correctly in non-dual Viant as I am first, therefore because existence precedes thought, and this is an incredibly important differentiation.  

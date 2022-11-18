@@ -53,3 +53,18 @@ One further thing I'll say is once I left the ashram, I founded a couple of nonv
 **Durgadas**:    Like we talk about spiral dynamics where there's this real desire to understand what's going on. Simultaneously I was in a yellow period. If any of you guys know about SPR dynamics. Basically I applied myself to that problem and realized that really at the end of the day, being that I may essentially a privileged white guy in this world with surrounded by oodles of technology. I have an enormous opportunity to subvert my privilege if I can just understand what it is. I'm also on the autism spectrum and have suffered for many years from just thinking differently, according to the culture that we live in. Basically everybody on this call probably suffers in some way from that, regardless of who they are or what they look, because it's the nature of the culture itself. So my thought about what to do about that was that I basically needed to accept responsibility for this.  
 
 My name's Regis Chapman, you can call me Durga dos. I spent 10 years building this building. You kind see behind me, it's all made outta mud and clay and straw and fantastic. I, so I'm also working with some of the other people on this call in various capacities, Sean, with his cryptocurrency company, grace, we're working together on trying to talk about autism together. 
+
+
+## Durgadas Story
+What you basically have to do is in my case, I was offered a physics scholarship to Notre Dame when I came out of high school. 
+
+I had been bullied for so long, by so many different people in so many different schools, I just said, I can't possibly ever go to another school. The physics professor himself was gonna pay for my education. I don't know if you understand how much money that is even back in the eighties, but that's hundreds of thousands of dollars to go to an Ivy league school Notre Dame. Right. 
+
+He was gonna pay that because he talked to me on the phone for 15 minutes. Why didn't I wanna do that? That's because I understood that there was something that was really wrong with the educational system. I couldn't put myself into that situation. 
+
+put myself into that situation again and continue to be bullied and continue to be worked on by this thing. What did i do is i came out of that and i found that i could be a lifelong learner and then i could validate myself and then i could i could figure out who i was. 
+
+That continued right up until i was 32 years old when i decided i was going to leave my my father's uh strategy to become rich and suddenly uh uh leave silicon valley and stop working 100 hours a week to uh try to to get the brass ring and instead i was going to go and learn myself and what happened to me was that i just became very sick of myself i became very sick of the entire the entire load it just felt like the whole culture was just kind of crapping on me the whole time and i just didn't know myself enough to be able to to turn and face it and to be able to understand what was going on 
+
+that's why self-knowledge is so important that's why self-compassion is so important that's why being able to turn and face and look at this stuff and you can't do it unless you know who you are and that's why over and over if you look at all of my quora answers i say find a teacher learn yourself and let me know if i can help those are the three things that i always talk about and self-knowledge is the single most important thing in life and it will
+always be that way
