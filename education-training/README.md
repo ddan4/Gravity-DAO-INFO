@@ -175,3 +175,4 @@ One can contextualize all of our behavior and even our personal stories in terms
 ## Workshop
 We are going to jump into the workshop and the workshop is really easy. I want you to write, and I am not going evaluate this or anything. I, this is an activity that is for you. I want you to write about a conflict that you've had in your life. I want you to write about that conflict as a gift and how in that moment, like you thought that things weren't going to be okay, but then like you learned from it, and that conflict has made you get into this point. 
 
+

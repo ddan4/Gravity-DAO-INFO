@@ -5,6 +5,11 @@
 \**This video gets through about 2/3 of the slides:*
 [I AM THE PROBLEM: Responsibility &amp; Freedom in a Post-Colonized Worl...](https://www.youtube.com/watch?v=lxi76vO-hJY)
 
+- [Abysmal_leadership_theory_a_decolonized.pdf](https://drive.google.com/file/d/1jbg62uT62hEIvRHZyWt5oZH9H-6h84BE/view?usp=drivesdk)
+  > Ours is, by necessity, a speculative exercise; an attempt to think through cultural and ethical logics that we have yet to encounter. It is, in temporal terms, something akin to a reverse thought experiment in counterfactual history; one in which we try to work through the ‘what ifs’ of prospective futures in which ecocrisis has translated, at worst, into geopolitical meltdown or, at the very least, significant modification of our current ways of life. However speculative, we hope that the reasoning and ‘discoveries’ yielded by this thought experiment prove to be of value to the scholarly community and beyond.
+- [Discourse on Colonialism](https://libcom.org/files/zz_aime_cesaire_robin_d.g._kelley_discourse_on_colbook4me.org_.pdf)
+- [Dana Meadows: Down to Earth (P2)](https://www.youtube.com/watch?v=XX4-cQRLsJs) 
+- [I AM THE PROBLEM Draft 7](https://docs.google.com/presentation/d/1oNq7N5GXMv2iPxx1T6Acpo9SCpcjFw0nhtR05SoceOc)
 
 **ASSERTION:** COLONIZATION IS A WORLDWIDE FINANCIAL & GOVERNANCE-LEVEL EXPRESSION OF NARCISSISTIC ABUSE
 
