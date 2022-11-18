@@ -1,5 +1,8 @@
 # Trust Creation
 
+- [Beyond Inclusion Beyond Empowerment : Primer](https://soundcloud.com/aloysious-x/beyond-inclusion-beyond-empowerment-primer) 
+  > Beyond Inclusion, Beyond Empowerment, by Leticia Nieto Psy.D., and co-authors, brings a long-awaited breakthrough to the fields of liberation and cultural studies. Nieto offers a powerful analysis
+
 ## Ethical Standards and requirements for Gravitons
 
 - **Voluntary Process**: All members in the Gravity group and its cases participate without coercion from any actor.
