@@ -265,34 +265,10 @@ In terms of support and areas where there was developing conflict or whatever, j
 **Anna Marie**:    Brilliant. I love that. Is there anyone else from that group that wants to share, perhaps we've got just a couple more minutes about, were there any examples of specific things you think that could be, that could be specific structures or anything in a DAO that could be useful to help as you navigate those potential discomforts?  
 
 (00:31:54)    
-**Anna Marie2**:    If I can say something, I was very interested in one point that was made about when you're asking questions, because you're trying to direction find it's that process about asking for consent. Right. So I thought that was a very interesting comment that we discussed in part, but maybe not as deeply as we could have.  
+**speaker2**:    If I can say something, I was very interested in one point that was made about when you're asking questions, because you're trying to direction find it's that process about asking for consent. Right. So I thought that was a very interesting comment that we discussed in part, but maybe not as deeply as we could have.  
 
 (00:32:16)    
 **Anna Marie**:    Right. Okay. What that your discovery was, or you, I feeling was that if you're feeling uncomfortable, if you ask for consent act, that gives agreement on all sides what's and that  
 
 (00:32:29)    
-**Anna Marie2**:    And sometimes asking for consent, isn't viewed positively either.  
-
-(00:32:34)    
-**Anna Marie**:    Right. Okay. Right. Well, we come to the end of our time, absolutely. I'd love to, I'm sure we could spend another 15, 20 minutes, which would've been amazing, but perhaps if you feel comfortable, it'd be great for the groups to share in gravity about what, which of the specific exercise or examples you explored in your group and what were the solutions and ideas you came up with and yeah. Thank you so much for joining. I believe you've got your next session the same time next week. Brilliant. Well, I'm sure Nate will say you and say goodbye and  
-
-(00:33:13)    
-**Speaker 4**:    Thank you everybody.  
-
-(00:33:14)    
-**Anna Marie**:    All right. Bye. Everyone. Have a good day. Evening. Morning. Yeah, 
-
-(00:33:20)    
-**Speaker 4**:    Everyone. Bye. Thank you. Thank you. Thanks Anna and Nate. It was a great experience.  
-
-(00:33:27)    
-**Anna Marie**:    Pleasure. Glad enjoyed.  
-
-(00:33:30)    
-**Speaker 4**:    Thanks Anna. Thanks Nate. Thanks  
-
-(00:33:32)    
-**Anna Marie**:    Everyone. Bye later.  
-
-(00:33:33)    
-**Speaker 4**:    Thanks. 
+**speaker2**:    And sometimes asking for consent, isn't viewed positively either.  
