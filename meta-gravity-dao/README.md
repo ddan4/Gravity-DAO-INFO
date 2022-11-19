@@ -40,6 +40,88 @@
   > Easy access for conflict management mechanisms
 - [Gravity Mediation form](https://docs.google.com/document/d/1RgL9QANBhq6KqtETCYEEEsFSJvHUw0K5VD58qWPUBTk)
   > (Organization name) GRAVITY MEDIATION session Participants: We agree that: 1. The Parties shall endeavor to settle the dispute set out in 1 Scheduled mediation. 2. If for any reason, the mediator agreed upon by the Parties or the parties themselves cannot or does not accept an invitation to ...
+* [Conflict Management for the TEC](https://docs.google.com/document/d/1J2Vrlb7zXcnCIWf-xmylCY39bL88PJLibz5AdXy-e2M/edit#heading=h.a6hblvgzwj5q)
+* [Gravity Working Group Manifesto](https://docs.google.com/document/d/1yrEcPoOW8Q1qDE-YWWF0MhXlcvpiMk0jmdQx25nfZ6k/edit#)
+* [Gravity Wg- Transparency audit](https://docs.google.com/document/d/1EeLkV7SmyYW6Aof1qHtVu5EV4PgRTOZ7W12f0vv36ws/edit#heading=h.nl13ggl812up)
+* [Gravity Wg call notes](https://docs.google.com/document/d/19tpH6EU8jYX4FQ0CBtUf0MdsLzjpVo5x7n9W38u9Us4/edit)
+* [Forms for mediation - conciliation agreements](https://docs.google.com/document/d/1RgL9QANBhq6KqtETCYEEEsFSJvHUw0K5VD58qWPUBTk/edit?usp=sharing)
+* [Gravity group registry spreadsheet](https://docs.google.com/spreadsheets/d/1HH1lhY4HScQzE1f7cjk89lkoMu3Uw3vmPbFsu97jZa4/edit?usp=sharing)
+
+
+## What Is A Schelling Point?
+> **DEF**: A focal point (or Schelling point) is a solution that people tend to choose by default in the absence of communication.
+> 
+> GravityDAO’s aim is to generate, in our members & partner organizations, a proactive anti-fragile organizational culture through robust sensemaking, shared mental models & language systems, human-centric & ethical technology and services that bring us together even in the absence of communication.
+> 
+> This harmonizes with TEC’s mission to be the Schelling Point for Token Engineering.
+
+In token engineering commons, we often talk about ourselves as a shelling point and I'm not sure that everyone knows what a shelling point is, but the idea behind the token engineering commons is that we would become a shelling point for token engineering. 
+
+That is to say, we should become the people who other token engineers turn to and choose by default in the absence of communication or other options.  
+
+(00:04:25)    
+I've basically written this out to say that the idea behind Gravity and the future Gravity do is to generate within our members and the partner organizations who we service and the DAOs that we speak to: 
+
+a proactive anti-fragile organizational culture through robust sensemaking, shared mental models & language systems.
+
+Often we spend a lot of time trying to figure out what let's say, the right programming languages for doing a particular project, but we often don't spend time coming up with shared mental models and language systems in which we can discuss how cultural things can work. 
+
+Often, because we don't do that, certain kinds of conflict can arise and, or the erosion of trust, which is a huge part of what we are here to do is to create trust. With human and ethical technology and services, that would bring us together even in the absence of communication.  
+
+The whole purpose behind Gravity is to find ways to do exactly this.
+
+As gravitons, it's important to recognize that all people in our organizations contain a psychological shadow.
+
+> ### Role of Gravitons
+> 
+> All people and organizations contain a psychological shadow, and the role of Gravitons is to be highly aware of the presence of BLOCK/DISOWN/PROJECT mechanisms and how they reveal themselves inside conflicts and how we can prevent their occurrence by establishing thorough systems of Trust Creation through effective Curation, Moderation and smooth Cross-pollination. 
+
+Our job is to be highly aware of the presence of these when people are trying to do a positive thing, there is a BLOCK/DISOWN/PROJECT mechanism, which can come up and to become aware of how those things reveal themselves before and after conflict is already arisen. 
+
+The point of being a graviton is to try to get to the point where you're creating trust and then manage it at the same time when those trust mechanisms have broken down. We're thinking both preventatively and in terms of trying to work out how to respond to those things effectively when things do occur. 
+
+The third three basic mechanisms that I've talked about, that we do, where we typically, when we're speaking about trust creation in a online situation like this, it's often true that we have curated material that's come before us and we have moderators, and then we have cross pollination things which are happening.  
+
+(00:07:10)    
+**Durgadas**:    And so there's actually a fair amount that you need to know as a graviton, to both figure out how to create trust and to deal with it once it's once bad things are happening. At the point where we're here, in the middle as moderators to assist with all three of these processes. 
+
+> ### Skills of Gravitons
+> - COMPASSION
+> - MINDFULNESS
+> - SITUATIONAL AWARENESS
+> - HIGH/BROAD-THINKING
+> - STRONG CONTEXTUALIZING
+> - CLARITY ON ACTION MODES (CYNEFIN)
+
+Some basic skills for gravitons are number one is compassion, mindfulness, situational awareness, to understand what's going on to have really expansive thinking the ability to contextualize what's going on, and some clarity on action modes, which we'll get into in my second presentation, which will be number six in this series.  
+
+![](https://i.imgur.com/hFQ8N65.png)
+
+(00:08:01)    
+This is a graphic, which explains it all in context. There's a lot going on here. Again this was developed with a view toward creating a DAO behind this, but these are all the different aspects of things that we're talking about in terms of gravitons. 
+
+What's great about this is that we're actually going to be able to, as a graviton, you might feel drawn to one thing more than another. We will, we actually have book clubs around Ostrom's principles. We're gonna have a practice group and a book club around nonviolent communication. 
+
+Those of you who are a bit more alternate distribution or dispute resolution and mediation, escalation, and eventually spinning up into the legal side of the picture, then you'll have these four different aspects to talk about. 
+
+Primarily what I'd like to do is just cover them all in a broad way. Then talk specifically about the developmental thinking, how it can contextualize the rest of these things.
+
+> ### Graviton's 'Unified Vision'
+> Each of the four principles (A,B,C,D) is a tool to unify our thinking. Being Gravitons, our primary role is to think in unified ways when others cannot. Our role is to educate and expand our own and our group’s ability to remain unified against a variety of potential stimuli.
+> 
+> Using this lifelong learning and generative process (using the three approaches inside of our Graviton group- Curation, Moderation and Cross-Pollination) you can develop your ability to ‘see into’ the two general viewpoints of people divided by conflict. 
+
+You'll notice that the four principles are ways of unifying. There are two hemispheres of the human brain. You have the left brain, which is the divided way of thinking, which is typical in the centralized world, the centralized corporate world, the centralized banking world. 
+
+It's a very divided narcissistic approach to things where we externalize costs. There's an awful lot of the things that cryptocurrencies and token engineers are averse to in that universe. 
+
+The whole point of being a graviton is to be able to heal things. You take the divided stuff and bring them back together. Each of these principles is a methodology for unifying, 
+
+According to the different situations that we find ourselves in. Our primary role is to think in unified ways when other people cannot. 
+
+Then the role is to educate and expand our group's ability to remain unified against a variety of potential stimuli that would seek to divide us. This is a lifelong learning process, and it's also very generative. 
+
+I'll show you the generative almost cellular process that we're talking about with the curation moderation across pollination that you can develop in terms to see into the people who might be divided by conflict and to see through the situations that we find ourselves in. 
 
 ## Graviton Training
 
@@ -378,3 +460,4 @@ Yeah, the idea instead of that, is that contract that don't follow our condition
 Session that she said about how rules can be also for forgiving. Rules that we are trying to apply within the organization are not like punishing rules. 
 
 In the next session I want to go like really in the detail of what our suggested graduate sanctions, but most of them are not any punishment. Most of them involve love, swarming with love, that is a sanction instead of having to pay a due or something a sanction can be a reasonable action to manage that conflict can be trying to engage him or her in other activities that may make her, or him feel more valued. Sanctions that we are proposing are very, like from the point of view of reconciliation and healing.  
+
