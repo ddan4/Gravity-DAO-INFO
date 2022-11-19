@@ -122,3 +122,27 @@ Because in contrast to conciliation & mediation, the composition of the problem 
 4. **Joint discussion**: After each side presents its remarks, the mediator and the disputants ask questions with the goal of arriving at a better understanding of each party’s **needs** and concerns. If parties reach an impasse, mediators diagnose the obstacles and work to get the discussion back on track.
 5. **Caucuses**: If emotions run high during a joint session, the mediator might split the two sides into separate rooms for private meetings, or caucuses.
 6. **Negotiation**. At this point, it’s time to begin formulating ideas and **requests** that meet each party’s core interests. The mediator can lead with all parties in the same room, or can engage in “shuttle diplomacy,” moving back and forth between the teams, gathering ideas, proposals, and counterproposals.
+
+### Why doesn't centralization work?
+* Recidivism
+* People do not experience healing in court
+* Massive profit for private justice system companies
+
+(01:12:34)    
+**Loie**:    God is still joining us. Originally I thought we could report back on this, but for now I really wanna get to talking about practical implementation. Just briefly, why doesn't centralization work in justice or in conflict resolution? 
+
+we can see that it doesn't work because of recidivism. Recidivism is a fancy word for people returning to the criminal justice system. After they've already been through it they go to court, they are sentenced to prison time. They go to prison, which is supposedly a correctional facility, which if it was doing any correcting, they probably would never come back there. 
+
+We see massive rates of recidivism up to 80% in some demographics for certain crimes. We know it's not working. Also people don't experience healing in court. My restorative justice teacher, wonderful woman named Andrea Rennicke. She was a lawyer and her turning point was realizing that people came to her looking for peace and for healing. Instead she brought them to war. and that was her job as a lawyer bringing them into court. 
+
+Another thing is there's too much opportunity for like really bad profit models, at least in the United States. There's a whole industry around like private justice system companies. It's not just jails that are privately run. 
+
+It reaches into the social work sector. It re reaches into weapons manufacturers. Actually a lot of the companies that own private prisons also own like military weapons, manufacturing companies with big contracts, government, and also own and operate our like social work offices. 
+
+We've we've outsourced that to private companies. Then they have an incentive to really not do what they came there to do, but actually to continue the cycles of poverty and exploited families.  
+
+(01:15:32)    
+**Speaker 18**:    Can I just mention one thing? Before centralization occurs, it seems to me that if we centralize our education system, what a community or culture educates is what it becomes. We educate people in this punitive and reward system. Then it's inevitable that we'll end up with centralization out of that and will inevitably end up with a punitive and reward justice system. Before all of this parts that you're talking about now it's profit for everybody. If what I'm saying, it keeps everybody absolutely at every layer all the way down the line.  
+
+(01:16:14)    
+**Loie**:    That puts an extra spin on the school to prison pipeline. Right. We even like a lot of us experience it in our families. This punitive justice systems and kids not feeling like they have agency over the decisions around conflict in their lives and that someone else needs to make a decision for them. It starts early. That's a great point. 

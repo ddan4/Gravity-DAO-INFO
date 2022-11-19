@@ -184,3 +184,38 @@ Empathy brings us together and helps us to take rational and pacific decisions, 
 
 [The 4 NVC STEPS MADE SIMPLE (VIDEO)](https://www.youtube.com/watch?v=NYkgbrZSAY0)
 
+
+### Accountability 
+
+[Why do we need accountability?](https://forthepeople.earth/accountability/) - forthepeople.earth 
+
+> “If we do not call out our own corruption and dishonesty, we cannot call out the corruption and dishonesty of the system in power.”
+> 
+> << Bring the decentralization within >>
+> 
+> A call out is a gift, not a punishment, because it allows the person who has made a mistake the opportunity to learn and improve their understanding and behavior.
+> 
+> << Celebrating failure = test in prod = crypto culture >>
+
+(00:06:41)    
+**Loie**:    There was a bit of pre-learning homework that I sent out, and I'm not sure who all in here read and absorbed those resources. I just wanted to touch on them briefly this one for the people, the accountability document. 
+
+This is from a really interesting activist group in Seattle, Washington. They're a group of organizers, a lot of climate justice organizers, a lot of people of color and other exploited identities who are the organizers leading here and doing direct actions. 
+
+It was super important to them to create an accountability document that they all agreed to in creating this organization. I'm just gonna read a couple of their oops. One of their points is if we do not call out our own corruption and dishonesty, we cannot call out the corruption and dishonesty of the system and power.  
+
+To me, that means like we're in a revolutionary space. Like everyone in this room and graviton, we can all recognize we are in a revolutionary space. If we have any chance at revolving the systems outside of this, we have to do that within too. 
+
+To me, this is about bringing that decentralization within our own organizations and committing to de growning centralized power, even in our smallest internal groups also wanted to read this one, a call out is a gift, not a punishment because it allows the person who has made a mistake, the opportunity to learn and improve their understanding of behavior. 
+
+Call out culture is one of the things that they actually explicitly agree to support in forthepeople. That's really interesting cuz in a lot of our places, especially people who are inclined to be peacemakers, they don't want to make public callouts and they maybe want to go towards Callins, where it's you're just addressing someone on a private level.
+
+This group actually really recognizes that call out culture is an important part of their conflict resolution process. It's a tool that they agree is appropriate to use. 
+
+(00:09:58)    
+**Loie**:    To me, these call outs, when you do them in the open or when you have your conflict resolution process in the open, that means you can celebrate the learning. You can really, everyone can gain the learning from it and celebrating failure is test and that is crypto culture. 
+
+If we take this experimentation of open source spirit that we all have where we're just gonna forge ahead. We know we're gonna mess up and it's gonna be visible when we mess up. 
+
+This is the values, even in like in how code is written and deployed and recalled in open source and specifically in the crypto space, it's all out there for everyone to see. It creates this culture of celebrating failure, which we all learn a lot more from. 
+

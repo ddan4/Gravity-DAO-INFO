@@ -64,8 +64,3 @@
 - [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
 - [Getting to Yes with Yourself: A Book Talk by William Ury](https://www.youtube.com/watch?v=fghb0-hL5Hw)
 - [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
-
-### Restorative Justice
-- [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
-  > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
-- [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
