@@ -2,6 +2,7 @@
 
 - [Ostroms Principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
 - [SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/)
+- [Deliberately developmental organizations (DDO)](https://orghacking.files.wordpress.com/2016/06/thedeliberatelydevelopmentalorganization.pdf)
 
 > Foster the practice of nonviolent communication, empathy, understanding and management of conflicts in decentralized communities, to facilitate human coordination and build a culture of trust between peers.
 

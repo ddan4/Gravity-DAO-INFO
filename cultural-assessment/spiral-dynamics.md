@@ -1,5 +1,7 @@
 # Spiral Dynamics
 
+- [Integral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
+
 **c) [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)**
 
 > [Ken Wilber](https://integrallife.com/), the American writer on transpersonal psychology and his own [integral theory](https://en.wikipedia.org/wiki/Integral_theory_(Ken_Wilber)), has used and popularised Spiral Dynamics in his work.

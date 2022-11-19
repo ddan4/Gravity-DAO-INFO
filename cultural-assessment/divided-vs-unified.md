@@ -1,12 +1,14 @@
 # Divided \ Unified Thinking
 
-[I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+[I_AM_THE_PROBLEM-Decolonization-Draft_2.pptx](https://docs.google.com/presentation/d/1S7aXrvrMA7ZScSMWJnzd2uG1PEIa8On3/edit)
 12.83 MB
 \**This video gets through about 2/3 of the slides:*
 [I AM THE PROBLEM: Responsibility &amp; Freedom in a Post-Colonized Worl...](https://www.youtube.com/watch?v=lxi76vO-hJY)
+- [Polarity wisdom](https://www.youtube.com/watch?v=842Kw5RSPug)
+- [My stroke of insight](https://www.youtube.com/watch?v=UyyjU8fzEYU) - Jill Bolte Taylor
 
 
-If you take a look back at the stroke Myro of insight, which I mentioned about the unified and divided ways that the, the human brain thinks what you can see is that a lot of times we have these unified and divided ways of thinking. 
+If you take a look back at the My Stroke of insight, which I mentioned about the unified and divided ways that the, the human brain thinks what you can see is that a lot of times we have these unified and divided ways of thinking. 
 
 If a person is approaching things from a divided standpoint, they're going to tend to have a conflict in when they find themselves in context of a unified system in the, in the spiral, this could be roughly connected to the eye and the we, and as I said, previously, as we evolve along the spiral, you can see how this conflict actually pushes you to evolve.  
 
@@ -297,3 +299,65 @@ To the degree that scientists themselves tend to hard sciences versus psychology
 
 (01:00:52)
 **Durgadas**:    One other thing I would say is part of the reason why I sort of describe myself as a relentless co contextualize is because I do feel like in every situation, the radical inclusivity is basically a habit of continuous and endless and relentless contextualization, which is to say sort of figuring out how two things are more similar or more common with each other than they are different. To have that be my first priority, when I'm cogni about any given topic, that's the most important thing that's, that's for me is kind of a personal habit, which I am sort of attempting to through various means and my involvement with gravity and other communities to foster as a habit among the people within those communities.  
+
+# trust creation
+
+(00:25:35)    
+**Juan Carlos**:    For sure.The idea is to be able to bring communities and community members together, even in this agreement. What we are trying to do is also to normalize talking about conflicts and that makes us more competent to deal with it. 
+
+If we never talk about conflict in an organization, when conflict happens, everyone is gonna start running and pulling their hair without knowing what to do. It's important to understand that in these type of organizations, we need to have some justice systems and that everywhere you go, where there is a social organization, or like a group of people there's gonna be a justice system. 
+
+It can be an invisible justice system that no one talks about. Not having a justice system is also a justice system.  
+
+What we are trying to do is to recognize the importance of having a justice system to have yeah. Credibility and build trust over coordination in these type of communities. We can have several types of justice systems, but the justice system that we are trying to promote is based on mutual monitoring. 
+
+When we were reading Ostrom, she says, it's very expensive to have like external monitors monitoring the actions of a community. What we are trying to do is to build competence within people in the community, so that the people inside the community act as peers supporting each other. 
+
+That's why we're developing these skills. The training has like a lot of topics. We are starting with that contextualization and talking about creating trust, because, without trust, you cannot solve conflict. 
+
+You have to trust that there is a system that is not biased in order for you to rely that the, that system is going to be ju fair with you and that it's not going to it's not going to influence the outcome of a decision.  
+
+(00:28:36)    
+**Durgadas**:    Those principles in particular are to care for the commons. What you'll notice is out in the centralized world, there is these pockets of greed and everything. That is now extended off into the commons too. You end up with the prisoners' dilemma and the tragedy of the commons and the fundamental principle of token engineering and what this was founded on was those from principles. 
+
+The developmental thinking has come after, as a contextualize for that thing, but to care for the commons is part of that process as well. We don't just care about the commons we care about all the individual people. That's why principal C exists where we talk in terms of nonviolent communication, holding space for signal inside of noise, avoiding enemy image creation, and making sure that we're dealing with people in a humanistic fashion. 
+
+What you'll notice is, as you move through this process is that the legality and the formality of this thing escalates as you start from principle A and go around to principle D.  
+
+It's true that we need larger contextualizing principles and on the trust creation side being able to understand all these different things in terms of the first principle being also able to care for the commons, which is that part if you have two people in a relationship, there's a third thing, which is in the middle, which is the commons. 
+
+If you're married, you have yourself and your partner, and then you have all your shared relationship and property and kids and all these other things in between you and it's caring for that. That is principle B and a lot of that negotiation and other things as principal C. 
+
+Then when things really aren't working, we then go into principal but at each aspect of this, we're trying to transform the conflict into something which is greater so that we can get back to the first principle. Is that reasonable?  
+
+(00:31:07)    
+**Juan Carlos**:    In this organizations where there is so much of a technological focus, sometimes we forget about the humanity and the human side and the human aspect of it. I feel that more and more, we are starting to talk about this because, these organizations are not only like enterprises, these organizations are also communities and these important for community members to support each other. 
+
+In this context where we are spending so much time with people, we cannot feel that we only work and that we don't know the people who we are working with. Like we only know we only see avatars and we don't know about what the other persons struggle is. Our intention with this services is for people to request support in a variety of situations.  
+
+Not only we have conflict with other people, sometimes we have internal conflict or sometimes we just want some advice of someone that can hear us in a safe space, and we need to develop that trust and that confident between people. 
+
+The idea is that the people that pass this training can be seen in the community as an easy access agent to request support in a variety of situations. Yeah, it is to enforce and to power empower the human aspect of dos. We cannot have like organizations that exploit the human or that they are not comprehensive to human needs, but rather we need to have more comprehensive dos and for people to have an and joyful experience by participating.  
+
+(00:33:22)    
+**Durgadas**:    And so, in terms of second order stuff, part of the thing to understand is that it gives you an advantage as an employee, as an employer, as a DAO to have this thing, anchoring your culture and it's a really excellent skill both personally and professionally, and as a cultural context to have this entire framework understood. Is there anything else you have, Juan?
+
+(00:34:03)    
+**Juan Carlos**:    I just would like to say that also, and this is something that I'm going to talk in my next session, but that in this organizations, we also reproduce and organization identity of false self, where, everyone should be happy. Everyone should be always available to carry more load of work. 
+
+Sometimes we are false. We don't voice out our concerns. The idea of having Gravity in an organization is also to be able to have a safe space, to communicate and yeah. To talk about the things that normally we don't talk about and to feel that if something seems unfair, that there is people that is caring for the experience in people in their organization. 
+
+Not only, okay, we are going to exploit people and, we only care for you because if you work for us, but if you stop working for us, we don't care. Why not even, why did you stop like contributing? 
+
+We see a lot of conflicts between members in organizations, but it's not only important to be able to provide support in a professional way mediation when they dispute scale. That's why we are starting with this, but it's also important to have like a cultural understanding and a cultural effort to build trust and to build relationships and to build credibility within the system. 
+
+That's why it's so important to have safe spaces to integrate and to let people like feel that their concerns can be expressed, because if we don't foster feedback, or if we don't have safe spaces for people to communicate, there will be a lot of things that will happen. We will, they will never be voiced out. 
+
+People wont feel comfortable if they don't have one, a safe space to communicate. Warranties of that, what they're communicating will be processed as an input to the system.  
+
+(00:36:49)    
+**Durgadas**:    One of the things you'll notice is if you looking at this complicated graphic as trust creation is a general principle, it also has an impact on security. If we're creating token engineers and improving the lives of token engineers and teaching from an ethical standpoint we do in many of our technical things that the point of this is that we're dealing with money here. 
+
+We're making tokens and things. Trust creation is almost the most important thing about this thing that we're talking about. Right. To having the reason why people put their money in banks is because they trust, they have a level of trust about that. 
+
+It's not just for the participation in the token engineering or an individual DW, but also just for the overall ethical culture and promotion of ethical culture within this particular area of work. 

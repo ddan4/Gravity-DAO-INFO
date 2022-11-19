@@ -4,51 +4,8 @@
   > Beyond Inclusion, Beyond Empowerment, by Leticia Nieto Psy.D., and co-authors, brings a long-awaited breakthrough to the fields of liberation and cultural studies. Nieto offers a powerful analysis
 - [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
   > Let’s know a little bit more about each other!
+- [Building trust and resolving conflict25](http://textbooks.whatcom.edu/healthprofessionalism/chapter/building-trust-and-resolving-conflict/)
 
-
-## CREATING A SAFE SPACE
-
-### Empathy is the key
-
-Empathy is necessary to be able to apply certain principles of negotiation, as: 
-- Separate people from problems 
-- Ease communication between conflicting parties
-- Focus in interest and not in positions 
-- Generate variety of alternative paths to propose solutions
-- Use objective or “credibly neutral” criteria to generate legitimacy and impartiality
-
-Empathy brings us together and helps us to take rational and pacific decisions, because individuals who feels underappreciated or ignored are more prone to fall in irrationality just to defend themselves.
-
-## HELPING PEOPLE TO GET TO THEIR OPTIMAL AROUSAL ZONE
-
-<img src="images/3_Window-of-Tolerance_Arousal.png" width=50% height=50% align="left">
-
-<h3>First actions from the mediator:</h3>
-<p>Build confidence, Allow expression, letting steam off, listening carefully, taking notes, asking key questions, identifying feelings, careful language, not trying to influence in any particular idea, just being there to understand the other.</p>
-
-<blockquote>"Trauma can be created by a shock, when its too much too fast, or when its too little too long" - Any of us can get overwhelmed on those situations, where our body triggers the instinctive reactions of flight, fight freeze or fawn. Thanks @MorganxMovement for your teachings today - <a href="https://twitter.com/GravityDAO/status/1534261516458934272">@GravityDAO · Jun 7, 2022</a></blockquote>
-
-<a href="https://apn.com/resources/fight-flight-freeze-fawn-and-flop-responses-to-trauma/">FIGHT, FLIGHT, FREEZE, FAWN, AND FLOP: RESPONSES TO TRAUMA</a>
-
-## Overcoming communication constraints
-
-### Nonviolent Communication (Giraffe / Wolf language)
-
-![](images/4_whatisnvcred.webp)
-
-[Marshall Rosenberg on Giraffe/Jackal Language](https://www.youtube.com/watch?v=Xov5z_GJ9Zs)
-[Marshall Rosenberg “Giraffe Fuel For Life”](https://www.youtube.com/watch?v=RSwEC4yvrb0)
-
-## The four components of NVC
-
-**NVC - OFNR process**
-### OFNR:
-- Make **OBSERVATIONS** without evaluations
-- Identifying and expressing **FEELINGS** while taking responsibility for them.
-- Uncover the fundamental **NEEDS** triggering the parties, moving the conversation to basic levels of human understanding.
-- **REQUEST** That Which Would Enrich Life,  instead of making demands.
-
-[The 4 NVC STEPS MADE SIMPLE (VIDEO)](https://www.youtube.com/watch?v=NYkgbrZSAY0)
 
 ## The collective consciousness Iceberg
 
@@ -126,3 +83,104 @@ I suggest the queries can be sent to a bot or a typeform, that is associated to 
 - [W42 Gravity WG: Practice group liberating structure w/Jeremy&Lean](https://www.youtube.com/watch?v=Gd_s4fv_dSU&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=33)
 - [W51 Gravity WG: Practice Groups - Inclusive Decisions](https://www.youtube.com/watch?v=k8lQjqSx10o&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=24)
 - [W53 Gravity WG: Practice Groups - Invitations & Check In Wave](https://www.youtube.com/watch?v=nfPv43fC_R8&list=PLusWL9gf0FIQaR-no0Tx6x9NOwSRhL4t9&index=21)
+
+## Trust creation durgadas
+
+> ### PRINCIPLE A- DEVELOPMENAL THINKING
+> TRUST CREATION- Proactive Efforts to identify places to engender trust not only in participants but also in investors, regulatory bodies, systems, etc. 
+> - Cynefin- Frameworks Preceding Data (see graphic)
+> - Spiral Dynamics & Integral Theory
+>   - Deep Methods to contextualize efforts, people, community and world.
+> - Deliberately Developmental Organizations
+>   - How To Reward What We Want To Educate
+>   - What A Culture Educates Is What It Becomes
+>   - Metamodernism- caring about all of the psychological health of the participants in the system
+>   - OK, We’ve Decentralized. Now What?
+>     - Do we continue to just have the attitude that “Decentralization Fixes EVERYTHING?”
+>     - Systems Thinking Vs. Complexity Thinking
+
+Principal a is basically the idea that all the other principles are contextualized into in terms of trust creation, Cynefin is a framework that in which we can understand what action mode is required. 
+
+That is to say, to create trust. You really have to respond appropriately to situations. If you're responding to a complex situation, which you need to experiment with something that you assume is a simplified known thing, that's gonna tend to erode trust. 
+
+Whereas if you're responding in a complex way to a complex problem, then that's appropriate action mode to work with. Just having this developmental thinking and contextual thinking really helps, spiral dynamics and integral theory is also extremely helpful in terms of when we get into non-violent communication.  
+
+One of the ways that you learn about non-violent communication is that you need to understand that it is actually something which is designed to prevent you from making an enemy image out of somebody and spiral dynamics. 
+
+Integral theory is a very well developed developmental framework that enables you to, instead of looking at people who are behaving in a certain way and judging them and othering them, you can say, this person is behaving out of a red or blue or a green perspective. I could see why they would do that instead of doing something else. 
+
+It prevents you from creating an enemy of a judge of people. We'll get into that in a bit. Then in terms of, where we're headed a bit in our organization is once you decentralize, then what do you do?  
+
+Then how is it that you develop people individually in terms of the overall DAO space? And so we, as gravitons in many ways, by helping to bring people together. That is itself a developmental process. 
+
+Developmental organizations, and we do a lot of this without explicitly calling ourselves this. We think about what it is that we want to reward and what we want to educate. It's important to note that what a culture educates as what it becomes. 
+
+In many ways, by educating gravitons, we find good ways to create trust creation and to resolve conflicts before they get out of hand. All of this takes place in context of a meta modernist outlook, where we care about all the psychological health of all the participants in the, in our systems. 
+
+What I was saying before about okay, we've decentralized now, what a lot of people are just like yay decentralization. The, there are, that actually creates the potential for a lot of trust creation mechanisms that can exist, that didn't exist in centralized systems. 
+
+It also creates a lot of potential places where conflict can arise. Just understanding the context in which all of our efforts here in the token engineering commons are arising is one of the main purposes of this initial outlook.  
+
+I would also say that systems thinking versus complexity thinking is an interesting thing to keep in mind is graviton because a systems thinker is really gonna be somebody who tops out at the good and best practice side of the picture, where the experimentation is done. 
+
+Now we just are left with the complexity of the system. That's the system stinker and a complexity thinker, people who are willing to go down and down the road of doing experiments and not really knowing exactly what's happening. 
+
+That's actually been the history of the token engineering commons up to now, and with this new Gravity DAO and even the commons dao that's coming up, we're doing a lot of **complexity thinking**. 
+
+It's important as gravitons to understand all of these contextual things to grasp what possible things you may find as you participate in conflicts and trust creation processes in the down space.  
+
+![](https://i.imgur.com/ayvU3ll.png)
+
+(00:18:34)    
+This gets us into this cellular process of generating trust. Almost always, you're gonna be in a situation where you're gonna need to iterate something. The participation and iteration portions of this have a process to them. 
+
+Each of them begins with, there's this thing we're gonna do. We typically promote that, and then there should be informed consent. Then we go through this process where we've taken that curated material, and we have somebody who's moderating it. 
+
+This can also apply in many ways to the process we follow as gravitons in terms of moderation and that type of thing too. 
+
+![](https://i.imgur.com/KQk4nyg.png)
+
+## CREATING A SAFE SPACE
+
+### Empathy is the key
+
+Empathy is necessary to be able to apply certain principles of negotiation, as: 
+- Separate people from problems 
+- Ease communication between conflicting parties
+- Focus in interest and not in positions 
+- Generate variety of alternative paths to propose solutions
+- Use objective or “credibly neutral” criteria to generate legitimacy and impartiality
+
+Empathy brings us together and helps us to take rational and pacific decisions, because individuals who feels underappreciated or ignored are more prone to fall in irrationality just to defend themselves.
+
+## HELPING PEOPLE TO GET TO THEIR OPTIMAL AROUSAL ZONE
+
+<img src="images/3_Window-of-Tolerance_Arousal.png" width=50% height=50% align="left">
+
+<h3>First actions from the mediator:</h3>
+<p>Build confidence, Allow expression, letting steam off, listening carefully, taking notes, asking key questions, identifying feelings, careful language, not trying to influence in any particular idea, just being there to understand the other.</p>
+
+<blockquote>"Trauma can be created by a shock, when its too much too fast, or when its too little too long" - Any of us can get overwhelmed on those situations, where our body triggers the instinctive reactions of flight, fight freeze or fawn. Thanks @MorganxMovement for your teachings today - <a href="https://twitter.com/GravityDAO/status/1534261516458934272">@GravityDAO · Jun 7, 2022</a></blockquote>
+
+<a href="https://apn.com/resources/fight-flight-freeze-fawn-and-flop-responses-to-trauma/">FIGHT, FLIGHT, FREEZE, FAWN, AND FLOP: RESPONSES TO TRAUMA</a>
+
+## Overcoming communication constraints
+
+### Nonviolent Communication (Giraffe / Wolf language)
+
+![](images/4_whatisnvcred.webp)
+
+[Marshall Rosenberg on Giraffe/Jackal Language](https://www.youtube.com/watch?v=Xov5z_GJ9Zs)
+[Marshall Rosenberg “Giraffe Fuel For Life”](https://www.youtube.com/watch?v=RSwEC4yvrb0)
+
+## The four components of NVC
+
+**NVC - OFNR process**
+### OFNR:
+- Make **OBSERVATIONS** without evaluations
+- Identifying and expressing **FEELINGS** while taking responsibility for them.
+- Uncover the fundamental **NEEDS** triggering the parties, moving the conversation to basic levels of human understanding.
+- **REQUEST** That Which Would Enrich Life,  instead of making demands.
+
+[The 4 NVC STEPS MADE SIMPLE (VIDEO)](https://www.youtube.com/watch?v=NYkgbrZSAY0)
+
