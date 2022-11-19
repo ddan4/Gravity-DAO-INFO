@@ -24,9 +24,9 @@ Ostrom on another perspective - how can we express our full selfs and bring them
   - [Monitoring](#monitoring)
 - [Transcription](#transcription)
 
-## [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
-### PRE-LEARNING:
+## Notes
 
+* [Forum Post](https://forum.tecommons.org/t/second-graviton-training-study-plan/607)
 - [Governing the commons 1](https://wtf.tw/ref/ostrom_1990.pdf) - E. Ostrom
 - [Ostrom Summary](https://drive.google.com/file/d/1nLeB-Rmchee9zsyyNCnJdBlgqYulbH1-/view?usp=sharing)
 - [Governance in decentralized networks whitepaper](https://drive.google.com/file/d/1LtG0eVIzzd-Jwknw_zPMqGnuxEB5X8eS/view?usp=sharing)
@@ -138,22 +138,19 @@ To yourself, informed by yourself
 Preventive rather than reactive. 
 Transparent. 
 
+
+**b) [Rebuilding Companies as Communities](https://hbr.org/2009/07/rebuilding-companies-as-communities)**
+
+> Beneath the current economic crisis lies another crisis of far greater proportions: the depreciation in companies of community—people’s sense of belonging to and caring for something larger than themselves. Decades of short-term management, in the United States especially, have inflated the importance of CEOs and reduced others in the corporation to fungible commodities—human resources to be “downsized” at the drop of a share price. The result: mindless, reckless behavior that has brought the global economy to its knees.
+> 
+> Government stimulus programs and the rescue of the biggest and sickest corporations will not alone resolve the problem. Companies need to reengage their people. The practice of both management and leadership needs to be rethought.
+
+
 ## Transcription
 
-(00:00:00)    
-**Speaker 0**:    Thanks, Juan, not sure. Maybe it's easier to just turn off the video now. If more people want to join, they can join. Okay.  
-
-(00:00:33)    
-**Speaker 2**:    Really, can you share the link to this slides?  
-
-(00:00:38)    
-**Speaker 0**:    Yeah, I'll share. I would rather we go together through them though, and in the end I can post the link.  
-
-(00:00:50)    
-**Speaker 2**:    Okay. Okay. Sorry.  
 
 (00:00:52)    
-**Speaker 0**:    No problem. Thank you. Yeah. Thank you all for joining. I'll just give a brief introduction of what we're gonna be going through today. I'm calling this having relational insights to govern comments and the TC has been the PC cultural build has been built over Ostrom's eight principles. Soft Govan culture has been working to implement the eight principles into our cultural build. We've been having so many insights from this, and I just want to share some of them with you, and also to honor all of this course as has been happening and all of the speakers that has spoke so far. It's been very beautiful to see everyone's commitment and everyone's showing up here every week. Yeah, we'll have a little exercise of presence. I would just ask for everyone who is unmuted to please mute yourself, cuz I can hear some feedback. Thank you.  
+**Speaker 0**:    Yeah. Thank you all for joining. I'll just give a brief introduction of what we're gonna be going through today. I'm calling this having relational insights to govern comments and the TC has been the PC cultural build has been built over Ostrom's eight principles. Soft Govan culture has been working to implement the eight principles into our cultural build. We've been having so many insights from this, and I just want to share some of them with you, and also to honor all of this course as has been happening and all of the speakers that has spoke so far. It's been very beautiful to see everyone's commitment and everyone's showing up here every week. Yeah, we'll have a little exercise of presence. I would just ask for everyone who is unmuted to please mute yourself, cuz I can hear some feedback. Thank you.  
 
 (00:02:14)    
 **Speaker 0**:    We'll have a little exercise of presence and then go into the relational clues from the three influential models that are very present in Ostrom's book and then go into the eight principles and have an individual exercise. Then if we have time, we're gonna go into breakout rooms and return for a final round. If we don't have time, we'll still have the individual exercise and some collective sharing in the end for whoever feels comfortable for it. The exercise I want to propose is a bit of a challenge, but I believe in us, we can do it.  

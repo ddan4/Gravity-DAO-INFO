@@ -1,4 +1,7 @@
-# Spiral Dynamics
+# integral theory
+
+
+Spiral Dynamics
 
 - [Integral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf)
 
@@ -128,3 +131,23 @@ If you just take a look at somebody who's thinking of an individual and the cont
 Similarly, you may have a conflict between the thing which is happening inside of you, which is the left hand side, and the things that that you're seeing outside of you. It is actually the tension between the and the left and the right that creates one's own evolution along the colors that you see here. 
 
 This is actually brilliant that Juan found this evolutionary thing, and you can see how it moves toward the outside as you evolve along these, these different paths.
+
+## Resources
+### Integral
+- [Integral - An Integral understanding of Narcissism and Gaslighting](https://integrallife.com/an-integral-understanding-of-narcissism-and-gaslighting) 
+- [Ken Wilber - Understanding The "Culture Wars"](https://www.youtube.com/watch?v=lSXNY8umfz4)
+- [DEVELOPING NONVIOLENT COMMUNICATION: AN INTEGRAL APPROACH](http://web.archive.org/web/20170627053443/https://www.cnvc.org/sites/cnvc.org/files/NVC_Research_Files/NVC%2520Research/Beck-Developing_NVC_Integral_Approach.pdf) Simon R. Beck
+- [Who Are The 2nd Tier Thinkers? - Ken Wilber](https://www.youtube.com/watch?v=8o2_dbLq070)
+- [INTEGRATING  POLARITIES](https://integrallife.com/polarity-wisdom-mechanics-of-integral-thinking/) is Beena Sharma's revolutionary new training program, designed to teach you the higher-order thinking common to individuals at the integral stage of development.
+- [Integral Life - Course - Integrating Polarities](https://integrallife.com/integrating-polarities-training)
+- [Integrating Polarities Q&A - November 21, 202](https://integrallife.com/event/integrating-polarities)
+- [Beck-Developing_NVC_Integral_Approach.pdf](https://drive.google.com/file/d/1S_kDTM--2nElXSNSJZd4ae_pZ8ckEG9f/view?usp=drivesdk)
+
+
+### Spiral Dynamics
+
+- [NEW METHODS OF ENGAGEMENT: A CASE STUDY ON SPIRAL DYNAMICS TO IMPROVE UNION-EMPLOYER RELATIONSHIPS](https://drive.google.com/file/d/1lbz6gBMadWrHca6MHqBxPoaFIVmIJanM/view)
+  > This study examined to what extent Spiral Dynamics as a tool could be applied to enhance understanding of union-employer engagements for all stakeholders. The aim was to contribute to the growing body of research around industrial action in South Africa, focusing, however, on ways to proactively improve union‒employer engagements and minimise conflict.
+- [Spirals Blog](https://spirals.blog/)
+- [Integral Dynamics, A new integration of Wilber’s Integral Theory and Spiral Dynamics](http://www.ijhssnet.com/journals/Vol_6_No_6_June_2016/10.pdf) Harry Donkers
+- [Using Spiral Dynamics to understand development](https://medium.com/@jthowlett/using-spiral-dynamics-to-understand-development-930098e8f092)
