@@ -9,18 +9,10 @@
 > 
 > The purpose of this training is for you to be able to practice in your everyday life techniques to handle conflict, to communicate mindfully and to make the best of a challenging situation.
 
-## Contents
-- [Steps for Alternative Dispute Resolution](#steps-for-alternative-dispute-resolution)
-- [THE 4 P’s - FRAMEWORK FOR CONFLICT ANALYSIS](#the-4-ps---framework-for-conflict-analysis)
-  - [The 4 Ps key factors](#the-4-ps-key-factors)
-- [Gravity Mediation Process](#gravity-mediation-process)
-- [Assorted Graphics](#assorted-graphics)
-- [Community Resources](#community-resources)
-  - [Mediation](#mediation)
-  - [Alternative Dispute Resolution](#alternative-dispute-resolution)
-  - [Conflict Transformation](#conflict-transformation)
-  - [Negotiation](#negotiation)
-  - [Restorative Justice](#restorative-justice)
+**e) [Dana Caspersen’s 17 principles of conflict resolution Summary](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201501/17-rules-guide-you-through-any-conflict)**
+  > Conflicts trigger our deepest emotions. Just watch two young children battle over the same toy. Filled with sheer rage, they each grab at the toy, and each other, until one of them prevails (or the toy breaks).  Such conflicts set the stage for all of our adult struggles. The words we use may become more sophisticated, but the underlying feelings remain strikingly similar.
+  > 
+  > The key feature of the new Dana Caspersen’s book, [Changing the Conversation: The 17 Principles of Conflict Resolution](https://danacaspersen.com/book/), in my opinion, is its emphasis on these underlying emotions. This graphically-oriented how-to book takes the reader through her 17 principles in a way that allows you to understand each principle, its “anti-principle,” its focus, specific examples, a way to put it into practice, and the choice it presents.  Drawing from examples that range from relationships to office politics to parenting, Caspersen gives you the chance to understand what’s behind life’s everyday conflicts and how best, in turn, to consider handling them.
 
 ### Lederach - Conflict Transformation
 

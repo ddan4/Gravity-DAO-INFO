@@ -1,48 +1,5 @@
 # Session 5: Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions - Liviade
 
-**Session**
-- [Video](https://www.youtube.com/watch?v=BA97eWuv7lc)
-- [Ostroms Principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
-- [SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/)
-
-**Season**
-- [Forum Post](https://forum.tecommons.org/t/first-graviton-training/217)
-- [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/)
-
-![](https://i.imgur.com/zF1aO1k.png)
-
-## Contents
-
-**Notes**
-- [Three Influential Models](#three-influential-models)
-- [8 Principles for Governing the Commons](#8-principles-for-governing-the-commons)
-- [Forgiving Rules](#forgiving-rules)
-- [Monitoring](#monitoring)
-- [Small acting workshop](#small-acting-workshop)
-- [What is the need that soft gov addresses in the TEC](#what-is-the-need-that-soft-gov-addresses-in-the-tec)
-
-**Slides**
-- [Ostrom - Governing the Commons](#ostrom---governing-the-commons)
-- [Deontic principles for rules](#deontic-principles-for-rules)
-- [Institutional Change](#institutional-change)
-- [Ostrom’s principles for enduring CPR institutions](#ostroms-principles-for-enduring-cpr-institutions)
-- [Ostrom’s institutional change framework](#ostroms-institutional-change-framework)
-- [Questions:](#questions)
-
-**Transcript**
-- [Three Influential Models](#three-influential-models)
-- [Prisoner's Dilemma](#prisoners-dilemma)
-- [The Logic of Collective Action](#the-logic-of-collective-action)
-- [Ostrom's Principles](#ostrom's-principles)
-- [Then principal four is monitoring.](#then-principal-four-is-monitoring)
-- [Forgiving Rules](#forgiving-rules)
-- [Questions \ Comments](#questions--comments)
-- [Guided Meditation](#guided-meditation)
-- [Closing](#closing)
-
-## Notes
-
-### Three Influential Models
 
 * **Tragedy of the Commons** 
   > “What is common to the greatest number has the least care bestowed upon it” 
@@ -115,12 +72,6 @@
 ### Session 5: Soft Governance & Culture: Ostrom’s principles for enduring CPR Institutions
 
 [Graviton Training](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_74) Google Slides - Session 5
-
-**a) TEC Cultural build: soft Gov miro board**
-
-[Miro: the collaborative whiteboard platform for distributed teams](https://miro.com/signup/)
-
-> Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 10M+ users from around the world
 
 **b) [Rebuilding Companies as Communities](https://hbr.org/2009/07/rebuilding-companies-as-communities)**
 

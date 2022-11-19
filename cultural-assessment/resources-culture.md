@@ -187,3 +187,10 @@
   > Today we associate money with the profane, and for good reason. If anything is sacred in this world, it is surely not money. Money seems to be the enemy of our better instincts, as is clear every time the thought “I can’t afford to” blocks an impulse toward kindness or generosity. Money seems to be the enemy of beauty, as the disparaging term “a sellout” demonstrates. Money seems to be the enemy of every worthy social and political reform, as corporate power steers legislation toward the aggrandizement of its own profits. Money seems to be destroying the earth, as we pillage the oceans, the forests, the soil, and every species to feed a greed that knows no end.
 - [WeAll-BRIEFINGS-Measuring-the-Wellbeing-economy-v6.pdf](https://drive.google.com/file/d/1seTK4FrpqRSl5E2c6kPZg9OgUqBnImqF/view?usp=drivesdk)
   > The COVID-19 pandemic is the most recent in a long line of crises affecting the global community. In this age, we are confronted by rising inequalities, populism, climate change, biodiversity loss, resource depletion, privacy issues, racial discrimination, corporate monopolies, and more. The pandemic has added a daunting global problem to that list and is exacerbating some existing crises. 
+
+
+### Punished by Rewards
+
+- [AlfieKohn.org – Beyond Discipline](https://www.alfiekohn.org/beyond-discipline/)
+- [LeanBlog Podcast #57 – Alfie Kohn, “Punished by Rewards”](https://www.leanblog.org/2009/01/leanblog-podcast-57-alfie-kohn-punished/)
+- [Punished by Rewards – Alfie Kohn](https://www.amazon.com/Punished-Rewards-Twenty-fifth-Alfie-Kohn/dp/132845052X/)

@@ -2,28 +2,9 @@
 
 - [Beyond Inclusion Beyond Empowerment : Primer](https://soundcloud.com/aloysious-x/beyond-inclusion-beyond-empowerment-primer) 
   > Beyond Inclusion, Beyond Empowerment, by Leticia Nieto Psy.D., and co-authors, brings a long-awaited breakthrough to the fields of liberation and cultural studies. Nieto offers a powerful analysis
+- [TEC icebreaking game — Gatheround — Crack the culture code](https://icebreaker.video/events/GRgR0mLvZk3CaYKMpOBO) 
+  > Let’s know a little bit more about each other!
 
-## Ethical Standards and requirements for Gravitons
-
-- **Voluntary Process**: All members in the Gravity group and its cases participate without coercion from any actor.
-- **Self-Determination**: The Graviton has agency to lead the conflict management process and facilitate communication, but cannot influence on the potential agreement or the specific outcomes of a dispute.
-- **Conflict of interest**: Gravitons can express when they are not capable of facilitating a conversation for any possible reason, personal or professional.
-- **Competence**: As we are a community of experts, the mediator, besides being trained in Alternative Dispute Resolution, should be able to prove deep understanding of the specific topics that the dispute may be about, or call for help to SMEs.
-- **Confidentiality**: Information related to these processes should be handled privately, and strategically shared only with the agreement by the parties. Unwanted information filtered by the mediator is a reason to remove from the Gravity group.
-- **Impartiality and neutrality**: The Gravity group members should lead by their example of empathy and acceptance of different points of view, with freedom from favouritism.
-- **Professional Responsibility**: Gravity members should assume the task of mediating in the organization with diplomacy and prudence.
-- **Rotation**: Two times a year, new trainings and selection processes will be run to encourage members of the community to become part of the Gravity team. We promote rotation in the roles and management of cases to avoid accumulation of power.
-
-See more: [Gravity - Role design](https://forum.tecommons.org/t/gravity-role-design/174) (TECommons Forum)
-
-### Gravitons shall be able to:
-- Make an effort to be present and accessible to the community, bringing high vibes and improving relationships, bringing the community together.
-- Separate the people from problems. Making parties identify with themselves and the other as equals, rather than centering on their own conflictive thoughts-feelings.
-- Self-determinate from all parties and recognize key management points by analyzing the information gathered.
-- Promote empathy between conflicting parties with emotional intelligence. Building proximity from the abstraction of the problem and the humanization of apparent antithesis.
-- Adapt their mindset for tolerance to conflictive situations, keeping calm and diplomacy to stand as an independent third party.
-- Propose alternatives to deal with paradoxes while looking for the coexistence and attraction of opposites.
-- Act according to institutional regulations while implementing actions to frame unwanted behavior within rules and boundaries (Terms & conditions / Codes of conduct / Graduated sanctions)
 
 ## CREATING A SAFE SPACE
 

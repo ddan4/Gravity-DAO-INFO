@@ -1,43 +1,4 @@
-
-
-# Session 6: Notes
-
-> Gravitons participation in Community management -> focus in this last two sessions is to understand that the purpose of gravity (and gravitons) is to bring us together.
-
-**Session**
-* [Video](https://www.youtube.com/watch?v=qj_XK9zx0Po)
-
-**Season**
-* [Slides](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_2_110)
-
-![](assets/gravity.gif)
-
-## Contents
-
-- [Links](#links)
-- [Value-Aligned Conduct](#value-aligned-conduct)
-- [Gravity Code of conduct](#gravity-code-of-conduct)
-- [Gravity’s rules & boundaries](#gravitys-rules--boundaries)
-- [Protocol for TEC meetings - Common rules for all calls:](#protocol-for-tec-meetings---common-rules-for-all-calls)
-- [Gravitons participation in Community management](#gravitons-participation-in-community-management)
-- [Guideline for scale of conflicts and graduated sanctions](#guideline-for-scale-of-conflicts-and-graduated-sanctions)
-- [Conflict Managment cycle in the TEC (Draft)](#conflict-managment-cycle-in-the-tec-draft)
-- [Meditation TIme](#meditation-time)
-
-##  Notes
-### Links
-
-- [TEC Code of Conduct](https://docs.google.com/document/d/1S5EoWbsFt3uQ5Wj6yyUJKyApFyjCQ-EloZAr6W55N3U/edit?usp=sharing)
-- Gravity Forum Posts
-   - [Role design](https://forum.tecommons.org/t/gravity-role-design/174)\
-   - [General process](https://forum.tecommons.org/t/gravity-general-process/173)\
-   - [Onboarding](https://forum.tecommons.org/t/gravity-onboarding/175)
-   - [Protocol for TEC calls](https://forum.tecommons.org/t/protocol-for-tec-calls/186)
-   - [Gravity training](https://forum.tecommons.org/t/graviton-training/217)
-- Mechanisms to request Gravity conflict management
-  - [Typeform](https://the-commons-stack.typeform.com/to/rCVsK5RK)
-  - [Calender](https://calendly.com/bell-juan-carlos/15min) availability.
-- [Gravity group registry spreadsheet](https://docs.google.com/spreadsheets/d/1HH1lhY4HScQzE1f7cjk89lkoMu3Uw3vmPbFsu97jZa4/edit#gid=0)
+#  Notes
 
 ### Value-Aligned Conduct
 

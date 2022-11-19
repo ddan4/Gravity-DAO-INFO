@@ -52,6 +52,13 @@ Sometimes you want to like the things to get addressed really quickly. That harm
 
 > The idea behind the adversary system is that the truth will emerge when opposing sides present their cases as aggressively as possible. Even though this ideal is not always realized, the principle is probably sound. The problem with the adversary method in civil cases is not theoretical but practical. First, it is not the most effective way to resolve some kinds of disputes. Second, it can be made more effective for most kinds of disputes by borrowing certain of the nonadversarial features of other forms of dispute resolution. Third, from both the societal and the individual perspective, we may no longer be able to afford it in its undiluted form.
 
+
+**c) [Make the most of online negotiations](https://drive.google.com/file/d/14hg6FZvWFS15ZbK29YgG3i_NU2hLwnBe/view?usp=sharing)**
+  > While no communication medium is as rich in social cues as face-to-face meetings, some are richer than others. On the phone, we can read a lot into our counterpart’s tone of voice and how quickly they get down to business. On a video conference, we can assess the other party’s receptiveness to a proposal from their smile or, conversely, their crossed arms and frown. Emails and texts tend to be “impoverished” forms of communication because they lack nonverbal and visual cues, though emojis can help.
+  > 
+  > Communication media also vary in their synchronicity, or the degree to which people can be engaged in the same activity at the same time. Phone calls, conference calls, and videoconferences—and, to some extent, text messages—allow us to carry on a continuous conversation. By contrast, emails (and sometimes texts) tend to extend the communication process because of delays between messages, note Swaab and Galinsky.\
+
+
 ### How to sustain the bridge
 
 ![](https://i.imgur.com/Dy9Zkl8.png)

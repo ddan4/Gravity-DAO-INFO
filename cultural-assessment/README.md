@@ -1,5 +1,8 @@
 # Cultural Assessment
 
+- [Ostroms Principles](https://docs.google.com/presentation/d/16LVBERFukkoJj5_YkqSssOG_z9paGt4TUSNlBvMQDPQ/)
+- [SoftGov and Culture](https://docs.google.com/presentation/d/1sykUfttLkZm_zoZqlM1nqpdvF1tpmgnK8CrhLHUahRY/)
+
 > Foster the practice of nonviolent communication, empathy, understanding and management of conflicts in decentralized communities, to facilitate human coordination and build a culture of trust between peers.
 
 > A civilization that proves incapable of solving the problems it creates is a decadent civilization.  A civilization that chooses to close its eyes to its most crucial problems is a stricken civilization. A civilization that uses its principles for trickery and deceit is a dying civilization. - A. Cesaire (Discourse on colonialism)
@@ -34,3 +37,4 @@ Following [E. Ostrom’s Principles](https://www.onthecommons.org/magazine/elino
 ## Applying systems thinking to our culural approach
 (01:15:30)
 **Durgadas**:    We take systems level thinking and apply it to our cultural approach and to understand that the approach we're gonna take to our cultural thing is going to come from the evolution we have along these, in these quadrants and in this spiral. Right? And so this part is, is really important because if we don't understand how that relationship exists, then we're going to carry whatever unconscious, like, call it from the culture or from our own trauma or from all these things. There are more tools to unpack all that at each level, this is a unifying principle, but you know, if people have questions about this from a personal standpoint, I have other graphics like how does, how does communication happen between two adults, for example, and I'm gonna have another version of this document that talks about what, if you have a mature person talking to a child and and so on. This all can apply from a different context.  
+
