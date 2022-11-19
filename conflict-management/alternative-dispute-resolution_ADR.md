@@ -1,43 +1,51 @@
-# What is Alternative Dispute Resolution (ADR)
+# Alternative Dispute Resolution (ADR)
 
+- [What is ADR?](#what-is-adr)
+- [how to manage disputes and what are some ADR mechanisms?](#how-to-manage-disputes-and-what-are-some-adr-mechanisms)
+  - [What is Alternative Dispute Resolution (ADR)](#what-is-alternative-dispute-resolution-adr)
+  - [Self-compositive ADR Mechanisms](#self-compositive-adr-mechanisms)
+  - [Hetero-compositive ADR - Arbitration](#hetero-compositive-adr---arbitration)
+  - [Self-compositive ADR Mechanisms](#self-compositive-adr-mechanisms-1)
+  - [Hetero-compositive ADR - Arbitration](#hetero-compositive-adr---arbitration-1)
+  - [Steps for a mediation process](#steps-for-a-mediation-process)
+  - [Why doesn't centralization work?](#why-doesnt-centralization-work)
+- [TABLE 1.5 Steps Typically Used by a Private ADR Center](#table-15-steps-typically-used-by-a-private-adr-center)
+- [Resources](#resources)
 
+## What is ADR?
 
-ADR means any method or mechanism of resolving disputes other than litigation. The theory behind ADR is that settling disputes as painlessly as possible requires good communication, that good communication requires some degree of trust, and that trust can be built where there is legitimacy on the actions taken.  
+ADR means any method or mechanism of resolving disputes other than litigation. 
 
-There are many ADR techniques, like: arbitration, mediation, conciliation, Justice circles, the rent-a-judge program, summary jury trial, and mini-trial, although techniques can be combined to form hybrids suited to a particular dispute or legal jurisdiction.
+The **theory behind ADR** is that settling disputes as painlessly as possible requires good *communication*, that good communication requires some degree of trust, and that *trust* can be built where there is *legitimacy* on the actions taken.  
 
-Handled with sufficient skill, ADR can bring an opponent into the venture as well, as all parties join in a non-adversarial search for a mutually beneficial outcome.
+There are many ADR techniques
+
+- arbitration, 
+- mediation, 
+- conciliation, 
+- justice circles, 
+- rent-a-judge, 
+- summary jury,
+- mini-trial,
+- various techniques can be combined to suit your needs
+
+Handled with sufficient skill, ADR can bring an opponent into the venture as well, as all parties join in a **non-adversarial** search for a **mutually beneficial** outcome.
 
 The chances of success for any kind of ADR rely on the premises that parties are committed to the idea of managing the issue peacefully and willing to act in good faith.
 
-**a) [The future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)**
+According to [The future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf), ADR is prime for proliferation.
 
-> There is much Good in ADR. In no particular order, here is my Good Top 10:
-> 1. Training & education tools and techniques are well-established.
-> 2. Some business schools are now teaching negotiation-based ADR as electives.
-> 3. Good basic and advanced skills of ADR practitioners have developed.
-> 4. Different styles and techniques have emerged, making the field highly versatile.
-> 5. Collaborative law is increasing.
-> 6. Judiciaries have increasingly embraced "ADR" in its various forms.
-> 7. The success and satisfaction rates for mediation/negotiation-based ADR are high.
-> 8. Arbitration institutions are embracing ADR processes far beyond arbitration.
-> 9. Governments and international organizations are increasingly supporting ADR.
-> 10. Court schemes to "robustly encourage" ADR are on the increase.
-
-**g) [(Español) Sistemas alternativos de resolución de conflictos: negociación, conciliación, mediación, arbitraje, en el ámbito civil y mercantil](https://dialnet.unirioja.es/descarga/articulo/4182033.pdf)** (Alternative resolution systems conflicts: negotiation, conciliation,mediation, arbitration, in the field civil and commercial)
-
-> In the civil and commercial sphere, when the law is available, people can resolve their disputes through jurisdiction and alternative dispute resolution systems: negotiation, conciliation, mediation and arbitration.
-
-> One of the essential functions of our rule of law is to guarantee the protection of the rights and legitimate interests of citizens. With that purpose, within public law, is procedural law, which establishes the different dispute resolution mechanisms, which apply to the specific case, the corresponding substantive norm (civil, criminal, mercantile, labor, etc.), to resolve the substantive legal controversy raised by the parties.
-> 
-> The progressive increase in litigation in recent years has exacerbated the endemic jurisdictional delay, with slow and costly processes for the State and the litigating parties. Procedural reforms in the jurisdictional sphere have provided partial solutions to streamline the jurisdiction, but it is necessary complement them with other alternative systems that guarantee coexistence social, absorbing much of the litigation.
+* Well established training, tools and techniques in both variety and depth.
+* Taught in some business schools.
+* Judiciaries increasingly embrace various forms of resolution.
+* Success and satisfaction rates are high.
+* Arbitrators also embracing ADR processes.
+* Governments and enterprise increasingly support ADR.
+* Courts increasingly encourage use of ADR.
 
 
-f) [Restorative Justice circles](https://oscr.umich.edu/article/restorative-justice-circles): 
-g) (video) [Getting to Yes in Challenging Times W. Ury](https://youtu.be/-2lcXp-MiVQ?t=749)
-h) (Español) [Sistemas alternativos de resolución de conflictos: negociación, conciliación, mediación, arbitraje, en el ámbito civil y mercantil](https://dialnet.unirioja.es/descarga/articulo/4182033.pdf) 
 
-In this session, we are going to go more practical in how to manage disputes and what are some of the alternative dispute resolution mechanisms that we can apply to our decentralized context. Also some of the mechanisms and techniques to address conflict the most peaceful way and in the best way possible.
+## how to manage disputes and what are some ADR mechanisms?
 
 ![](https://i.imgur.com/lLf3TsX.png)
 
@@ -146,3 +154,35 @@ We've we've outsourced that to private companies. Then they have an incentive to
 
 (01:16:14)    
 **Loie**:    That puts an extra spin on the school to prison pipeline. Right. We even like a lot of us experience it in our families. This punitive justice systems and kids not feeling like they have agency over the decisions around conflict in their lives and that someone else needs to make a decision for them. It starts early. That's a great point. 
+
+
+## TABLE 1.5 Steps Typically Used by a Private ADR Center
+* Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers
+
+1. One of the parties to a dispute (referring party) approaches the ADR Center and requests a mediation.
+2. The ADR Center provides a list of names of available mediators from which the parties may elect their mediator.
+3. The parties provide the ADR Center with all the relevant documents pertaining to the dispute, and the ADR Center provides this information to the mediator.
+4. The ADR Center, in consultation with the parties and the chosen mediator, determines the date and place when the mediation will take place. The ADR Center may offer premises for conducting the mediation. A few hours or a number of days may be allocated for the mediation, depending on the complexity of the matter and the number of parties involved.
+5. If the dispute is settled through mediation, the parties enter into a Settlement Agreement. Often the ADR Center will keep a copy of the Settlement Agreement on file for its records.
+6. If the dispute remains unresolved, the referring party may request that the matter be arbitrated by the ADR Center, if this is the agreed process to be followed by the parties (for example, in terms of the contract between the parties). Alternatively, the parties may agree to arbitration. If the parties do not agree to arbitration , they may follow the recognized route for resolving disputes in that jurisdiction (for example, approaching the court for a court order).
+7. Once again, the parties will elect an arbitrator. The arbitrator will conduct the arbitration on a date and at a time as agreed between the parties.
+8. The arbitrator adjudicates the matter and provides an arbitration award, which is normally binding between the parties through operation of law or by agreement of the parties.
+
+## Resources
+
+* [Español] [Alternative resolution systems conflicts: negotiation, conciliation,mediation, arbitration, in the field civil and commercial](https://dialnet.unirioja.es/descarga/articulo/4182033.pdf)
+* [video] [Getting to Yes in Challenging Times W. Ury](https://youtu.be/-2lcXp-MiVQ?t=749)
+- [The Future of ADR in 2020](https://www.imimediation.org/wp-content/uploads/2017/09/the-future-of-adr-in-2020-article.pdf)
+- [BATNA Basics: Boost Your Power at the Bargaining Table](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) Harvard Law
+- [Five Ways to Keep Disputes Out of Court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court )by John R. Allison
+- [Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers](https://web.archive.org/web/20130422035337/www.wbginvestmentclimate.org/advisory-services/upload/15322_MGPEI_Web.pdf)
+- [The Mediation Process and Dispute Resolution](https://www.pon.harvard.edu/daily/mediation/dispute-resolution-how-mediation-unfolds/) Harvard Law
+- [Alternative_Dispute_Resolution_Center_Manual.pdf](https://drive.google.com/file/d/1S4rkWeGmcYaGKph7TCdoHRx34-lp13CM/view?usp=drivesdk)
+  > A few years ago, the International Finance Corporation (IFC), the key player in private sector development in new and emerging markets, started supporting commercial ADR through a number of projects to accelerate this change worldwide. In particular, IFC has partnered with local governments, justice ministries, lawyers’ associations, business membership organizations, international mediation experts, and donors.
+- [Dialnet-Sistemas Alternativos De Resolucion De Conflictos](https://drive.google.com/file/d/1s8mLLpBCU7sJKwKPxlaJcvWSX34fXpvq/view?usp=drivesdk)
+- [MASC_JUAN_BELL_MAESTRIA_PROF_JIMMY_PEREZ.docx](https://docs.google.com/document/d/16UoMea4ALDJBdZ2CTqFsda5MQENeoH6o/)
+  > 1. Definition of each of the existing alternative dispute resolution mechanisms in Colombia, indicating the legal norm that establishes it.
+  > 2. A model clause for each of the existing alternative dispute resolution mechanisms in Colombia.
+  > 3. A model staggered dispute settlement clause starting with direct settlement and ending with arbitration within a commercial civil works design consulting contract.
+  > 4. Finally, a brief reflection on the importance of agreeing on dispute settlement clauses and how the principles of negotiation would be applied in the drafting of said clauses.
+

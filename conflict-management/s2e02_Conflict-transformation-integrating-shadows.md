@@ -8,10 +8,6 @@ Conflict transformation, integrating shadows as a motor of change and evolution 
 ![](https://i.imgur.com/ke68U0n.png)
 
 ## Contents
-- [Notes](#notes)
-  - [PRE-LEARNING](#pre-learning)
-  - [PRESENTATION](#presentation)
-  - [HOMEWORK](#homework)
 - [Transcription](#transcription)
   - [Conflict transformation as a political philosophy](#conflict-transformation-as-a-political-philosophy)
   - [Conflict Competence in the DAOspace](#conflict-competence-in-the-daospace)
@@ -31,26 +27,6 @@ Conflict transformation, integrating shadows as a motor of change and evolution 
   - [Gravity Framework for conflict analysis](#gravity-framework-for-conflict-analysis)
   - [Continued education activities:](#continued-education-activities)
   - [Winnicott at Work](#winnicott-at-work)
-
-## Notes
-### PRE-LEARNING
-
-- [The Window of tolerance](https://worthit2bme.com/fightflightimmobolize/therapeutic-window-of-tolerance/)
-- [Little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf) (Lederach)
-- Lederach [Summary](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%20):
-- [Antifragile](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing) (pages 16-17) - N. Taleb.
-- [True self and false self in organizations](https://drive.google.com/file/d/1aXszmXnVCF_LN09mqBs_goDBR0cCj1Ay/view?usp=sharing) (Just read the conclusions)
-
-### PRESENTATION
-
-- [First Graviton training slides 5](https://docs.google.com/presentation/d/15UvsnS9oX5czAKIGHZUqJLhrORpPebWsZeCqmUz9BUE/edit#slide=id.gabe59e4cc3_0_114)
-- [Ho’oponopono reconciliation ritual 3](https://www.youtube.com/watch?v=OAuWRuU4uzA)
-
-### HOMEWORK
-
-- [Fill the gravity survey: 5](https://the-commons-stack.typeform.com/to/reUmcsJ6)
-- Gravity’s [first blog post 2](https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1) and [second blog post 24](https://medium.com/token-engineering-commons/graviton-training-season-2-8f9817cf404d)
-
 
 ## Transcription
 

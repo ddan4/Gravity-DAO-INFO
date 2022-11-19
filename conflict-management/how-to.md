@@ -1,5 +1,21 @@
 # How to set up a conflict res process in your org
 
+- [Practical Implementation](#practical-implementation)
+  - [How to set up a conflict res process in your org](#how-to-set-up-a-conflict-res-process-in-your-org-1)
+    - [Selecting a method](#selecting-a-method)
+    - [Selecting Facilitators](#selecting-facilitators)
+    - [Team agreement to use the method](#team-agreement-to-use-the-method)
+    - [Time resolving conflict is paid time](#time-resolving-conflict-is-paid-time)
+    - [Company culture: Celebrate conflict!](#company-culture-celebrate-conflict)
+  - [Conflict Resolution in Practice](#conflict-resolution-in-practice)
+    - [The Kwanlin Dun Community Justice Project is a community-based program in the Yukon that facilitates offenders and victims through the process of circle sentencing. The process involves seven steps:](#the-kwanlin-dun-community-justice-project-is-a-community-based-program-in-the-yukon-that-facilitates-offenders-and-victims-through-the-process-of-circle-sentencing-the-process-involves-seven-steps)
+- [Conflict management in the TEC](#conflict-management-in-the-tec)
+  - [Guideline for scale of conflicts and graduated sanctions](#guideline-for-scale-of-conflicts-and-graduated-sanctions)
+  - [Suggested actions per management mechanism (graduated sanctions)](#suggested-actions-per-management-mechanism-graduated-sanctions)
+    - [Self compositives:](#self-compositives)
+    - [Heterocompositive:](#heterocompositive)
+  - [Conflict Managment for the TEC (Draft)](#conflict-managment-for-the-tec-draft)
+
 ## Practical Implementation
 
 I want to talk about practical implementation because it's really possible for all of y'all to have strong conflict resolution methods in your respective organizations and communities. I would like to give you something to take away and to take home with you from that session. I just so there's some steps for setting up a conflict resolution process in your community. 
@@ -79,3 +95,76 @@ Step six here, the sentence is implemented in restorative justice. We would have
 
 Step seven is that the the offender gets full acceptance back into their community. It's really valuable for folks entering this, to know what to expect at the end of this. To know that reintegration is possible and trust among their community is possible. That was all that I have for you guys on our, my presentation here. 
 
+## Conflict management in the TEC
+
+- [Gravity easy Step by Step](https://forum.tecommons.org/t/gravity-easy-step-by-step/354)
+  > Functions for Alternative Dispute Resolution in DAOs 1. Identification: One of the parties to a dispute approaches Gravity and requests a mediation. Gravitons can also propose issues to manage and discuss. 2. Screening: The parties provide the Gravitons assigned all the relevant information pertaining to the dispute and are invited to participate in a mediation process 3. Look for solutions: Gravity offers premises to frame the dispute in a non adversarial way and to conduct the mediation pro...
+
+### Guideline for scale of conflicts and graduated sanctions
+
+**Framework for studying conflicts and suggest appropriate actions to correct unwanted behavior.**
+* **Small scale conflicts**: The issue involves few people
+* **Mid scale conflicts**: The issue is private but is latent in the community
+* **Big scale conflicts**: The issue is public and manifest in the community
+
+### Suggested actions per management mechanism (graduated sanctions)
+#### Self compositives:
+* **Negotiation**: The conflict manager (graviton) can act as a witness for an issue that is handled directly between parties.
+* **Mediation**: The Graviton acts as a facilitator for the conflict management process, helping to identify key points to reach an agreement, but not directly suggesting a solution.
+* **Conciliation**: The conflict manager (Graviton) proposes and helps to implement a suggested solution that should be taken into consideration for approval between parties.
+
+#### Heterocompositive:
+* **Arbitrage**: An external point of view is needed to address the issue
+
+More info at: [Scale of conflicts - Graduated sanction Guideline](https://forum.tecommons.org/t/scale-of-conflicts-graduated-sanction-guideline/234) (TECommons Forum)
+
+Here is the guide for studying the conflict, serves us to suggest appropriate actions, to correct the unwanted behavior and a list of ingredients to identify when a conflict is in a mid scale conflict, trying to propose certain actions for each scale of sanctions guideline. 
+
+You can see that the actions are like follow up. Most of the time nothing happens can be settled with, and this is like a signature that I am to make. Is that after every dispute, we can make a small reconciliation between the parts where both of them can like forgive themselves and forgive the other.
+
+Say: "I'm sorry." Say: "thank you," for all the learnings that come from the conflict. "I love you." Love is recognize the other person as an equal and recognize the person values. 
+
+Here we love set circles. Maybe if a member is feeling that he or she is being like pointed out or judged, maybe we can instead of making him or her like, feel more judge, we can start like swarming the conflict with good intentions. 
+
+With people that help to heal, also we can as assign a graviton to gather information for involved parts, and we can have a private conversation between parts.  
+
+The idea of these graduated sanctions is not to impose like sanctions and to punish people. But instead of that, the idea is that according to the issue, we can have a strategic responses to promote healing and wellbeing for the community and for the members. 
+
+Also, we are promoting confidentiality, because I think that is a very key important part of the success of any mediation process. 
+
+Yes, by framing the conflict be between small meetings and big scale conflict, we can also suggest these mechanisms that are the alternative dispute resolution mechanisms that we are going to offer as an organization.
+
+As a group, we can offer negotiation. We can offer negotiation. That is just for an issue that is handled directly between parts. We can have a mediation that is that the Graviton facilitator for the conflict. 
+
+it's the self composite alternative dispute solution that we can offer is like finishes when we have to look for training organization to address the issue. 
+
+This is something that I want to explain better with this, with this graph. 
+
+### Conflict Managment for the TEC (Draft)
+
+![](https://i.imgur.com/vXdvm2U.png)
+
+The idea that we can have an internal management layer that offers self-compositive alternative dispute solution. That the conflicts that arise within our organization can be settled within, within our internal layer and that they don't go into the exterior management. 
+
+If a conflict is really big, then it's strategically good to request for an external management player and to go to a hetero compositive arbitrage or litigation. 
+
+Our idea is to try to avoid arbitrage and arbitration and try to avoid including external actors to solve our, our own issues and try to solve our own issues internally first and only request if it is actually fit for the, for the better management of the problem. 
+
+What I am trying to express in this, in this process tries to be like this internal management layer tries to provide this internal management layer. 
+
+If we didn't have gravity, maybe a conflict can go to the outside, but the idea is that we can have a previous process where, where if the thing is small, we can handle it. Respond fast within the organization, and only request for arbitration and mitigation if we don't have the tools to manage that conflict internally. 
+
+The idea is that when a conflict happens, it, goes through our internal management and we have our internal follow up, and we have our observation of the conflict, and we make our own insights and we make our own agreement. 
+
+If they don't work, we go to we to review our graduated sanctions and our framework for analyzing and for identifying the conflict so that they can better respond to the conflicts that may arise in the organization.  
+
+### Draft for conflict resolution of the TEC to eventually support other communities. 
+
+1. We could have conflict management training twice a year, each one ending with a conflict management certification.
+2. People who pass the training and show they have soft skills and understanding of conflict can become part of this trusted group of conflict management supporters for the TEC. 
+3. That will provide the minimum requirements, but then we need to develop a reputation system to promote meritocracy and good will. A person can not be part of the conflict managers more than 3 years in a row to promote rotation and avoid centralization of power. He/she can join again after 1 year of not being part of this group.
+4. Agreements and sanctions as products (actions) of conflict management processes, are registered in the system database (off-chain) with follow up indicators for accountability. - My idea is that we could have some kind of system that holds the proof and information needed to revise and solve cases- maybe?. Ex. A member publishes some information as his own. The community should be able to record the situation, the decision taken for that case, and look for a way to track the progress. 
+5. What type of conflicts will they be able to manage? Mostly common conflicts related to unwanted organizational behavior, disputes between members and non consensual situations.  The objective of this program is to handle small disputes with ease and provide preventive/de-scaling management for bigger issues. 
+6. This is a voluntary process that can be called by one or part, but to proceed there should be recognition of the process by all parts involved.
+7. The conflict management process does not end in agreements or sanctions. After them, there should be Indicators and off-chain follow-up.
+8. The Conflict management process should be rewarded for the people doing this job.

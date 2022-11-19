@@ -1,8 +1,6 @@
 # Restorative Justice
 
-**e) [Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles)**
-
-Restorative Justice Circles (“Circles”) provide an opportunity for community members to come together to address harmful behavior in a process that explores harms and needs, obligations, and necessary engagement. 
+[Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles) (“Circles”) provide an opportunity for community members to come together to address harmful behavior in a process that explores harms and needs, obligations, and necessary engagement. 
 
 **Who’s involved?**
 
@@ -12,10 +10,16 @@ Restorative Justice Circles (“Circles”) provide an opportunity for community
 * **Supporting Parties** — friends or family of either the respondents or the affected parties
 * **Facilitators** — training OSCR staff who facilitate the Circle
 
-## Alternative Dispute Resolution
+## Contents
+- [PRESENTATION / WORKSHOP](#presentation--workshop)
+- [Acknowledgement - Many have come before us.](#acknowledgement---many-have-come-before-us)
+- [Navajo Peacemaking](#navajo-peacemaking)
+- [Dominic Barter](#dominic-barter)
+- [Restorative Justice (marshall rosenberg)](#restorative-justice-marshall-rosenberg)
+- [Restorative Justice Theory](#restorative-justice-theory)
+- [Resources](#resources)
 
-- [Restorative justice circles 1](https://oscr.umich.edu/article/restorative-justice-circles)
-- [Dominic Barter on why to have conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo&ab_channel=NonviolentCommunicationNVC)
+## Assorted
 
 ### PRESENTATION / WORKSHOP
 
@@ -79,11 +83,6 @@ I commend you guys as a community for being able to find within a process. That 
 
 Is there something in the persona of this process that we're using that makes it connective? 
 
-
-### Restorative Justice
-- [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
-  > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
-- [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
 
 ### Restorative Justice (marshall rosenberg)
 
@@ -177,4 +176,12 @@ To have that as a baseline of your needs being taken care of allows you to phone
 It's never saying like you are this way. You are an offender, you're a problem causer, it's about focusing on the specific act or the specific pattern of acts that's happening and not assigning that as a persona of the person in front of you. 
 
 That's something that restorative justice adheres to pretty strongly, it refuses to use the words victim. Generally we speak of stakeholders in a crime stakeholders, in a conflict and most, if we really need some distinction, we will say like a person who was harmed and a person who caused harm, cuz then we know that those people are really just people and their relation to the conflict, just certain actions they took. It's not an identity that they have.  
+
+## Resources
+
+* [Restorative Justice circles](https://oscr.umich.edu/article/restorative-justice-circles): 
+* [Dominic Barter on why to have conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo&ab_channel=NonviolentCommunicationNVC)
+* [Restorative Justice vs. Conflict Resolution: Assessing for Intervention • Just Outcomes Consulting](https://justoutcomesconsulting.com/resources/restorative-justice-vs-conflict-resolution-assessing-for-intervention) 
+  > While “restorative justice” and “conflict resolution” both deal with issues of crisis in relationship, these disciplines differ somewhat in their basic
+- [Restorative Justice Circles - Office of Student Conflict Resolution](https://oscr.umich.edu/article/restorative-justice-circles) 
 

@@ -43,20 +43,19 @@ Conflict is everywhere, but it's not like I'm gonna have a conflict just because
 
 ![](https://i.imgur.com/mvJ5Uge.png)
 
-[Why is Gravity Relevant in Token Engineering](https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1) Token Engineering Commons
+* [Why is Gravity Relevant in Token Engineering](https://medium.com/token-engineering-commons/why-is-gravity-relevant-in-token-engineering-e28ae4a5b5a1) Token Engineering Commons
 
 (00:10:10)
 **Juan Carlos**:    OK. Yeah. We need to embrace conflict, embrace ourselves, embrace change, and treat ourselves with love and to talk to ourselves without judgment and applying what we learned from the first session that is to have nonviolent communication with others and with ourselves to embrace change and to embrace that nothing is going to be as we think in our minds. 
 
 Reality is so much complex that we should also embrace the other and have empathy for what the other feels and why do the other person stands for their point of view.  
 
-### Conflict is... (according to J.P Lederach)
-
-* Conflict can be understood as **that which keeps relationships and social structures honest, alive, and dynamically responsive** to human needs, aspirations, and growth.
+#### Conflict is... (_according to J.P Lederach_)
+* Conflict can be understood as *that which keeps relationships and social structures honest, alive, and dynamically responsive to human needs*, aspirations, and growth.
 * Conflict flows from life. Rather than seeing conflict as a threat, we can understand it as providing opportunities to grow and increase our understanding of ourselves, of others, and of our social structures. 
 * Conflicts in relationships at all levels are the way life helps us to stop, assess, and take notice. 
-* One way to truly know our humanness is to recognize the gift of conflict in our lives. **Without it, life would be a monotonously flat topography of sameness and our relationships would be woefully superficial.** 
-* Conflict also creates life: through conflict we respond, innovate, and change. 
+* One way to truly know our humanness is to recognize the gift of conflict in our lives. *Without it, life would be a monotonously flat topography of sameness and our relationships would be woefully superficial.* 
+* Conflict also creates life: through conflict we respond, innovate, and change.
 
 Now we are going to start with the first reading that is from Jean Paul Lederach, that I really like. He said that **conflict is what keeps relationships and social structures, wholeness, alive, and dynamically responsive to human needs.** 
 

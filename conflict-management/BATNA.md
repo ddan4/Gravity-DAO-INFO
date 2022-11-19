@@ -1,9 +1,12 @@
-# Negotiations & BATNA (building a bridge)
-
-b) [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing)
-c) [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court)
+# BATNA (building a bridge)
 
 ![](https://i.imgur.com/w8WQLc5.png)
+
+- [BATNA: Best Alternative to a Negotiated Agreement](#batna-best-alternative-to-a-negotiated-agreement)
+- [How to Sustain the Bridge](#how-to-sustain-the-bridge)
+- [Resources](#resources)
+
+## BATNA: Best Alternative to a Negotiated Agreement
 
 (00:22:19)
 **Juan Carlos**:    Now that we are talking about making agreements negotiations, I want to explain this word that is **BATNA**. That is the Best Alternative To a Negotiated Agreement. This is like a very easy graph of how always we have most desired outcomes that sometimes differ and are far from the other one. 
@@ -16,9 +19,9 @@ Now that we are building a bridge, that that is takes us to a best alternative t
 
 (00:25:39)
 
-### How to Sustain the Bridge
+## How to Sustain the Bridge
 
-![](https://i.imgur.com/JXykjUG.png)
+![](https://i.imgur.com/Dy9Zkl8.png)
 
 He's saying how to sustain the bridge here. We are be building a bridge. We are bringing together people that are far away from each other and trying to take them to a agreement and bring them to hospital agreement. Here, yes, we can have, we can build that possible agreement, but the collapse doesn't have to be robust for a sustainable bridge. 
 
@@ -38,33 +41,20 @@ Like here value, it's not like a physical place. It's more like a state of mind 
 
 Sometimes you want to like the things to get addressed really quickly. That harms the conflict. Sometimes we have to let things like calm down and talk to the parties so that, so that the communication can come through.  
 
-# Negotiations & BATNA (building a bridge)
-
 ![](https://i.imgur.com/ZBnl0jG.png)
 
-**b) [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing)** (best alternative to a negotiated agreement)
-
-> A negotiator’s BATNA is the course of action he will pursue if the current negotiation results in an impasse. An evaluation of your best alternative to a deal is critical if you are to establish the threshold at which you will reject an offer. 
-> 
-> Effective negotiators determine their BATNAs before talks begin. When you fail to do so, you’re liable to make a costly mistake—rejecting a deal you should have accepted or accepting one you’d have been wise to reject. In negotiation, it’s important to have high aspirations and to fight hard for a good outcome. But it’s just as critical to establish a walkaway point that is firmly grounded in reality.
-
-**c) [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court)**
-
-> The idea behind the adversary system is that the truth will emerge when opposing sides present their cases as aggressively as possible. Even though this ideal is not always realized, the principle is probably sound. The problem with the adversary method in civil cases is not theoretical but practical. First, it is not the most effective way to resolve some kinds of disputes. Second, it can be made more effective for most kinds of disputes by borrowing certain of the nonadversarial features of other forms of dispute resolution. Third, from both the societal and the individual perspective, we may no longer be able to afford it in its undiluted form.
-
-
-**c) [Make the most of online negotiations](https://drive.google.com/file/d/14hg6FZvWFS15ZbK29YgG3i_NU2hLwnBe/view?usp=sharing)**
+## Resources
+* [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)
+  > i grew up partly in San Francisco and this looks a little bit like the Golden Gate Bridge if you imagine it and getting to yes focuses on techniques for how do you build that bridge. What i've found is that building that bridge is the core of the method of negotiation, but there are two pillars. Those two pillars on either side that are critical if we're going to be successful in getting yes in challenging times
+* [Getting to Yes with Yourself: A Book Talk by William Ury](https://www.youtube.com/watch?v=fghb0-hL5Hw)
+* [Negotiation Insights Series](http://www.negotiatingtheimpossible.com/) by Prof. Deepak Malhotra
+* [What is a BATNA?](https://drive.google.com/file/d/1ZHMyDW-RDgCDc6tkJjOqBdJ096RRerqq/view?usp=sharing) (best alternative to a negotiated agreement)
+  > A negotiator’s BATNA is the course of action he will pursue if the current negotiation results in an impasse. An evaluation of your best alternative to a deal is critical if you are to establish the threshold at which you will reject an offer. 
+  > 
+  > Effective negotiators determine their BATNAs before talks begin. When you fail to do so, you’re liable to make a costly mistake—rejecting a deal you should have accepted or accepting one you’d have been wise to reject. In negotiation, it’s important to have high aspirations and to fight hard for a good outcome. But it’s just as critical to establish a walkaway point that is firmly grounded in reality.
+* [Five ways to keep disputes out of court](https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court) 
+  > The idea behind the adversary system is that the truth will emerge when opposing sides present their cases as aggressively as possible. Even though this ideal is not always realized, the principle is probably sound. The problem with the adversary method in civil cases is not theoretical but practical. First, it is not the most effective way to resolve some kinds of disputes. Second, it can be made more effective for most kinds of disputes by borrowing certain of the nonadversarial features of other forms of dispute resolution. Third, from both the societal and the individual perspective, we may no longer be able to afford it in its undiluted form.
+* [Make the most of online negotiations](https://drive.google.com/file/d/14hg6FZvWFS15ZbK29YgG3i_NU2hLwnBe/view?usp=sharing)
   > While no communication medium is as rich in social cues as face-to-face meetings, some are richer than others. On the phone, we can read a lot into our counterpart’s tone of voice and how quickly they get down to business. On a video conference, we can assess the other party’s receptiveness to a proposal from their smile or, conversely, their crossed arms and frown. Emails and texts tend to be “impoverished” forms of communication because they lack nonverbal and visual cues, though emojis can help.
   > 
-  > Communication media also vary in their synchronicity, or the degree to which people can be engaged in the same activity at the same time. Phone calls, conference calls, and videoconferences—and, to some extent, text messages—allow us to carry on a continuous conversation. By contrast, emails (and sometimes texts) tend to extend the communication process because of delays between messages, note Swaab and Galinsky.\
-
-
-### How to sustain the bridge
-
-![](https://i.imgur.com/Dy9Zkl8.png)
-
-**f) (video) W. Ury [Getting to Yes in Challenging Times](https://youtu.be/-2lcXp-MiVQ?t=749)**
-
-> i grew up partly in San Francisco and this looks a little bit like the Golden Gate Bridge if you imagine it and getting to yes focuses on techniques for how do you build that bridge. What i've found is that building that bridge is the core of the method of negotiation, but there are two pillars. Those two pillars on either side that are critical if we're going to be successful in getting yes in challenging times
-
-![](https://i.imgur.com/J5ZC2GL.png)
+  > Communication media also vary in their synchronicity, or the degree to which people can be engaged in the same activity at the same time. Phone calls, conference calls, and videoconferences—and, to some extent, text messages—allow us to carry on a continuous conversation. By contrast, emails (and sometimes texts) tend to extend the communication process because of delays between messages, note Swaab and Galinsky.

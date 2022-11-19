@@ -256,5 +256,17 @@ As Jill Bolte-Taylor's noted, the physiological lifespan of an emotion in the bo
 * [Anger Management & I Am NOT the Doer – Bhagavad Gītā Meaning (28)](https://www.yesvedanta.com/bg/lesson-28/)
   > Lesson 28 starts out by visually comparing Mind-Intellect-Ego of a samsari (life controlled by desires) – and of a self-actualized person (jīvanmuktaḥ). Then we correct common false notion of limiting Īśvara (God) to space-time. Finally, we discuss what it means to say “I am NOT the doer”. The real doer is Īśvara's laws-orders. This understanding is key to freedom.
 
+## Resources
 
-
+- [Mediation and Mediator Skills: A Critical Appraisal](https://www.researchgate.net/publication/316918509_Mediation_and_Mediator_Skills_A_Critical_Appraisal)
+- [Certify](https://imimediation.org/practitioners/certify/) International Mediation Institute
+- [Advanced_mediation_-eng.pdf](https://drive.google.com/file/d/1My1Em0bpF_N6aa-VknU4MVCCsYNiMeXc/view?usp=drivesdk)
+- [Mediate2Go: Case Management Software for Today's Conflict Professional](https://mediate2go.com)
+  > Mediate2Go offers a free 30 day trial for organizations of all sizes.
+- [Mediate2Go Overview](https://www.youtube.com/watch?v=iuD5m5azAvY) 
+    > Spend more time resolving conflict with Mediate2Go (https://mediate2go.com). Mediate2Go is intuitive case management software for mediators and conflict resol...
+- [Proof of Meditation](https://medium.com/@proof-of-meditation/proof-of-meditation-77c9de937056) 
+  > Proof of Meditation is an app that incentivizes you to meditate and rewards you for your effort.
+- [Welcome! You are invited to join a meeting: Weekly Interpersonal Meditation with the Monastic Academy. ](https://us06web.zoom.us/meeting/register/tZcrdOuuqjwsG9Cx9fsqMmKWZ5Uws_7U3FQ9)
+  > Join us every Friday at 1pm ET to engage in various transformative practices for bringing deep listening, presence, and authenticity into relationship. Using techniques from Circling, Authentic Relating, and other social modalities, you will gain skills for deepening intimacy and nourishment from genuine connection in community. Stephen Torrence, former MAPLE Resident and experienced Circling practitioner, will be leading the sessions and the same zoom link will be utilized each week.
+- [Palouse Mindfulness](https://palousemindfulness.com)

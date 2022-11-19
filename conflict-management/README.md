@@ -1,7 +1,5 @@
 # Conflict Management
 
-- [Gravity easy Step by Step](https://forum.tecommons.org/t/gravity-easy-step-by-step/354)
-  > Functions for Alternative Dispute Resolution in DAOs 1. Identification: One of the parties to a dispute approaches Gravity and requests a mediation. Gravitons can also propose issues to manage and discuss. 2. Screening: The parties provide the Gravitons assigned all the relevant information pertaining to the dispute and are invited to participate in a mediation process 3. Look for solutions: Gravity offers premises to frame the dispute in a non adversarial way and to conduct the mediation pro...
 
 ![](https://i.imgur.com/guO2mKm.png)
 
@@ -9,7 +7,7 @@
 > 
 > The purpose of this training is for you to be able to practice in your everyday life techniques to handle conflict, to communicate mindfully and to make the best of a challenging situation.
 
-**e) [Dana Caspersen’s 17 principles of conflict resolution Summary](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201501/17-rules-guide-you-through-any-conflict)**
+* [Dana Caspersen’s 17 principles of conflict resolution Summary](https://www.psychologytoday.com/us/blog/fulfillment-any-age/201501/17-rules-guide-you-through-any-conflict)**
   > Conflicts trigger our deepest emotions. Just watch two young children battle over the same toy. Filled with sheer rage, they each grab at the toy, and each other, until one of them prevails (or the toy breaks).  Such conflicts set the stage for all of our adult struggles. The words we use may become more sophisticated, but the underlying feelings remain strikingly similar.
   > 
   > The key feature of the new Dana Caspersen’s book, [Changing the Conversation: The 17 Principles of Conflict Resolution](https://danacaspersen.com/book/), in my opinion, is its emphasis on these underlying emotions. This graphically-oriented how-to book takes the reader through her 17 principles in a way that allows you to understand each principle, its “anti-principle,” its focus, specific examples, a way to put it into practice, and the choice it presents.  Drawing from examples that range from relationships to office politics to parenting, Caspersen gives you the chance to understand what’s behind life’s everyday conflicts and how best, in turn, to consider handling them.
@@ -23,15 +21,6 @@
 > **Conflict transformation is a way of looking as well as seeing.**
 > 
 > Conflict transformation is more than a set of specific techniques; it is a way of looking as well as seeing. Looking and seeing both require lenses. So conflict transformation suggests a set of lenses through which we view social conflict.
-
-#### Conflict is... (_according to J.P Lederach_)
-* Conflict can be understood as *that which keeps relationships and social structures honest, alive, and dynamically responsive to human needs*, aspirations, and growth.
-* Conflict flows from life. Rather than seeing conflict as a threat, we can understand it as providing opportunities to grow and increase our understanding of ourselves, of others, and of our social structures. 
-* Conflicts in relationships at all levels are the way life helps us to stop, assess, and take notice. 
-* One way to truly know our humanness is to recognize the gift of conflict in our lives. *Without it, life would be a monotonously flat topography of sameness and our relationships would be woefully superficial.* 
-* Conflict also creates life: through conflict we respond, innovate, and change.
-
-![](assets/conflict-is-everywhere.gif)
 
 #### Transformative approach to conflicts
 * Conflict is an opportunity, a gift. Conflict is normal in human relationships, and conflict is a motor of change.
@@ -217,101 +206,6 @@ Following alternative mechanisms of conflict management, we can propose strategi
 
 Based on: https://dialnet.unirioja.es/descarga/articulo/4182033.pdf
 
-## Draft for the conflict resolution program of the TEC which can eventually support other DAO communities. 
-
-1. We could have conflict management training twice a year, each one ending with a conflict management certification.
-2. People who pass the training and show they have soft skills and understanding of conflict can become part of this trusted group of conflict management supporters for the TEC. 
-3. That will provide the minimum requirements, but then we need to develop a reputation system to promote meritocracy and good will. A person can not be part of the conflict managers more than 3 years in a row to promote rotation and avoid centralization of power. He/she can join again after 1 year of not being part of this group.
-4. Agreements and sanctions as products (actions) of conflict management processes, are registered in the system database (off-chain) with follow up indicators for accountability. - My idea is that we could have some kind of system that holds the proof and information needed to revise and solve cases- maybe?. Ex. A member publishes some information as his own. The community should be able to record the situation, the decision taken for that case, and look for a way to track the progress. 
-5. What type of conflicts will they be able to manage? Mostly common conflicts related to unwanted organizational behavior, disputes between members and non consensual situations.  The objective of this program is to handle small disputes with ease and provide preventive/de-scaling management for bigger issues. 
-6. This is a voluntary process that can be called by one or part, but to proceed there should be recognition of the process by all parts involved.
-7. The conflict management process does not end in agreements or sanctions. After them, there should be Indicators and off-chain follow-up.
-8. The Conflict management process should be rewarded for the people doing this job.
-
-## TABLE 1.5 Steps Typically Used by a Private ADR Center
-* Alternative Dispute Resolution Center Manual A Guide for Practitioners on Establishing and Managing ADR Centers
-
-1. One of the parties to a dispute (referring party) approaches the ADR Center and requests a mediation.
-2. The ADR Center provides a list of names of available mediators from which the parties may elect their mediator.
-3. The parties provide the ADR Center with all the relevant documents pertaining to the dispute, and the ADR Center provides this information to the mediator.
-4. The ADR Center, in consultation with the parties and the chosen mediator, determines the date and place when the mediation will take place. The ADR Center may offer premises for conducting the mediation. A few hours or a number of days may be allocated for the mediation, depending on the complexity of the matter and the number of parties involved.
-5. If the dispute is settled through mediation, the parties enter into a Settlement Agreement. Often the ADR Center will keep a copy of the Settlement Agreement on file for its records.
-6. If the dispute remains unresolved, the referring party may request that the matter be arbitrated by the ADR Center, if this is the agreed process to be followed by the parties (for example, in terms of the contract between the parties). Alternatively, the parties may agree to arbitration. If the parties do not agree to arbitration , they may follow the recognized route for resolving disputes in that jurisdiction (for example, approaching the court for a court order).
-7. Once again, the parties will elect an arbitrator. The arbitrator will conduct the arbitration on a date and at a time as agreed between the parties.
-8. The arbitrator adjudicates the matter and provides an arbitration award, which is normally binding between the parties through operation of law or by agreement of the parties.
-
-## Brainstorms
-Brainstorm with Loie (12 Oct). what does the conflict resolution process include:
-* It’s clear who facilitators/supporters are - ¿should there be rotation /how to do it?
-* Pre-circling (facilitators interview stakeholders)
-Identify the other stakeholders (who else needs to be involved)
-Get a definition of what happened (as neutral as possible - description of events. Helpful here to use Who What Where When questions, no How or Why)
-* All stakeholders need to accept the definition of what happened
-* Circle (meeting with all stakeholders)
-Action Steps (equivalent of justice circles)
-* Set a date in future to evaluate if these have been followed
-Setting a safe space
-* Reminding what our mission/principles are (the stuff that holds us together)
-* Making it clear what pieces are confidential/what aren’t (for example Action Steps may be public but all other elements of the meeting are kept confidential)
-* Facilitator is not a Judge, more of an external person that promotes communication, de-scaling of the problem and searching for solutions within different scopes.
-* Accountability of the agreements/action steps
-What happens if you break the agreements?*** 
-Graduated Sanctions + positive reinforcement 
-* “Post Circle” - 1 month-6 months later check in on if agreements are being followed.
-* Clear process for when & how agreements are revisited/changed
-* It’s an internal program - the facilitators should be IN the community
-
-Clear list of who is this list of people that plays this role in the organization 
-How does it rotate for avoiding power centralizations?
-Knowing when a facilitator is unable to be an impartial third in a situation.
-
-It Could be a little difficult until we have the 1st training. Once people in the community have gotten trained as conflict supporters, we can use people from within the community
-
-### Brainstorm with griff (18th Oct):
-
-Thermometer of unwanted behavior 
-
-If someone disagrees with the group sanction, there can be an arbitrage (like kleros-aragon courts).
-
-### Other Brainstorm points
-
-* Knowing when this process doesn’t apply
-
-### Brainstorm with Livia (28 oct)
-
-#### How Could the cycle be?
-what if for the conflict res we can do something as the Dish prase, but private, like people send their query to a bot, and then a conflict manager contacts him/her for knowing more info on the report.
-
-Then unwanted behavior is measured periodically following tiers, and related to sanctions if needed
-
-like what you and griff to for impact hours, but this would be on reports about disputes
-
-like, i think there should be a distributor figure (cifra repartidora) that distributes equal quantities of cases to this group of people
-
-but they sould have also responbilities as a group, being accountable of some things in the community's well being
-
-i thought about the bot because it's very simple and private, just sending a message connects you to someone that understand that the community's well being is related to individual wellbeing
-
-## Academic references 
-- Harvard’s program on negotiation
-To sign up to receive the Teaching Negotiation Resource Center email newsletter, click here.
-If you would like to learn more about negotiation books, role-play simulations, and other materials available through the Teaching Negotiation Resource Center, you can reach us at tnrc@law.harvard.edu.
-  
-![](https://i.imgur.com/k1o3bNp.png)
-
-Include conflict resolution in Founding documents
-
-The Mexican Cooperative law gives some examples of conflict resolution within a cooperative, I know that law, we can talk on that :) [Am Humberto] - Nice! I’m suggesting monday calls.
-
-Related links
-
-https://oscr.umich.edu/article/restorative-justice-circles
-
-https://hbr.org/1990/01/five-ways-to-keep-disputes-out-of-court
-
-https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/edit# D2D reputation sharing
-
-https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
 
 ## Trusting the process
 (01:08:18)
@@ -377,18 +271,6 @@ https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
 > Societies remain power-elite dominated. The diversion of resources to provide education and other services on an equitable basis is being increasingly resisted. Funds are being cut. There is a retreat to specialization, and a holistic approach to problems is politically unpopular. But if civilizations are to survive the contemporary trend towards increased crime and violence at all social levels has to be dealt with by means which eliminate it, rather than merely contain it within less privileged regions. Civilizations must, if they are to survive, move from power-elite politics to problem-solving. It is the responsibilities of universities in particular to bring these issues to attention, and to give students in all disciplines the opportunity to question, to explore and to innovate. This new a-disciplinary study, Conflict Resolution, provides an opportunity
 
 Maybe when you had that conflict, it seemed something really big and something that wasn't going to solve. Now, you can see that conflict as a gift, as an opportunity that taught you something as an and as an opportunity for you to grow. 
-
-### Theories of Conflict, Antifragility and Conflict management
-**1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
-**2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
-**3. (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)** 
-**4. Taleb, [Antifragile. Things that gain from disorder](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)**
-**5. (Video) [Antifragile](https://www.youtube.com/watch?v=S3REdLZ8Xis)**
-**6. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
-**7. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
-**8. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
-**9. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/DAOnload/pdf/51092982.pdf)** 
-
 
 ### The Dialectic Cycle
 
@@ -549,3 +431,58 @@ the conflict into something constructive. So, yes, that is like then of this ses
 
 Understand How to easily manage conflict. We within other people and to become a negotiator, a negotiator and a mediator that is like the ultimate goal of this, of this trading for you, for these people that we are trading to be trusted people in their communities. to help on the wellbeing of the community as a whole.  
 
+## Resources
+
+- [The Window of tolerance](https://worthit2bme.com/fightflightimmobolize/therapeutic-window-of-tolerance/)
+- Lederach [Summary](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%20):
+- [Antifragile](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing) (pages 16-17) - N. Taleb.
+- [True self and false self in organizations](https://drive.google.com/file/d/1aXszmXnVCF_LN09mqBs_goDBR0cCj1Ay/view?usp=sharing) (Just read the conclusions)
+- [Ho’oponopono reconciliation ritual 3](https://www.youtube.com/watch?v=OAuWRuU4uzA)
+- [Jur](https://jur.io/) – Justice. Decentralized
+- [Conflict Resolution: Towards Problem Solving – John Burton](https://core.ac.uk/download/pdf/51092982.pdf)
+- [How to solve conflict in a community of equals](https://media.ccc.de/v/rc3-channels-2020-125-how-to-solve-conflict-in-a-community-of-equals) 
+  > This talk provides a practical guide for how to solve interpersonal conflict in communities with a loose structure such as do-ocracy or anarchy
+- [The Great Courses - Art of Conflict Managment](https://www.thegreatcourses.com/courses/art-of-conflict-management-achieving-solutions-for-life-work-and-beyond) 
+- [Dominic Barter - Dedicated spaces for having conflicts](https://www.youtube.com/watch?v=xhi8sxCPkvo) 
+- [Dominic Barter - Understanding justice as a system](https://www.youtube.com/watch?v=z-CIeYopMnM) 
+- [A New Way to Look at Conflict Resolution - How to Have Healthy Workplace & Community Relationships](https://www.youtube.com/watch?v=SNw1z3VDWsI) 
+  > Looking for a new way to look at conflict resolution in 2020? What is conflict, what causes it, and how can it be resolved? This video is all about having th...
+- [Potential in the ebb and the flaw](https://thinkingthursdays.substack.com/p/potential-in-the-ebb-and-the-flaw?s=w) 
+  > Conflict is an opportunity and we might even need metrics for it
+- [ConflictManagementQuestionnaireInfo.pdf](https://drive.google.com/file/d/1F_RlybbM-VJNzwSR5kVm9HpSEIt14Hp0/view?usp=drivesdk)
+  > The Conflict Management Formative Questionnaire is designed to measure a student’s proficiency in the three essential components of conflict management, which are:
+  > 1. Understand your natural response to conflict.
+  > 2. Understand the context of the conflict, including the perspectives of all involved.
+  > 3. Apply a conflict management approach that is appropriate to the situation.
+- [estimating-the-costs-of-workplace-conflict.pdf](https://drive.google.com/file/d/1NrYQn9m78oh3MO4vucEyX-CpgPwP3Ush/view?usp=drivesdk)
+  > In particular, it is argued that organisations have tended to place too much emphasis on developing leaders concerned with strategy, while overlooking the importance of encouraging excellence in core management practices such as the management of poor performance, which are incorrectly seen as 'basic' and 'easy to replicate' (see endnote 3).
+- [The Art of Conflict Management: Achieving Solutions for Life, Work, and Beyond](https://drive.google.com/file/d/1pSDbTy_lWK2IT2tmxA64nbcD1SX66WVf/view?usp=drivesdk)
+- [Conflictology_Vinyamata_2010.pdf](https://drive.google.com/file/d/1-VJKNldCZcQ1Rx4_D4UbqI1287QQHWvl/view?usp=drivesdk)
+- [ensayo_conflicto.docx](https://docs.google.com/document/d/1UwJUwGTjvXdvz1xvSxG-J_6qlZWyo0k4/edit?usp=drivesdk&ouid=103365208332858066119&rtpof=true&sd=true)
+- [conflictos_y_estrategia.pptx](https://docs.google.com/presentation/d/1L_JV_6FtwaZqa0CBb7KYbBAulx5wpI7r/edit?
+- [Methodological guide for conflict analysis Juan_Bell](https://drive.google.com/file/d/1LWrfda76p6Qc57Uzt-SagkimYGiBHmcs/edit) 
+
+##  references 
+- Harvard’s program on negotiation
+- The Mexican Cooperative law gives some examples of conflict resolution within a cooperative
+- [Restorative Justice Circles](https://oscr.umich.edu/article/restorative-justice-circles)
+- https://docs.google.com/document/d/18GF3f130miEsaASw-TRCHR-qRtbL8y-UsfusV7pXuZg/edit# D2D reputation sharing
+- https://handbook.enspiral.com/agreements/catalyst Enspiral “catalyst”
+
+## Conflict Transformation
+- [Little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf) (Lederach)
+- [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach%2520) By John Paul Lederach , Michelle Maiese
+- [Conflict Transformation by Peaceful Means](https://www.issuelab.org/resources/19719/19719.pdf)
+- [The little book of conglict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)
+- [Comentando el libro “Transformación de Conflictos” Pequeño manual de uso de John Paul Lederach.](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)
+
+### Theories of Conflict, Antifragility and Conflict management
+**1. J. Paul Lederach, [little book of conflict transformation](https://professorbellreadings.files.wordpress.com/2017/10/the-little-books-of-justice-peacebuilding-john-lederach-the-little-book-of-conflict-transformation-good-books-2014-1.pdf)**
+**2. Lederach Summary: [Conflict Transformation](http://peacebuildingforlanguagelearners.pbworks.com/w/file/fetch/73426925/Lederach) By John Paul Lederach , Michelle Maiese**
+**3. (Español) [Resumen del libro de Lederach](https://drive.google.com/file/d/1bY_IQUtQeV76mbuLp4s6sRbrAFDOGVx-/view?usp=sharing)** 
+**4. Taleb, [Antifragile. Things that gain from disorder](https://drive.google.com/file/d/1KiuG5ye52VikNqPPBCvm2D0AxvcJBNrm/view?usp=sharing)**
+**5. (Video) [Antifragile](https://www.youtube.com/watch?v=S3REdLZ8Xis)**
+**6. [Conflict management and peacebuilding in everyday life](https://www.reddbarna.no/Media/dokumenter/ResourceKit-web.pdf)**
+**7. Galtung, [Conflict transformation by peaceful means](https://www.transcend.org/pctrcluj2004/TRANSCEND_manual.pdf)**
+**8. (Español) [Qué son los conflictos](https://drive.google.com/file/d/1ovWrJw3w6t-opZQyB_fys71WbZnZ7we4/view?usp=sharing)** - Francisco A. Muñoz
+**9. [Burton, Conflict resolution: Towards problem solving](https://core.ac.uk/DAOnload/pdf/51092982.pdf)** 

@@ -49,9 +49,7 @@ The second group explores how to design and embed ecosystem systems and structur
 ## Transcription
 
 (00:00:02)    
-**Anna Marie**:    There's a quote that I wanted to read. Then, Nate's gonna go through some particular teachings with you. This is from a book called he by Brian J. Robertson. It's highly recommended if you don't know it.
-
-> Sometimes the conflicts we have in organizational life are actually clashes of the roles involved.
+**Anna Marie**:    This is from a book called he by Brian J. Robertson. It's highly recommended if you don't know it.
 
 Sometimes the conflicts we have in organizational life are actually clashes of the roles involved, but we mistake them for clashes between the people filling these roles. Such conflicts become unnecessarily personal. 
 
