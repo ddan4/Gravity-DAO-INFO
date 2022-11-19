@@ -1,4 +1,34 @@
-# My Relationship with Conflict
+# People
+
+- [Juan Carlos](#juan-carlos)
+- [LOIE](#loie)
+- [Durgadas](#durgadas---my-relationship-with-conflict)
+
+## Juan Carlos
+
+**Juan Carlos**:
+I am going to start telling a bit about myself. I studied two years of philosophy and then I moved to political sciences and then I started specialization in sustainable development, then in environmental law. Then I study a Masters in conflict management. 
+
+I am very passionate of studying conflict and I have found it to be something that can be applied in our everyday life and in our organizations. 
+
+(01:01:50)
+**Juan Carlos**:  I want to share with you like my personal experience. I had a restaurant like five years ago and the restaurant was going good. But I felt that if I stood, like with that restaurant, I wasn't going to like, achieve all of my goals. When I decided to close that restaurant, it was a big conflict for me because I decided it to start doing other, other things.  
+
+(01:03:13)
+**Juan Carlos**:    And I didn't have like that economical sustain that the restaurant gave me. It was really hard for me, but right now I can see that conflict that I had as a gift, because that has brought me to enter into the academic world in universities, and also to be entering here in this, in, in this, the community.
+
+## LOIE
+
+(00:01:38)    
+Welcome to those of you who are pinging in just now, I'm Loie. I have been really interested in conflict resolution since I was a teenager, really. Back when I was about 19, I got involved with a restorative justice group in Seattle and actually was able to help found the first restorative justice organization in my city, where we took cases of young adults out of the criminal justice system and offered them to divert into this process. 
+
+That's essentially more like a healing talking circle and that was super valuable experience for me and ever since I started studying and working with them in my community, I became known as a conflict resolution person and my community called upon me in some pretty intense ways to draft up accountability processes. 
+
+I ended up traveling up and down the west coast for some of the conflicts that I was dealing with gathering case notes and connecting victims. Conflict resolution has always been really important to me. 
+
+It comes from my family systems as well. As a child being a smoother over of things. I'm a mediator and yeah, this is just a super big part of my heart and my life and what I offer to the world. I feel like I'm just constantly learning about it and there's no way to really ever become an expert. 
+
+## Durgadas - My Relationship with Conflict
 
 > What I have learned from him as a person that has a Masters in Conflict Management is that sometimes we focus on addressing conflict when it arises, but it's also very important to prevent conflict and to understand that the conflicts are, are not an expression of duality, but also an expression of our inner self - JuanC
 
