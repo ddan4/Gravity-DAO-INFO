@@ -1,4 +1,5 @@
-# Personal Development
+# Personal Development \ Wellbeing
+
 
 - [Transformational Dialogues](http://worldtrans.org/TP/TP1/TP1TOP.HTML) - An instruction manual of practical techniques for facilitating personal change
   - [Polarity Integration](http://worldtrans.org/TP/TP1/TP1-109.HTML) 
@@ -33,6 +34,7 @@
 - [Academy of Ideas](https://academyofideas.com/members)
   > Courses include: Overcoming Addiction, Cultivating Heroic Manhood, How to Unleash Your Potential, The Power of the Unconscious, and 8 others. Membership courses and videos are downloadable for offline viewing Access all
 - [SHAOLIN MASTER - Shi Heng Yi 2021 - Full Interview With the MulliganBrothers](https://www.youtube.com/watch?v=bhdeUspmMP0) 
+- [Remote work Sleep Burnout](https://docs.google.com/presentation/d/1yU8RZFWbnSE_J1wuIxhTA6wNW0Ma2LTRxDi_nexIbdo)
 
 ### Shadow Work
 - [What Is SHADOW WORK? [5 Effective Ways To Do It!]](https://www.youtube.com/watch?v=5kDN7g9kBAs) 

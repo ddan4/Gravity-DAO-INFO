@@ -28,7 +28,7 @@ I ended up traveling up and down the west coast for some of the conflicts that I
 
 It comes from my family systems as well. As a child being a smoother over of things. I'm a mediator and yeah, this is just a super big part of my heart and my life and what I offer to the world. I feel like I'm just constantly learning about it and there's no way to really ever become an expert. 
 
-## Durgadas - My Relationship with Conflict
+## Durgadas
 
 > What I have learned from him as a person that has a Masters in Conflict Management is that sometimes we focus on addressing conflict when it arises, but it's also very important to prevent conflict and to understand that the conflicts are, are not an expression of duality, but also an expression of our inner self - JuanC
 
@@ -45,7 +45,7 @@ Then the second part is how I went from my own inner conflicts to dealing with t
 
 Then I'll give a "theory of everything"  to contextualize, we find ourselves in different conflictual situations in a very large context. Speaking for myself, I'm somebody who is 52 years old. 
 
-### Individual
+#### Individual
 I'm a lifelong second generation geek who grew up playing hangman on a punch card mainframe. My dad was a computer programmer for a Cobal programmer for Citibank.  
 
 I've literally been in tech since I was probably six years old. More than that, being on the autism spectrum and not learning about it until I was in my forties meant that I had a lot of conflict in my life because I was constantly bullied for thinking differently and behaving differently according to society. 
@@ -84,8 +84,7 @@ One further thing I'll say is once I left the ashram, I founded a couple of nonv
 
 My name's Regis Chapman, you can call me Durga dos. I spent 10 years building this building. You kind see behind me, it's all made outta mud and clay and straw and fantastic. I, so I'm also working with some of the other people on this call in various capacities, Sean, with his cryptocurrency company, grace, we're working together on trying to talk about autism together. 
 
-
-## Durgadas Story
+### Durgadas Story
 What you basically have to do is in my case, I was offered a physics scholarship to Notre Dame when I came out of high school. 
 
 I had been bullied for so long, by so many different people in so many different schools, I just said, I can't possibly ever go to another school. The physics professor himself was gonna pay for my education. I don't know if you understand how much money that is even back in the eighties, but that's hundreds of thousands of dollars to go to an Ivy league school Notre Dame. Right. 
@@ -98,3 +97,35 @@ That continued right up until i was 32 years old when i decided i was going to l
 
 that's why self-knowledge is so important that's why self-compassion is so important that's why being able to turn and face and look at this stuff and you can't do it unless you know who you are and that's why over and over if you look at all of my quora answers i say find a teacher learn yourself and let me know if i can help those are the three things that i always talk about and self-knowledge is the single most important thing in life and it will
 always be that way
+
+### Irene
+
+Hello everybody. I am a therapist and I work with trauma, and the modality that I use is called Somatic Experiencing. I also have a bit of sensory motor approach and hakomi approach and polyvagal. I work this way because I have found, from my own experience, that when you address experience in the body is where things really can be different. 
+
+When I tried talk therapy, nothing changed. In trauma specifically, it's not mental only thing, it's an experience that it's imprinted in the body. That's why I like this modality so much because of their effectiveness in the, in changing the experience. Yes, that's about it. 
+
+### David 
+
+I've been in the blockchain space for like four since like 2017. That's also coincided with my personal recovery from alcoholism and drug abuse. In that time I've just done tons of study into just changing my awareness and changing my frame of mind, how and live. 
+
+Nonviolent Communication has been a really important part of that for me. It's a really useful framework, not just as a communication style practice that can be really beneficial, but even just understanding the principles behind it, that we take ownership of our feelings and we get clear about our needs and these things are just really healthy for our emotional intelligence, our emotional life, and how we interact with people on a day to day. I'm also very in into psychology, generally speaking. 
+
+Specifically lately I've been into ifs internal family systems, EMDR, neurolinguistic programming (NLP), cognitive behavioral therapy (CBT) and really getting down to what are the mental models that we can take from psychology that are people really need in today's world to know themselves better. Then what are the practices that are really game changing to have the most positive, optimal state of mind so we can do the things that we wanna do.  
+
+
+### Marcelo
+
+(13:23)    
+**Marcelo**:    Thank you. I'm Marcelo Tavaris. I'm a professor at University of Brazil, and I'm a clinical psychologist. I've been working with suicide prevention and crisis intervention for some time now. I feel like I have a passion for working with people who have come to this situation where suffering becomes unbearable and something must happen or must some change, significant change in life is necessary for them to go on. 
+
+It's incredible experience when you can see these people connecting with life again, reconnecting with themselves, with their own experience. It's personally also an experience that enriches my life personally. It's something that keeps me going as well. 
+
+Not just that, the idea of helping people but a person gaining from it. As a professor, I also have personal connection with the process of witnessing people, learning to understand more about how we function in everyday lives as to make life better for us, for ourselves and for others. That's what keeps me going.  
+
+### Angie
+
+**Angie**:    Hi everybody, I'm Angie. I'm from Mexico and I am a part of the communications team in Token engineering. I also share with Bianca this space in Gravity where we have this monthly event called Mental health, Take care of your Mind, which is a safe space for people to come and express themselves and help them in any way we can. 
+
+I wanted to share that every community member should be prepared to how to respond or even help someone in crisis in the most appropriate way. Because every word that comes out of one's mouth can have a profound effect on someone. 
+
+It's important we are all in a positive and safe environment and make people feel like they can ask for help openly and without feeling like a burden or judged. We have a series of questions to ask our special guests. 
